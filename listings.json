@@ -432,6 +432,18 @@
     "date_added": "2026-09-03"
   },
   {
+    "name": "HackPrinceton",
+    "organizer": "Princeton University",
+    "location": "Princeton, NJ",
+    "mode": "In-Person",
+    "start_date": "2026-09-03",
+    "end_date": "2026-09-03",
+    "open_to": "College",
+    "prize_pool": "Unknown",
+    "url": "https://hackprinceton.com",
+    "date_added": "2026-09-03"
+  },
+  {
     "name": "PennApps",
     "organizer": "University of Pennsylvania",
     "location": "Philadelphia, PA",
