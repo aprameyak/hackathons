@@ -948,6 +948,18 @@
     "date_added": "2026-09-03"
   },
   {
+    "name": "ETHGlobal NYC",
+    "organizer": "ETHGlobal",
+    "location": "New York, NY",
+    "mode": "In-Person",
+    "start_date": "2026-09-03",
+    "end_date": "2026-09-03",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://ethglobal.com/events/newyork2026",
+    "date_added": "2026-09-03"
+  },
+  {
     "name": "PennApps",
     "organizer": "University of Pennsylvania",
     "location": "Philadelphia, PA",
