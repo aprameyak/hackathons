@@ -1068,6 +1068,18 @@
     "date_added": "2026-09-03"
   },
   {
+    "name": "Civic Hack DC",
+    "organizer": "Code for DC",
+    "location": "Washington, DC",
+    "mode": "In-Person",
+    "start_date": "2026-09-03",
+    "end_date": "2026-09-03",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://civichackdc.com",
+    "date_added": "2026-09-03"
+  },
+  {
     "name": "PennApps",
     "organizer": "University of Pennsylvania",
     "location": "Philadelphia, PA",
