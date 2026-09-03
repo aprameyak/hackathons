@@ -564,6 +564,18 @@
     "date_added": "2026-09-03"
   },
   {
+    "name": "Bitcamp",
+    "organizer": "University of Maryland",
+    "location": "College Park, MD",
+    "mode": "In-Person",
+    "start_date": "2026-09-03",
+    "end_date": "2026-09-03",
+    "open_to": "College",
+    "prize_pool": "Unknown",
+    "url": "https://bit.camp",
+    "date_added": "2026-09-03"
+  },
+  {
     "name": "PennApps",
     "organizer": "University of Pennsylvania",
     "location": "Philadelphia, PA",
