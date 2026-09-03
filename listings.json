@@ -732,6 +732,18 @@
     "date_added": "2026-09-03"
   },
   {
+    "name": "WashUHacks",
+    "organizer": "Washington University in St. Louis",
+    "location": "St. Louis, MO",
+    "mode": "In-Person",
+    "start_date": "2026-09-03",
+    "end_date": "2026-09-03",
+    "open_to": "College",
+    "prize_pool": "Unknown",
+    "url": "https://washu.edu/hackathon",
+    "date_added": "2026-09-03"
+  },
+  {
     "name": "PennApps",
     "organizer": "University of Pennsylvania",
     "location": "Philadelphia, PA",
