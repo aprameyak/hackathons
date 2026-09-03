@@ -636,6 +636,18 @@
     "date_added": "2026-09-03"
   },
   {
+    "name": "SpartaHack",
+    "organizer": "Michigan State University",
+    "location": "East Lansing, MI",
+    "mode": "In-Person",
+    "start_date": "2026-09-03",
+    "end_date": "2026-09-03",
+    "open_to": "College",
+    "prize_pool": "Unknown",
+    "url": "https://spartahack.com",
+    "date_added": "2026-09-03"
+  },
+  {
     "name": "PennApps",
     "organizer": "University of Pennsylvania",
     "location": "Philadelphia, PA",
