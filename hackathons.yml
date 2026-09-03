@@ -1,0 +1,455 @@
+hackathons:
+  # ── Northeast ────────────────────────────────────────────────
+  - name: HackMIT
+    organizer: MIT
+    url: https://hackmit.org
+    location: Cambridge, MA
+    mode: In-Person
+    open_to: College
+
+  - name: HackHarvard
+    organizer: Harvard University
+    url: https://hackharvard.io
+    location: Cambridge, MA
+    mode: In-Person
+    open_to: College
+
+  - name: PennApps
+    organizer: University of Pennsylvania
+    url: https://pennapps.com
+    location: Philadelphia, PA
+    mode: In-Person
+    open_to: College
+
+  - name: HackPrinceton
+    organizer: Princeton University
+    url: https://hackprinceton.com
+    location: Princeton, NJ
+    mode: In-Person
+    open_to: College
+
+  - name: HackRU
+    organizer: Rutgers University
+    url: https://hackru.org
+    location: New Brunswick, NJ
+    mode: In-Person
+    open_to: College
+
+  - name: HackNYU
+    organizer: New York University
+    url: https://hacknyu.org
+    location: New York, NY
+    mode: In-Person
+    open_to: College
+
+  - name: HopHacks
+    organizer: Johns Hopkins University
+    url: https://hophacks.com
+    location: Baltimore, MD
+    mode: In-Person
+    open_to: College
+
+  - name: HackUMBC
+    organizer: UMBC
+    url: https://hackumbc.com
+    location: Baltimore, MD
+    mode: In-Person
+    open_to: College
+
+  - name: SteelHacks
+    organizer: University of Pittsburgh
+    url: https://steelhacks.com
+    location: Pittsburgh, PA
+    mode: In-Person
+    open_to: College
+
+  - name: HackCMU
+    organizer: Carnegie Mellon University
+    url: https://hack.cmu.edu
+    location: Pittsburgh, PA
+    mode: In-Person
+    open_to: College
+
+  - name: YHack
+    organizer: Yale University
+    url: https://yhack.org
+    location: New Haven, CT
+    mode: In-Person
+    open_to: College
+
+  - name: HackBU
+    organizer: Boston University
+    url: https://hackbu.org
+    location: Boston, MA
+    mode: In-Person
+    open_to: College
+
+  - name: HackUMass
+    organizer: UMass Amherst
+    url: https://hackumass.com
+    location: Amherst, MA
+    mode: In-Person
+    open_to: College
+
+  - name: BostonHacks
+    organizer: Boston University
+    url: https://bostonhacks.io
+    location: Boston, MA
+    mode: In-Person
+    open_to: College
+
+  - name: HackHolyoke
+    organizer: Mount Holyoke College
+    url: https://hackholyoke.com
+    location: South Hadley, MA
+    mode: In-Person
+    open_to: College
+
+  # ── Mid-Atlantic / Southeast ─────────────────────────────────
+  - name: Bitcamp
+    organizer: University of Maryland
+    url: https://bit.camp
+    location: College Park, MD
+    mode: In-Person
+    open_to: College
+
+  - name: TerrapinHacks
+    organizer: University of Maryland
+    url: https://terrapinhacks.com
+    location: College Park, MD
+    mode: In-Person
+    open_to: College
+
+  - name: George Hacks
+    organizer: George Mason University
+    url: https://georgehacks.com
+    location: Fairfax, VA
+    mode: In-Person
+    open_to: College
+
+  - name: VTHacks
+    organizer: Virginia Tech
+    url: https://vthacks.com
+    location: Blacksburg, VA
+    mode: In-Person
+    open_to: College
+
+  - name: HackViolet
+    organizer: Virginia Tech
+    url: https://hackviolet.org
+    location: Blacksburg, VA
+    mode: In-Person
+    open_to: College
+
+  - name: SwampHacks
+    organizer: University of Florida
+    url: https://swamphacks.com
+    location: Gainesville, FL
+    mode: In-Person
+    open_to: College
+
+  - name: SpartaHack
+    organizer: Michigan State University
+    url: https://spartahack.com
+    location: East Lansing, MI
+    mode: In-Person
+    open_to: College
+
+  - name: HackGT
+    organizer: Georgia Tech
+    url: https://hackgt.com
+    location: Atlanta, GA
+    mode: In-Person
+    open_to: College
+
+  - name: HackNC
+    organizer: UNC Chapel Hill
+    url: https://hacknc.com
+    location: Chapel Hill, NC
+    mode: In-Person
+    open_to: College
+
+  - name: PackHacks
+    organizer: NC State University
+    url: https://packhacks.com
+    location: Raleigh, NC
+    mode: In-Person
+    open_to: College
+
+  # ── Midwest ──────────────────────────────────────────────────
+  - name: MHacks
+    organizer: University of Michigan
+    url: https://mhacks.org
+    location: Ann Arbor, MI
+    mode: In-Person
+    open_to: College
+
+  - name: WildHacks
+    organizer: Northwestern University
+    url: https://wildhacks.net
+    location: Evanston, IL
+    mode: In-Person
+    open_to: College
+
+  - name: HackIllinois
+    organizer: University of Illinois
+    url: https://hackillinois.org
+    location: Champaign, IL
+    mode: In-Person
+    open_to: College
+
+  - name: HackUTD
+    organizer: UT Dallas
+    url: https://hackutd.co
+    location: Dallas, TX
+    mode: In-Person
+    open_to: College
+
+  - name: HackTX
+    organizer: UT Austin
+    url: https://hacktx.com
+    location: Austin, TX
+    mode: In-Person
+    open_to: College
+
+  - name: HackKU
+    organizer: University of Kansas
+    url: https://hackku.org
+    location: Lawrence, KS
+    mode: In-Person
+    open_to: College
+
+  - name: HackCU
+    organizer: University of Colorado Boulder
+    url: https://hackcu.org
+    location: Boulder, CO
+    mode: In-Person
+    open_to: College
+
+  - name: WashUHacks
+    organizer: Washington University in St. Louis
+    url: https://washu.edu/hackathon
+    location: St. Louis, MO
+    mode: In-Person
+    open_to: College
+
+  - name: HackOHI/O
+    organizer: Ohio State University
+    url: https://hack.osu.edu
+    location: Columbus, OH
+    mode: In-Person
+    open_to: College
+
+  - name: HackPSU
+    organizer: Penn State University
+    url: https://hackpsu.org
+    location: State College, PA
+    mode: In-Person
+    open_to: College
+
+  # ── West Coast ───────────────────────────────────────────────
+  - name: CalHacks
+    organizer: UC Berkeley
+    url: https://calhacks.io
+    location: Berkeley, CA
+    mode: In-Person
+    open_to: College
+
+  - name: TreeHacks
+    organizer: Stanford University
+    url: https://treehacks.com
+    location: Stanford, CA
+    mode: In-Person
+    open_to: College
+
+  - name: LAHacks
+    organizer: UCLA
+    url: https://lahacks.com
+    location: Los Angeles, CA
+    mode: In-Person
+    open_to: College
+
+  - name: HackSC
+    organizer: USC
+    url: https://hacksc.com
+    location: Los Angeles, CA
+    mode: In-Person
+    open_to: College
+
+  - name: DiamondHacks
+    organizer: UC San Diego
+    url: https://diamondhacks.acmucsd.com
+    location: San Diego, CA
+    mode: In-Person
+    open_to: College
+
+  - name: HackDavis
+    organizer: UC Davis
+    url: https://hackdavis.io
+    location: Davis, CA
+    mode: In-Person
+    open_to: College
+
+  - name: HackMerced
+    organizer: UC Merced
+    url: https://hackmerced.com
+    location: Merced, CA
+    mode: In-Person
+    open_to: College
+
+  - name: CruzHacks
+    organizer: UC Santa Cruz
+    url: https://cruzhacks.com
+    location: Santa Cruz, CA
+    mode: In-Person
+    open_to: College
+
+  - name: HackUCI
+    organizer: UC Irvine
+    url: https://hack.ics.uci.edu
+    location: Irvine, CA
+    mode: In-Person
+    open_to: College
+
+  - name: SBHacks
+    organizer: UC Santa Barbara
+    url: https://sbhacks.com
+    location: Santa Barbara, CA
+    mode: In-Person
+    open_to: College
+
+  - name: DubHacks
+    organizer: University of Washington
+    url: https://dubhacks.co
+    location: Seattle, WA
+    mode: In-Person
+    open_to: College
+
+  - name: HackPortland
+    organizer: Portland State University
+    url: https://hackportland.com
+    location: Portland, OR
+    mode: In-Person
+    open_to: College
+
+  # ── Canada ───────────────────────────────────────────────────
+  - name: Hack the North
+    organizer: University of Waterloo
+    url: https://hackthenorth.com
+    location: Waterloo, ON
+    mode: In-Person
+    open_to: College
+
+  - name: UofTHacks
+    organizer: University of Toronto
+    url: https://uofthacks.com
+    location: Toronto, ON
+    mode: In-Person
+    open_to: College
+
+  - name: QHacks
+    organizer: Queen's University
+    url: https://qhacks.io
+    location: Kingston, ON
+    mode: In-Person
+    open_to: College
+
+  - name: nwHacks
+    organizer: UBC
+    url: https://nwhacks.io
+    location: Vancouver, BC
+    mode: In-Person
+    open_to: College
+
+  - name: DeltaHacks
+    organizer: McMaster University
+    url: https://deltahacks.com
+    location: Hamilton, ON
+    mode: In-Person
+    open_to: College
+
+  # ── Corporate / Industry ─────────────────────────────────────
+  - name: ETHGlobal NYC
+    organizer: ETHGlobal
+    url: https://ethglobal.com/events/newyork2026
+    location: New York, NY
+    mode: In-Person
+    open_to: All
+
+  - name: ETHGlobal San Francisco
+    organizer: ETHGlobal
+    url: https://ethglobal.com/events/sanfrancisco2026
+    location: San Francisco, CA
+    mode: In-Person
+    open_to: All
+
+  - name: ETHGlobal Brussels
+    organizer: ETHGlobal
+    url: https://ethglobal.com/events/brussels
+    location: Brussels, Belgium
+    mode: In-Person
+    open_to: All
+
+  - name: ETHGlobal Bangkok
+    organizer: ETHGlobal
+    url: https://ethglobal.com/events/bangkok
+    location: Bangkok, Thailand
+    mode: In-Person
+    open_to: All
+
+  - name: AWS Build On
+    organizer: Amazon Web Services
+    url: https://aws.amazon.com/events/build-on
+    location: Virtual
+    mode: Virtual
+    open_to: All
+
+  - name: Google Solution Challenge
+    organizer: Google
+    url: https://developers.google.com/community/gdsc-solution-challenge
+    location: Virtual
+    mode: Virtual
+    open_to: College
+
+  - name: Microsoft Imagine Cup
+    organizer: Microsoft
+    url: https://imaginecup.microsoft.com
+    location: Virtual
+    mode: Hybrid
+    open_to: College
+
+  - name: Salesforce Hackathon
+    organizer: Salesforce
+    url: https://developer.salesforce.com/hackathon
+    location: Virtual
+    mode: Virtual
+    open_to: All
+
+  # ── Virtual / Online ─────────────────────────────────────────
+  - name: WaffleHacks
+    organizer: WaffleHacks
+    url: https://wafflehacks.org
+    location: Virtual
+    mode: Virtual
+    open_to: High School
+
+  - name: Hack Club Arcade
+    organizer: Hack Club
+    url: https://hackclub.com/arcade
+    location: Virtual
+    mode: Virtual
+    open_to: High School
+
+  - name: Congressional App Challenge
+    organizer: US House of Representatives
+    url: https://congressionalappchallenge.us
+    location: Virtual
+    mode: Virtual
+    open_to: High School
+
+  - name: Civic Hack DC
+    organizer: Code for DC
+    url: https://civichackdc.com
+    location: Washington, DC
+    mode: In-Person
+    open_to: All

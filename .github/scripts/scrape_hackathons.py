@@ -8,10 +8,12 @@ import datetime
 from pathlib import Path
 
 import requests
+import yaml
 from bs4 import BeautifulSoup
 
 LISTINGS_FILE = Path('listings.json')
 SEEN_FILE = Path('.github/data/seen_hackathons.json')
+KNOWN_FILE = Path('hackathons.yml')
 
 REQUEST_TIMEOUT = 15
 REQUEST_DELAY = 0.5
@@ -35,7 +37,10 @@ def save_json(path: Path, data):
 def normalize_url(url: str) -> str:
     if not url:
         return ''
-    return url.strip().split('?')[0].rstrip('/')
+    url = url.strip().split('?')[0].rstrip('/')
+    if url.startswith('http://'):
+        url = 'https://' + url[7:]
+    return url
 
 
 def is_past(end_date: str) -> bool:
@@ -555,6 +560,34 @@ def scrape_competitor_repos() -> list:
     return results
 
 
+def scrape_known() -> list:
+    if not KNOWN_FILE.exists():
+        return []
+    with open(KNOWN_FILE) as f:
+        data = yaml.safe_load(f)
+    results = []
+    for h in data.get('hackathons', []):
+        name = h.get('name', '').strip()
+        url = normalize_url(h.get('url', '').strip())
+        if not name or not url:
+            continue
+        results.append({
+            'name': name,
+            'organizer': h.get('organizer', 'Unknown').strip(),
+            'location': h.get('location', 'Unknown').strip(),
+            'mode': h.get('mode', 'In-Person'),
+            'start_date': TODAY,
+            'end_date': TODAY,
+            'open_to': h.get('open_to', 'All'),
+            'prize_pool': 'Unknown',
+            'url': url,
+            'date_added': TODAY,
+            '_source': 'known',
+        })
+    print(f'Known hackathons: {len(results)} entries')
+    return results
+
+
 def seen_key(entry: dict) -> str:
     url_norm = normalize_url(entry.get('url', ''))
     if url_norm:
@@ -567,6 +600,7 @@ def main():
     seen = load_json(SEEN_FILE, {})
 
     candidates = []
+    candidates.extend(scrape_known())
     candidates.extend(scrape_mlh())
     candidates.extend(scrape_devpost())
     candidates.extend(scrape_devfolio())
