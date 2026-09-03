@@ -1,10 +1,4 @@
 #!/usr/bin/env python3
-"""
-Rebuild README.md table between TABLE_START listings / TABLE_END listings
-from listings.json. Also updates the <!-- STATS --> line.
-
-Run from repo root: python3 .github/scripts/rebuild_readme.py
-"""
 
 import json
 import re
@@ -26,7 +20,6 @@ def format_date(date_str: str) -> str:
 
 
 def format_dates(start: str, end: str) -> str:
-    """Format date range like 'Sep 19 – 20, 2026' or 'Feb 14 – 16, 2027'."""
     try:
         s = datetime.strptime(start, '%Y-%m-%d')
         e = datetime.strptime(end, '%Y-%m-%d')
@@ -52,7 +45,7 @@ def apply_btn(url: str) -> str:
 
 def is_upcoming(entry: dict) -> bool:
     try:
-        return entry['start_date'] >= TODAY
+        return entry['end_date'] >= TODAY
     except Exception:
         return False
 

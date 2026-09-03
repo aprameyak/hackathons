@@ -1,21 +1,6 @@
 #!/usr/bin/env python3
-"""
-Scrape multiple sources for upcoming hackathons and add new entries to
-listings.json. Called by GitHub Actions (scrape-hackathons.yml) and by
-run_scrape.py for local runs.
-
-Sources:
-  1. MLH           — https://mlh.io/seasons/2027/events (and 2026)
-  2. Devpost API   — https://devpost.com/api/hackathons?...
-  3. Devfolio API  — https://devfolio.co/api/search/hackathons?...
-  4. HackClub      — https://hackathons.hackclub.com
-  5. Competitor repos — markdown table parsing
-
-Run from repo root: python3 .github/scripts/scrape_hackathons.py
-"""
 
 import json
-import os
 import re
 import subprocess
 import time
@@ -33,10 +18,6 @@ REQUEST_DELAY = 0.5
 
 TODAY = datetime.date.today().isoformat()
 
-
-# ---------------------------------------------------------------------------
-# Helpers
-# ---------------------------------------------------------------------------
 
 def load_json(path: Path, default):
     if path.exists():
@@ -58,7 +39,6 @@ def normalize_url(url: str) -> str:
 
 
 def is_past(end_date: str) -> bool:
-    """Return True if the hackathon has already ended."""
     try:
         return end_date < TODAY
     except Exception:
@@ -66,10 +46,6 @@ def is_past(end_date: str) -> bool:
 
 
 def add_hackathon(listings: list, entry: dict, seen: dict) -> bool:
-    """
-    Add entry to listings if not a duplicate. Returns True if added.
-    Deduplicates by normalized URL and by name+organizer.
-    """
     url_norm = normalize_url(entry.get('url', ''))
     name_key = entry.get('name', '').strip().lower()
     organizer_key = entry.get('organizer', '').strip().lower()
@@ -90,7 +66,6 @@ def add_hackathon(listings: list, entry: dict, seen: dict) -> bool:
 
 
 def commit_entry(entry: dict):
-    """Git add/commit a single new hackathon entry."""
     start = entry.get('start_date', '')
     end = entry.get('end_date', '')
     if start and end and start != end:
@@ -111,12 +86,7 @@ def commit_entry(entry: dict):
         print(f'Git commit error: {e}')
 
 
-# ---------------------------------------------------------------------------
-# Source 1: MLH
-# ---------------------------------------------------------------------------
-
 def scrape_mlh() -> list:
-    """Scrape MLH season pages for hackathon event cards."""
     results = []
     seasons = ['2027', '2026']
 
@@ -135,31 +105,25 @@ def scrape_mlh() -> list:
 
         soup = BeautifulSoup(resp.text, 'html.parser')
 
-        # MLH event cards are typically <div class="event"> or <a class="event">
         cards = soup.select('div.event, a.event, .event-wrapper')
         if not cards:
-            # fallback: look for any anchor with event-like class
             cards = soup.select('[class*="event"]')
 
         for card in cards:
             try:
-                # Name
                 name_el = card.select_one('h3, h2, .event-name, [class*="name"]')
                 name = name_el.get_text(strip=True) if name_el else ''
                 if not name:
                     continue
 
-                # URL
                 link_el = card if card.name == 'a' else card.select_one('a')
                 href = link_el.get('href', '') if link_el else ''
                 if href and not href.startswith('http'):
                     href = 'https://mlh.io' + href
 
-                # Location / mode
                 loc_el = card.select_one('.event-location, [class*="location"], [class*="city"]')
                 location = loc_el.get_text(strip=True) if loc_el else 'Unknown'
 
-                # Mode badge
                 mode = 'In-Person'
                 mode_el = card.select_one('[class*="hybrid"], [class*="virtual"], [class*="online"], [class*="mode"]')
                 if mode_el:
@@ -169,10 +133,9 @@ def scrape_mlh() -> list:
                     elif 'virtual' in badge_text or 'online' in badge_text:
                         mode = 'Virtual'
 
-                # Date
                 date_el = card.select_one('.event-date, [class*="date"], time')
                 date_text = date_el.get_text(strip=True) if date_el else ''
-                start_date = TODAY  # placeholder — hard to parse reliably
+                start_date = TODAY
                 end_date = TODAY
 
                 results.append({
@@ -198,9 +161,41 @@ def scrape_mlh() -> list:
     return results
 
 
-# ---------------------------------------------------------------------------
-# Source 2: Devpost API
-# ---------------------------------------------------------------------------
+def _parse_devpost_dates(text):
+    text = text.replace('–', '-').replace('—', '-')
+    m = re.search(r'(\w+ \d{1,2},?\s*\d{4})\s*-\s*(\w+ \d{1,2},?\s*\d{4})', text)
+    if m:
+        fmts = ['%b %d, %Y', '%B %d, %Y', '%b %d %Y', '%B %d %Y']
+        s_str = m.group(1).strip()
+        e_str = m.group(2).strip()
+        for fmt in fmts:
+            try:
+                s = datetime.datetime.strptime(s_str, fmt).date().isoformat()
+                e = datetime.datetime.strptime(e_str, fmt).date().isoformat()
+                return s, e
+            except ValueError:
+                continue
+    m2 = re.search(r'(\w+)\s+(\d{1,2})\s*-\s*(\d{1,2}),?\s*(\d{4})', text)
+    if m2:
+        month, day1, day2, year = m2.group(1), m2.group(2), m2.group(3), m2.group(4)
+        for fmt in ['%b %d %Y', '%B %d %Y']:
+            try:
+                s = datetime.datetime.strptime(f'{month} {day1} {year}', fmt).date().isoformat()
+                e = datetime.datetime.strptime(f'{month} {day2} {year}', fmt).date().isoformat()
+                return s, e
+            except ValueError:
+                continue
+    m3 = re.search(r'(\w+ \d{1,2},?\s*\d{4})', text)
+    if m3:
+        s_str = m3.group(1).strip()
+        for fmt in ['%b %d, %Y', '%B %d, %Y', '%b %d %Y', '%B %d %Y']:
+            try:
+                s = datetime.datetime.strptime(s_str, fmt).date().isoformat()
+                return s, s
+            except ValueError:
+                continue
+    return None, None
+
 
 def scrape_devpost() -> list:
     results = []
@@ -243,7 +238,6 @@ def scrape_devpost() -> list:
                 location_info = h.get('displayed_location', {})
                 location = location_info.get('location', 'Virtual') if location_info else 'Virtual'
 
-                # Mode inference
                 if not location or location.lower() in ('', 'online', 'virtual'):
                     location = 'Virtual'
                     mode = 'Virtual'
@@ -262,58 +256,9 @@ def scrape_devpost() -> list:
                 else:
                     prize_pool = 'Unknown'
 
-                # Parse submission period dates
-                # Devpost format examples:
-                #   "Sep 01, 2026 - Sep 02, 2026"
-                #   "Sep 1 – Sep 2, 2026"
-                #   "September 1 - 2, 2026"
                 period = h.get('submission_period_dates', '') or ''
                 start_date = TODAY
                 end_date = TODAY
-
-                def _parse_devpost_dates(text):
-                    """Return (start_iso, end_iso) or (None, None)."""
-                    # Normalize dash variants
-                    text = text.replace('–', '-').replace('—', '-')
-                    # Pattern: "Mon DD, YYYY - Mon DD, YYYY"
-                    m = re.search(
-                        r'(\w+ \d{1,2},?\s*\d{4})\s*-\s*(\w+ \d{1,2},?\s*\d{4})',
-                        text,
-                    )
-                    if m:
-                        fmts = ['%b %d, %Y', '%B %d, %Y', '%b %d %Y', '%B %d %Y']
-                        s_str = m.group(1).strip()
-                        e_str = m.group(2).strip()
-                        for fmt in fmts:
-                            try:
-                                s = datetime.datetime.strptime(s_str, fmt).date().isoformat()
-                                e = datetime.datetime.strptime(e_str, fmt).date().isoformat()
-                                return s, e
-                            except ValueError:
-                                continue
-                    # Pattern: "Mon DD - DD, YYYY"
-                    m2 = re.search(r'(\w+)\s+(\d{1,2})\s*-\s*(\d{1,2}),?\s*(\d{4})', text)
-                    if m2:
-                        month, day1, day2, year = m2.group(1), m2.group(2), m2.group(3), m2.group(4)
-                        for fmt in ['%b %d %Y', '%B %d %Y']:
-                            try:
-                                s = datetime.datetime.strptime(f'{month} {day1} {year}', fmt).date().isoformat()
-                                e = datetime.datetime.strptime(f'{month} {day2} {year}', fmt).date().isoformat()
-                                return s, e
-                            except ValueError:
-                                continue
-                    # Pattern: single date "Mon DD, YYYY"
-                    m3 = re.search(r'(\w+ \d{1,2},?\s*\d{4})', text)
-                    if m3:
-                        s_str = m3.group(1).strip()
-                        for fmt in ['%b %d, %Y', '%B %d, %Y', '%b %d %Y', '%B %d %Y']:
-                            try:
-                                s = datetime.datetime.strptime(s_str, fmt).date().isoformat()
-                                return s, s
-                            except ValueError:
-                                continue
-                    return None, None
-
                 parsed_start, parsed_end = _parse_devpost_dates(period)
                 if parsed_start:
                     start_date = parsed_start
@@ -343,10 +288,6 @@ def scrape_devpost() -> list:
     print(f'Devpost: {len(results)} raw events')
     return results
 
-
-# ---------------------------------------------------------------------------
-# Source 3: Devfolio
-# ---------------------------------------------------------------------------
 
 def scrape_devfolio() -> list:
     results = []
@@ -417,10 +358,6 @@ def scrape_devfolio() -> list:
     return results
 
 
-# ---------------------------------------------------------------------------
-# Source 4: HackClub
-# ---------------------------------------------------------------------------
-
 _HACKCLUB_SKIP_URL_PATTERNS = [
     'list-of-hackathons-in',
     'submissions/new',
@@ -454,15 +391,12 @@ def scrape_hackclub() -> list:
         return results
 
     soup = BeautifulSoup(resp.text, 'html.parser')
-    # Target specific hackathon card containers — avoid broad link sweeps
     cards = soup.select('article, [class*="card"], [class*="event"], [class*="hackathon"]')
     if not cards:
-        # Fallback: look for anchor tags that point to external hackathon sites
         cards = soup.select('a[href]')
 
     for card in cards:
         try:
-            # If card is an <a> tag use it directly, otherwise find first link
             if card.name == 'a':
                 link_el = card
                 href = card.get('href', '')
@@ -475,15 +409,12 @@ def scrape_hackclub() -> list:
             if not href:
                 continue
 
-            # Resolve relative URLs
             if href.startswith('/'):
                 href = 'https://hackathons.hackclub.com' + href
 
-            # Skip known garbage URL patterns
             if any(pat in href for pat in _HACKCLUB_SKIP_URL_PATTERNS):
                 continue
 
-            # Must link away from hackathons.hackclub.com itself (actual events live elsewhere)
             if href.startswith('https://hackathons.hackclub.com') and '/hackathons/' not in href:
                 continue
 
@@ -492,16 +423,13 @@ def scrape_hackclub() -> list:
                 name_el = card.select_one('strong, b')
             name = name_el.get_text(strip=True) if name_el else card.get_text(strip=True)[:80]
 
-            # Strip leading/trailing whitespace and collapse internal whitespace
             name = ' '.join(name.split())
 
             if not name or len(name) < 5:
                 continue
 
-            # Skip nav/footer link text
             if name.lower() in _HACKCLUB_SKIP_NAMES:
                 continue
-            # Skip entries that are just geographic names (city/region listing pages)
             if name.lower() in _GENERIC_GEO_NAMES:
                 continue
 
@@ -529,7 +457,6 @@ def scrape_hackclub() -> list:
         except Exception as e:
             print(f'HackClub card parse error: {e}')
 
-    # Deduplicate by url
     seen_urls = set()
     deduped = []
     for r in results:
@@ -542,10 +469,6 @@ def scrape_hackclub() -> list:
     return deduped
 
 
-# ---------------------------------------------------------------------------
-# Source 5: Competitor repos (markdown table parsing)
-# ---------------------------------------------------------------------------
-
 COMPETITOR_REPOS = [
     'https://raw.githubusercontent.com/Lucasgarciamdz/hackathons/main/README.md',
     'https://raw.githubusercontent.com/japrogramer/awesome-hackathons/master/README.md',
@@ -553,7 +476,6 @@ COMPETITOR_REPOS = [
 
 
 def parse_markdown_table(text: str) -> list:
-    """Parse markdown table rows — extract name (column 0) and URL from markdown links."""
     results = []
     in_table = False
     header_seen = False
@@ -576,14 +498,12 @@ def parse_markdown_table(text: str) -> list:
                 continue
             first_cell = cells[0]
 
-            # Extract name and URL from markdown link [name](url)
             link_match = re.search(r'\[([^\]]+)\]\((https?://[^)]+)\)', first_cell)
             if link_match:
                 name = link_match.group(1).strip()
                 url = link_match.group(2).strip()
             else:
                 name = re.sub(r'\*+', '', first_cell).strip()
-                # Look for URL in any cell
                 url = ''
                 for cell in cells:
                     m = re.search(r'https?://[^\s\)]+', cell)
@@ -635,20 +555,12 @@ def scrape_competitor_repos() -> list:
     return results
 
 
-# ---------------------------------------------------------------------------
-# Deduplication key for seen tracking
-# ---------------------------------------------------------------------------
-
 def seen_key(entry: dict) -> str:
     url_norm = normalize_url(entry.get('url', ''))
     if url_norm:
         return url_norm
     return f'{entry.get("name", "").lower().strip()}::{entry.get("organizer", "").lower().strip()}'
 
-
-# ---------------------------------------------------------------------------
-# Main
-# ---------------------------------------------------------------------------
 
 def main():
     listings = load_json(LISTINGS_FILE, [])
@@ -663,7 +575,6 @@ def main():
 
     print(f'\nTotal raw candidates: {len(candidates)}')
 
-    # Filter out past hackathons
     upcoming = [c for c in candidates if not is_past(c.get('end_date', TODAY))]
     print(f'After filtering past events: {len(upcoming)}')
 
@@ -673,21 +584,17 @@ def main():
         if key in seen:
             continue
 
-        # Strip internal _source/_raw_date keys before writing
         clean_entry = {k: v for k, v in entry.items() if not k.startswith('_')}
 
         if add_hackathon(listings, clean_entry, seen):
             added += 1
             print(f'Added: {clean_entry["name"]}')
 
-            # Sort listings by start_date ascending before saving
             listings.sort(key=lambda e: e.get('start_date', ''))
             save_json(LISTINGS_FILE, listings)
 
-            # Rebuild README
             subprocess.run(['python3', '.github/scripts/rebuild_readme.py'], check=True)
 
-            # Git commit this entry individually
             commit_entry(clean_entry)
 
         seen[key] = TODAY

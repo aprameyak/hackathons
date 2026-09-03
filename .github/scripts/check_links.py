@@ -1,11 +1,4 @@
 #!/usr/bin/env python3
-"""
-HEAD-check all non-empty URLs in listings.json.
-Sets url: "" for dead links (4xx/5xx/timeout).
-Rebuilds README after changes.
-
-Run from repo root: python3 .github/scripts/check_links.py
-"""
 
 import json
 import subprocess
@@ -20,7 +13,7 @@ README_FILE = Path('README.md')
 REQUEST_DELAY = 0.75
 REQUEST_TIMEOUT = 12
 
-SKIP_DOMAINS = []  # add domains to skip if needed
+SKIP_DOMAINS = []
 
 
 def skip_domain(url: str) -> bool:

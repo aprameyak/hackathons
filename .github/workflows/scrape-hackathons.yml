@@ -40,10 +40,14 @@ jobs:
       - name: Validate listings
         run: python3 .github/scripts/validate_listings.py
 
-      - name: Push any remaining changes
+      - name: Push all changes
         run: |
+          # Commit seen cache and any remaining unstaged changes
           git add .github/data/seen_hackathons.json listings.json README.md
           if ! git diff --staged --quiet; then
             git commit -m "scrape: update seen cache and listings"
+          fi
+          # Always push — includes per-hackathon commits made by the scraper
+          if [ -n "$(git log origin/main..HEAD 2>/dev/null)" ]; then
             for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done
           fi

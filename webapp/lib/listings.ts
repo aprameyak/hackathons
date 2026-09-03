@@ -72,9 +72,9 @@ function formatDateRange(start: string, end: string): string {
   }
 }
 
-function isUpcoming(startDate: string): boolean {
+function isUpcoming(endDate: string): boolean {
   const today = new Date().toISOString().slice(0, 10);
-  return startDate >= today;
+  return endDate >= today;
 }
 
 function processHackathons(hackathons: Hackathon[]): ProcessedRow[] {
@@ -90,7 +90,7 @@ function processHackathons(hackathons: Hackathon[]): ProcessedRow[] {
     prizePool: h.prize_pool.trim(),
     url: h.url?.trim() ?? '',
     dateFormatted: formatDate(h.date_added),
-    isUpcoming: isUpcoming(h.start_date),
+    isUpcoming: isUpcoming(h.end_date),
   }));
 
   // Sort: upcoming first by start_date ascending, then past by start_date descending
