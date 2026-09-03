@@ -1008,6 +1008,18 @@
     "date_added": "2026-09-03"
   },
   {
+    "name": "Google Solution Challenge",
+    "organizer": "Google",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-09-03",
+    "end_date": "2026-09-03",
+    "open_to": "College",
+    "prize_pool": "Unknown",
+    "url": "https://developers.google.com/community/gdsc-solution-challenge",
+    "date_added": "2026-09-03"
+  },
+  {
     "name": "PennApps",
     "organizer": "University of Pennsylvania",
     "location": "Philadelphia, PA",
