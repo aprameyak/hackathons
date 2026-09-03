@@ -900,6 +900,18 @@
     "date_added": "2026-09-03"
   },
   {
+    "name": "UofTHacks",
+    "organizer": "University of Toronto",
+    "location": "Toronto, ON",
+    "mode": "In-Person",
+    "start_date": "2026-09-03",
+    "end_date": "2026-09-03",
+    "open_to": "College",
+    "prize_pool": "Unknown",
+    "url": "https://uofthacks.com",
+    "date_added": "2026-09-03"
+  },
+  {
     "name": "PennApps",
     "organizer": "University of Pennsylvania",
     "location": "Philadelphia, PA",
