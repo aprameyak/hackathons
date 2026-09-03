@@ -792,6 +792,18 @@
     "date_added": "2026-09-03"
   },
   {
+    "name": "HackSC",
+    "organizer": "USC",
+    "location": "Los Angeles, CA",
+    "mode": "In-Person",
+    "start_date": "2026-09-03",
+    "end_date": "2026-09-03",
+    "open_to": "College",
+    "prize_pool": "Unknown",
+    "url": "https://hacksc.com",
+    "date_added": "2026-09-03"
+  },
+  {
     "name": "PennApps",
     "organizer": "University of Pennsylvania",
     "location": "Philadelphia, PA",
