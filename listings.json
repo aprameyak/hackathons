@@ -960,6 +960,18 @@
     "date_added": "2026-09-03"
   },
   {
+    "name": "ETHGlobal San Francisco",
+    "organizer": "ETHGlobal",
+    "location": "San Francisco, CA",
+    "mode": "In-Person",
+    "start_date": "2026-09-03",
+    "end_date": "2026-09-03",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://ethglobal.com/events/sanfrancisco2026",
+    "date_added": "2026-09-03"
+  },
+  {
     "name": "PennApps",
     "organizer": "University of Pennsylvania",
     "location": "Philadelphia, PA",
