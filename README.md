@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->141 hackathons tracked<!-- /STATS -->
+<!-- STATS -->142 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -129,6 +129,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | JecHacks | Hack Club | Virtual | Virtual | Sep 3–3, 2026 | High School | Unknown | <a href="https://www.jechacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | vsHacks | Hack Club | Virtual | Virtual | Sep 3–3, 2026 | High School | Unknown | <a href="https://vshacks.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | The Vakathon | Hack Club | Virtual | Virtual | Sep 3–3, 2026 | High School | Unknown | <a href="https://thevakathon.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Horizons Crux | Hack Club | Virtual | Virtual | Sep 3–3, 2026 | High School | Unknown | <a href="https://crux.hackclub.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | PennApps | University of Pennsylvania | Philadelphia, PA | In-Person | Sep 6–8, 2026 | College | Unknown | <a href="https://pennapps.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Zoftware Hireathon | Enterprise Software Solutions | Delhi | In-Person | Sep 9–9, 2026 | All | Unknown | <a href="https://zoftware-hireathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Build with Gemini - Gen Recruiter | Trainzex AI | Jaipur, India | In-Person | Sep 10–10, 2026 | All | Unknown | <a href="https://gen-recruiter-google-gemini.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
