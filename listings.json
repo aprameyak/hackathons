@@ -720,6 +720,18 @@
     "date_added": "2026-09-03"
   },
   {
+    "name": "HackCU",
+    "organizer": "University of Colorado Boulder",
+    "location": "Boulder, CO",
+    "mode": "In-Person",
+    "start_date": "2026-09-03",
+    "end_date": "2026-09-03",
+    "open_to": "College",
+    "prize_pool": "Unknown",
+    "url": "https://hackcu.org",
+    "date_added": "2026-09-03"
+  },
+  {
     "name": "PennApps",
     "organizer": "University of Pennsylvania",
     "location": "Philadelphia, PA",
