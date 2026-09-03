@@ -1032,6 +1032,18 @@
     "date_added": "2026-09-03"
   },
   {
+    "name": "Salesforce Hackathon",
+    "organizer": "Salesforce",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-09-03",
+    "end_date": "2026-09-03",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://developer.salesforce.com/hackathon",
+    "date_added": "2026-09-03"
+  },
+  {
     "name": "PennApps",
     "organizer": "University of Pennsylvania",
     "location": "Philadelphia, PA",
