@@ -1,0 +1,49 @@
+name: Scrape Hackathons
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: readme-updates
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.REPO_PAT }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Configure git
+        run: |
+          git config user.name "Aprameya Kannan"
+          git config user.email "aprameyakannan@gmail.com"
+
+      - name: Scrape hackathon sources
+        timeout-minutes: 30
+        run: python3 .github/scripts/scrape_hackathons.py
+
+      - name: Validate listings
+        run: python3 .github/scripts/validate_listings.py
+
+      - name: Push any remaining changes
+        run: |
+          git add .github/data/seen_hackathons.json listings.json README.md
+          if ! git diff --staged --quiet; then
+            git commit -m "scrape: update seen cache and listings"
+            for i in 1 2 3 4 5; do git pull --rebase -X ours && git push && break; sleep $((i*5)); done
+          fi

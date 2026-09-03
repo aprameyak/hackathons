@@ -1,0 +1,97 @@
+# Hackathon Tracker
+
+A curated, auto-updating list of upcoming CS hackathons — scraped hourly from MLH, Devpost, Devfolio, HackClub, and community repos.
+
+**Legend:** 🔒 = Registration closed
+
+<!-- STATS -->57 hackathons tracked<!-- /STATS -->
+
+<!-- TABLE_START listings -->
+| Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
+| --------- | --------- | -------- | ---- | ----- | ------- | ----- | ----- | ----- |
+| MYHack: ISNA 2026 | Mafiq Foundation | Detroit, MI, USA | In-Person | Sep 3–3, 2026 | All | Unknown | <a href="https://myhack-isna.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| EmP Hackfest Summer 2026 | Emerald Parents | DigiPen Institute of Technology | In-Person | Sep 3–3, 2026 | All | Unknown | <a href="https://emp-hackfest-summer-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Coppell hackathon 1 | shrimat koti | Virtual | Virtual | Sep 3–3, 2026 | All | Unknown | <a href="https://fintech-hackothon-1.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Global Psyops Hackathon | Prosocial Engineering | Distribution Hall | In-Person | Sep 3–3, 2026 | All | Unknown | <a href="https://global-psyops-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Hack The Weather | JHUB Africa | Virtual | Virtual | Sep 3–3, 2026 | All | Unknown | <a href="https://hack-the-weather.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| UPAI-Hackdays | MLH | Virtual | Virtual | Sep 3–3, 2026 | All | Unknown | <a href="https://upai-hackdays.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Hack CMU | Carnegie Mellon University | Carnegie Mellon University | In-Person | Sep 3–3, 2026 | All | Unknown | <a href="https://hack-cmu-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Southwest MN Hacks | Aulden | Upper conference center, SMSU | In-Person | Sep 3–3, 2026 | All | Unknown | <a href="https://southwest-mn-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| RoadStar Hackathon | Enterprise Software Solutions | Waterloo, ON | In-Person | Sep 3–3, 2026 | All | Unknown | <a href="https://roadstarhackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Forward: AI in Business Hackathon | Eleno | University of Melbourne | In-Person | Sep 3–3, 2026 | All | Unknown | <a href="https://forward.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| The CAD Challenge 2026 | The CAD Challenge | University of California, Berkeley | In-Person | Sep 3–3, 2026 | All | Unknown | <a href="https://the-cad-challenge-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Acodemic X G.I.R.L.S. Global SDG Hackathon | Hack Club | Virtual | Virtual | Sep 3–3, 2026 | All | Unknown | <a href="https://acodemic-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Sherubtse Hackathon 2026 | Sherubtse College | Sherubtse College, Kanglung, Bhutan | In-Person | Sep 3–3, 2026 | All | Unknown | <a href="https://sherubtse-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Bay Hacks | Tampa Bay Innovation | USF Hall of Flags | In-Person | Sep 3–3, 2026 | All | Unknown | <a href="https://bayhacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| General Learning Hacks | General Learning | 3/F Lee Garden 3, Causeway Bay | In-Person | Sep 3–3, 2026 | All | Unknown | <a href="https://general-learning-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| HopHacks Fall 2026 | Johns Hopkins | Johns Hopkins University | In-Person | Sep 3–3, 2026 | All | Unknown | <a href="https://hophacks-fall-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| TLN Hackathon 2026 | Tech Literacy Network | Virtual | Virtual | Sep 3–3, 2026 | All | Unknown | <a href="https://tln-cybersecurity-challenge.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| SteelHacks XIII | PittCSC | University of Pittsburgh - Posvar Hall | In-Person | Sep 3–3, 2026 | All | Unknown | <a href="https://steelhacksxiii.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| CuseHacks 2026 | Innovate Orange | Life Sciences Atrium | In-Person | Sep 3–3, 2026 | All | Unknown | <a href="https://cusehacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| YC Fall 2026 x Moss: The Zero Latency Builder Sprint | hidevs | Bengaluru, India | In-Person | Sep 3–3, 2026 | All | Unknown | <a href="https://yc-fall-2026-x-moss.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| COMMA_HACK 7 | comma.ai | comma HQ | In-Person | Sep 3–3, 2026 | All | Unknown | <a href="https://comma-hack-7.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Hyperbloom September - Beginer Freindly | hyperbloom hacks | Virtual | Virtual | Sep 3–3, 2026 | All | Unknown | <a href="https://hyperbloom-september2.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| NeuroHack - 1.0 | Axonic | Virtual | Virtual | Sep 3–3, 2026 | All | Unknown | <a href="https://neurohack-1-0-by-axonic.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Shower Hacks | Shower Hacks | Bay Area | In-Person | Sep 3–3, 2026 | All | Unknown | <a href="https://showerhacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| SC Quantathon v3 | Clemson Quantum | Watt Family Innovation Center | In-Person | Sep 3–3, 2026 | All | Unknown | <a href="https://sc-quantathon-v3.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| HackWashU Fall AI Build Challenge | HackWashU | Washington University in St. Louis | In-Person | Sep 3–3, 2026 | All | Unknown | <a href="https://hackwashu-fall-ai-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| &HACKS XII | MLH | William &amp; Mary - ISC4 | In-Person | Sep 3–3, 2026 | All | Unknown | <a href="https://hacks-xii.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| HackGT13 | HexLabs | Klaus Advanced Computing Building | In-Person | Sep 3–3, 2026 | All | Unknown | <a href="https://hackgt13.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Test Flight: Glasswing Ventures AI Hackathon | Glasswing Ventures | Glasswing Ventures | In-Person | Sep 3–3, 2026 | All | Unknown | <a href="https://test-flight-glasswing.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Pixel Forge AI Hackathon | Hack Club | Virtual | Virtual | Sep 3–3, 2026 | High School | Unknown | <a href="https://pixelforgehackathons.info/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Stasis | Hack Club | Virtual | Virtual | Sep 3–3, 2026 | High School | Unknown | <a href="https://stasis.hackclub.com?utm_source=hackathons" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Sleepover | Hack Club | Virtual | Virtual | Sep 3–3, 2026 | High School | Unknown | <a href="https://sleepover.hackclub.com?utm_source=hackathons" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Equinox Vancouver Hackathon | Hack Club | Virtual | Virtual | Sep 3–3, 2026 | High School | Unknown | <a href="https://www.equinoxvancouverhackathon.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Campfire | Hack Club | Virtual | Virtual | Sep 3–3, 2026 | High School | Unknown | <a href="https://campfire.hackclub.com/?ref=hackathons" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Campfire Flagship | Hack Club | Virtual | Virtual | Sep 3–3, 2026 | High School | Unknown | <a href="https://flagship.hackclub.com/?utm_source=c-hackathons" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Blueprint | Hack Club | Virtual | Virtual | Sep 3–3, 2026 | High School | Unknown | <a href="https://blueprint.hackclub.com/?utm_source=hackathons" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| PennApps | University of Pennsylvania | Philadelphia, PA | In-Person | Sep 6–8, 2026 | College | Unknown | <a href="https://pennapps.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Zoftware Hireathon | Enterprise Software Solutions | Delhi | In-Person | Sep 9–9, 2026 | All | Unknown | <a href="https://zoftware-hireathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Build with Gemini - Gen Recruiter | Trainzex AI | Jaipur, India | In-Person | Sep 10–10, 2026 | All | Unknown | <a href="https://gen-recruiter-google-gemini.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Trust in the Hiring Funnel Hackathon | localhost-nyc | NYU | In-Person | Sep 12–12, 2026 | All | Unknown | <a href="https://trust-in-the-hiring-funnel.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| SaugaHacks | Sauga Hacks | Mississauga | In-Person | Sep 12–12, 2026 | All | Unknown | <a href="https://saugahacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Hack the North | University of Waterloo | Waterloo, ON | In-Person | Sep 13–15, 2026 | College | Unknown | <a href="https://hackthenorth.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Hack Knowvy - 1 | Knowvy Technologies | Indrapuri, Bhopal | In-Person | Sep 13–13, 2026 | All | Unknown | <a href="https://hack-knowvy-1.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Rutgers x Elastic Hackathon | Elastic | Richard Weeks Hall of Eng - Room 211 | In-Person | Sep 14–14, 2026 | All | Unknown | <a href="https://rutgers-x-elastic-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| HackMIT | MIT | Cambridge, MA | In-Person | Sep 19–20, 2026 | College | Unknown | <a href="https://hackmit.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| SHPE Jr. Designathon | SHPE UF | Virtual | Virtual | Sep 19–19, 2026 | All | Unknown | <a href="https://shpe-jr-designathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| CityCamp Gainesville Hack Day | Florida Community Innovation | Reitz Union | In-Person | Sep 20–20, 2026 | All | Unknown | <a href="https://citycamp-hack-day.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Case Closed | GDG on Campus Sheridan College | Location TBA | In-Person | Sep 20–20, 2026 | All | Unknown | <a href="https://caseclosed.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| AI Agent Hackathon | Coffee and Code Philadelphia | Pennovation center | In-Person | Sep 20–20, 2026 | All | Unknown | <a href="https://coffee-and-code-agent.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Cyber Hawk Hack Days | monmouth university | Monmouth University | In-Person | Sep 26–26, 2026 | All | Unknown | <a href="https://cyber-hawk-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| WaffleHacks | WaffleHacks | Virtual | Virtual | Oct 3–5, 2026 | High School | Unknown | <a href="https://wafflehacks.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| HackHarvard | Harvard University | Cambridge, MA | In-Person | Oct 10–12, 2026 | College | Unknown | <a href="https://hackharvard.io" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| MHacks | University of Michigan | Ann Arbor, MI | In-Person | Oct 17–19, 2026 | College | Unknown | <a href="https://mhacks.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| HackGT | Georgia Tech | Atlanta, GA | In-Person | Oct 24–26, 2026 | College | Unknown | <a href="https://hackgt.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| HackUMass | UMass Amherst | Amherst, MA | In-Person | Nov 7–9, 2026 | College | Unknown | <a href="https://hackumass.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| HackUTD | UT Dallas | Dallas, TX | In-Person | Nov 14–16, 2026 | College | Unknown | <a href="https://hackutd.co" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| TreeHacks | Stanford University | Stanford, CA | In-Person | Feb 14–16, 2027 | College | Unknown | <a href="https://treehacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+<!-- TABLE_END listings -->
+
+---
+
+## Contributing
+
+Found a hackathon that's missing? Open an issue with the hackathon name, URL, dates, location, and who it's open to.
+
+Pull requests are welcome for data corrections.
+
+---
+
+## How it works
+
+- **`listings.json`** is the canonical data source
+- **GitHub Actions** scrape MLH, Devpost, Devfolio, HackClub, and community repos every hour
+- **`rebuild_readme.py`** regenerates this table from `listings.json` — upcoming events first (sorted by start date), then past
+- Dead links are detected daily and marked 🔒
+
+## Local setup
+
+```bash
+pip install requests beautifulsoup4
+python3 run_scrape.py
+```
+
+## Secrets required (Settings → Secrets → Actions)
+
+- `REPO_PAT` — personal access token with repo write access
