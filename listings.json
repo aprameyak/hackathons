@@ -2172,6 +2172,18 @@
     "date_added": "2026-09-03"
   },
   {
+    "name": "Civic Hackathon",
+    "organizer": "Hack Club",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-09-03",
+    "end_date": "2026-09-03",
+    "open_to": "High School",
+    "prize_pool": "Unknown",
+    "url": "https://civichacksf.org",
+    "date_added": "2026-09-03"
+  },
+  {
     "name": "PennApps",
     "organizer": "University of Pennsylvania",
     "location": "Philadelphia, PA",
