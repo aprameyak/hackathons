@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->104 hackathons tracked<!-- /STATS -->
+<!-- STATS -->105 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -92,6 +92,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | ETHGlobal San Francisco | ETHGlobal | San Francisco, CA | In-Person | Sep 3–3, 2026 | All | Unknown | <a href="https://ethglobal.com/events/sanfrancisco2026" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | ETHGlobal Brussels | ETHGlobal | Brussels, Belgium | In-Person | Sep 3–3, 2026 | All | Unknown | <a href="https://ethglobal.com/events/brussels" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | ETHGlobal Bangkok | ETHGlobal | Bangkok, Thailand | In-Person | Sep 3–3, 2026 | All | Unknown | <a href="https://ethglobal.com/events/bangkok" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| AWS Build On | Amazon Web Services | Virtual | Virtual | Sep 3–3, 2026 | All | Unknown | <a href="https://aws.amazon.com/events/build-on" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | PennApps | University of Pennsylvania | Philadelphia, PA | In-Person | Sep 6–8, 2026 | College | Unknown | <a href="https://pennapps.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Zoftware Hireathon | Enterprise Software Solutions | Delhi | In-Person | Sep 9–9, 2026 | All | Unknown | <a href="https://zoftware-hireathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Build with Gemini - Gen Recruiter | Trainzex AI | Jaipur, India | In-Person | Sep 10–10, 2026 | All | Unknown | <a href="https://gen-recruiter-google-gemini.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
