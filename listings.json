@@ -672,6 +672,18 @@
     "date_added": "2026-09-03"
   },
   {
+    "name": "WildHacks",
+    "organizer": "Northwestern University",
+    "location": "Evanston, IL",
+    "mode": "In-Person",
+    "start_date": "2026-09-03",
+    "end_date": "2026-09-03",
+    "open_to": "College",
+    "prize_pool": "Unknown",
+    "url": "https://wildhacks.net",
+    "date_added": "2026-09-03"
+  },
+  {
     "name": "PennApps",
     "organizer": "University of Pennsylvania",
     "location": "Philadelphia, PA",
