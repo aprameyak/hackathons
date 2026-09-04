@@ -2328,6 +2328,18 @@
     "date_added": "2026-09-04"
   },
   {
+    "name": "CodeBox Hacks",
+    "organizer": "CodeBox",
+    "location": "Cal Poly Advanced Technology Lab",
+    "mode": "In-Person",
+    "start_date": "2026-09-05",
+    "end_date": "2026-09-06",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://codebox-hacks.devpost.com/",
+    "date_added": "2026-09-04"
+  },
+  {
     "name": "PennApps",
     "organizer": "University of Pennsylvania",
     "location": "Philadelphia, PA",
