@@ -18,7 +18,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.REPO_PAT }}
+          token: ${{ secrets.REPO_PAT || github.token }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
