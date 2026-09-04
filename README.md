@@ -4,11 +4,12 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->214 hackathons tracked<!-- /STATS -->
+<!-- STATS -->215 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
 | --------- | --------- | -------- | ---- | ----- | ------- | ----- | ----- | ----- |
+| Build for Earth | Hack Club | Virtual | Virtual | Sep 4–4, 2026 | High School | Unknown | <a href="https://earth.firstcommit.xyz" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 4 |
 | Syndicate by Maximor | agent orchestrator | Virtual | Virtual | Sep 5–6, 2026 | All | Unknown | <a href="https://syndicate-by-maximor.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 4 |
 | PennApps | University of Pennsylvania | Philadelphia, PA | In-Person | Sep 6–8, 2026 | College | Unknown | <a href="https://pennapps.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Zoftware Hireathon | Enterprise Software Solutions | Delhi | In-Person | Sep 9–9, 2026 | All | Unknown | <a href="https://zoftware-hireathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
