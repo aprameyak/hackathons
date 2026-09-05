@@ -2352,6 +2352,18 @@
     "date_added": "2026-09-03"
   },
   {
+    "name": "Gen Agra",
+    "organizer": "Orange ARM",
+    "location": "Agra-Delhi Highway, Keetham, Agra",
+    "mode": "In-Person",
+    "start_date": "2026-09-07",
+    "end_date": "2026-09-12",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://gen-agra.devpost.com/",
+    "date_added": "2026-09-05"
+  },
+  {
     "name": "Zoftware Hireathon",
     "organizer": "Enterprise Software Solutions",
     "location": "Delhi",
