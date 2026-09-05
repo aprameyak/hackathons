@@ -2364,6 +2364,18 @@
     "date_added": "2026-09-03"
   },
   {
+    "name": "Shared OS Hackathon",
+    "organizer": "Systemind, Inc",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-09-09",
+    "end_date": "2026-09-11",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://shared-os-hackathon.devpost.com/",
+    "date_added": "2026-09-05"
+  },
+  {
     "name": "Build with Gemini - Gen Recruiter",
     "organizer": "Trainzex AI",
     "location": "Jaipur, India",
