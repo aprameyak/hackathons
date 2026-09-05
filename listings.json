@@ -2520,6 +2520,18 @@
     "date_added": "2026-09-03"
   },
   {
+    "name": "TigerHacks 2026",
+    "organizer": "Mizzou Computing Association",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-09-24",
+    "end_date": "2026-09-27",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://tigerhacks-2026.devpost.com/",
+    "date_added": "2026-09-05"
+  },
+  {
     "name": "Business + AI Hackathon",
     "organizer": "stevens insitute of technology",
     "location": "Tech Flex, University Center Complex",
