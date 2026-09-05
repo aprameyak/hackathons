@@ -2568,6 +2568,18 @@
     "date_added": "2026-09-03"
   },
   {
+    "name": "Hack Atlantic",
+    "organizer": "Hack Atlantic",
+    "location": "Fredericton, New Brunswick",
+    "mode": "In-Person",
+    "start_date": "2026-09-27",
+    "end_date": "2026-09-27",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hack-atlantic-2026.devpost.com/",
+    "date_added": "2026-09-05"
+  },
+  {
     "name": "WaffleHacks",
     "organizer": "WaffleHacks",
     "location": "Virtual",
