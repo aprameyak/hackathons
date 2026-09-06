@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->223 hackathons tracked<!-- /STATS -->
+<!-- STATS -->224 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -30,6 +30,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | AI Agent Hackathon | Coffee and Code Philadelphia | Pennovation center | In-Person | Sep 20–20, 2026 | All | Unknown | <a href="https://coffee-and-code-agent.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | TigerHacks 2026 | Mizzou Computing Association | Virtual | Virtual | Sep 24–27, 2026 | All | Unknown | <a href="https://tigerhacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 5 |
 | Business + AI Hackathon | stevens insitute of technology | Tech Flex, University Center Complex | In-Person | Sep 25–25, 2026 | All | Unknown | <a href="https://business-ai-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 4 |
+| Chipcraft 3.0 - 24 Hour VLSI Hackathon | KARE IEEE EDS | DSPSD Lab (321), Block III | In-Person | Sep 25–26, 2026 | All | Unknown | <a href="https://chipcraft-3-0.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 6 |
 | Cyber Hawk Hack Days | monmouth university | Monmouth University | In-Person | Sep 26–26, 2026 | All | Unknown | <a href="https://cyber-hawk-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Hack Atlantic | Hack Atlantic | Fredericton, New Brunswick | In-Person | Sep 27–27, 2026 | All | Unknown | <a href="https://hack-atlantic-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 5 |
 | WaffleHacks | WaffleHacks | Virtual | Virtual | Oct 3–5, 2026 | High School | Unknown | <a href="https://wafflehacks.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
