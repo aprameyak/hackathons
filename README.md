@@ -205,7 +205,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | CyberWave | Hack Club | Virtual | Virtual | Sep 3–3, 2026 | High School | Unknown | 🔒 | Sep 3 |
 | Valley Hacks | Hack Club | Virtual | Virtual | Sep 3–3, 2026 | High School | Unknown | <a href="https://www.valleyhacks.org/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | PeachState Hacks | Hack Club | Virtual | Virtual | Sep 3–3, 2026 | High School | Unknown | <a href="https://www.peachstatehacks.org/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
-| Alameda Hacks | Hack Club | Virtual | Virtual | Sep 3–3, 2026 | High School | Unknown | <a href="https://www.alamedahacks.xyz/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Alameda Hacks | Hack Club | Virtual | Virtual | Sep 3–3, 2026 | High School | Unknown | 🔒 | Sep 3 |
 | Build4Students | Hack Club | Virtual | Virtual | Sep 3–3, 2026 | High School | Unknown | <a href="https://www.build4students.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Winter MelonJam 2025 | Hack Club | Virtual | Virtual | Sep 3–3, 2026 | High School | Unknown | 🔒 | Sep 3 |
 | Godawari Hack | Hack Club | Virtual | Virtual | Sep 3–3, 2026 | High School | Unknown | <a href="https://hack.godawari.edu.np" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
