@@ -2496,6 +2496,18 @@
     "date_added": "2026-09-03"
   },
   {
+    "name": "VTHacks 14",
+    "organizer": "TechHackers at VT",
+    "location": "Blacksburg, VA",
+    "mode": "In-Person",
+    "start_date": "2026-09-18",
+    "end_date": "2026-09-20",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://vthacks-14.devpost.com/",
+    "date_added": "2026-09-07"
+  },
+  {
     "name": "HackMIT",
     "organizer": "MIT",
     "location": "Cambridge, MA",
