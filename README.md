@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->227 hackathons tracked<!-- /STATS -->
+<!-- STATS -->228 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -26,6 +26,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | VTHacks 14 | TechHackers at VT | Blacksburg, VA | In-Person | Sep 18–20, 2026 | All | Unknown | <a href="https://vthacks-14.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 7 |
 | HackMIT | MIT | Cambridge, MA | In-Person | Sep 19–20, 2026 | College | Unknown | <a href="https://hackmit.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | SHPE Jr. Designathon | SHPE UF | Virtual | Virtual | Sep 19–19, 2026 | All | Unknown | <a href="https://shpe-jr-designathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Miami AI Hackathon: Mel + ElevenLabs | OPENMEL.DEV | MDC- AI Center (building 2 east side) | In-Person | Sep 19–19, 2026 | All | Unknown | <a href="https://hackathon-mel-elevenlabs.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 7 |
 | CityCamp Gainesville Hack Day | Florida Community Innovation | Reitz Union | In-Person | Sep 20–20, 2026 | All | Unknown | <a href="https://citycamp-hack-day.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Case Closed | GDG on Campus Sheridan College | Location TBA | In-Person | Sep 20–20, 2026 | All | Unknown | <a href="https://caseclosed.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | AI Agent Hackathon | Coffee and Code Philadelphia | Pennovation center | In-Person | Sep 20–20, 2026 | All | Unknown | <a href="https://coffee-and-code-agent.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |

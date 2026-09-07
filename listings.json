@@ -2544,6 +2544,18 @@
     "date_added": "2026-09-03"
   },
   {
+    "name": "Miami AI Hackathon: Mel + ElevenLabs",
+    "organizer": "OPENMEL.DEV",
+    "location": "MDC- AI Center (building 2 east side)",
+    "mode": "In-Person",
+    "start_date": "2026-09-19",
+    "end_date": "2026-09-19",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hackathon-mel-elevenlabs.devpost.com/",
+    "date_added": "2026-09-07"
+  },
+  {
     "name": "CityCamp Gainesville Hack Day",
     "organizer": "Florida Community Innovation",
     "location": "Reitz Union",
