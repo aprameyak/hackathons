@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->226 hackathons tracked<!-- /STATS -->
+<!-- STATS -->227 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -15,6 +15,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Zoftware Hireathon | Enterprise Software Solutions | Delhi | In-Person | Sep 9–9, 2026 | All | Unknown | <a href="https://zoftware-hireathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Shared OS Hackathon | Systemind, Inc | Virtual | Virtual | Sep 9–11, 2026 | All | Unknown | <a href="https://shared-os-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 5 |
 | Build with Gemini - Gen Recruiter | Trainzex AI | Jaipur, India | In-Person | Sep 10–10, 2026 | All | Unknown | <a href="https://gen-recruiter-google-gemini.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| TechCommons Hacks V2 - Hacks to Inspire | TechCommons | Virtual | Virtual | Sep 10–17, 2026 | All | Unknown | <a href="https://techcommons-hacks-v2.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 7 |
 | internal hackathon | Elevate Ecosystem | uniplay | Bengaluru, India | In-Person | Sep 11–12, 2026 | All | Unknown | <a href="https://internal-ee-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 4 |
 | Trust in the Hiring Funnel Hackathon | localhost-nyc | NYU | In-Person | Sep 12–12, 2026 | All | Unknown | <a href="https://trust-in-the-hiring-funnel.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | SaugaHacks | Sauga Hacks | Mississauga | In-Person | Sep 12–12, 2026 | All | Unknown | <a href="https://saugahacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
