@@ -2376,6 +2376,18 @@
     "date_added": "2026-09-06"
   },
   {
+    "name": "drwwtest",
+    "organizer": "independant",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-09-08",
+    "end_date": "2026-09-09",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://test-31278ff.devpost.com/",
+    "date_added": "2026-09-07"
+  },
+  {
     "name": "Zoftware Hireathon",
     "organizer": "Enterprise Software Solutions",
     "location": "Delhi",
