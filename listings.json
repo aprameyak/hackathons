@@ -2484,6 +2484,18 @@
     "date_added": "2026-09-06"
   },
   {
+    "name": "Frontier Cascadia",
+    "organizer": "frontiercascadia.org",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-09-12",
+    "end_date": "2026-09-12",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://frontier-cascadia-2026.devpost.com/",
+    "date_added": "2026-09-08"
+  },
+  {
     "name": "Hack the North",
     "organizer": "University of Waterloo",
     "location": "Waterloo, ON",
