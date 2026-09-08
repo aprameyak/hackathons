@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->231 hackathons tracked<!-- /STATS -->
+<!-- STATS -->232 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -23,6 +23,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | SaugaHacks | Sauga Hacks | Mississauga | In-Person | Sep 12–12, 2026 | All | Unknown | <a href="https://saugahacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | STEMinate Wildcard Hack | STEMinate Texas | Virtual | Virtual | Sep 12–19, 2026 | All | Unknown | <a href="https://steminate-texas-wildcard-hack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 6 |
 | Frontier Cascadia | frontiercascadia.org | Virtual | Virtual | Sep 12–12, 2026 | All | Unknown | <a href="https://frontier-cascadia-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 8 |
+| Battle of the Schools | WAT.ai | Bahen Centre, University of Toronto | In-Person | Sep 12–13, 2026 | All | Unknown | <a href="https://battle-of-the-schools.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 8 |
 | Hack the North | University of Waterloo | Waterloo, ON | In-Person | Sep 13–15, 2026 | College | Unknown | <a href="https://hackthenorth.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Hack Knowvy - 1 | Knowvy Technologies | Indrapuri, Bhopal | In-Person | Sep 13–13, 2026 | All | Unknown | <a href="https://hack-knowvy-1.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Rutgers x Elastic Hackathon | Elastic | Richard Weeks Hall of Eng - Room 211 | In-Person | Sep 14–14, 2026 | All | Unknown | <a href="https://rutgers-x-elastic-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |

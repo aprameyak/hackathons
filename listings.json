@@ -2508,6 +2508,18 @@
     "date_added": "2026-09-08"
   },
   {
+    "name": "Battle of the Schools",
+    "organizer": "WAT.ai",
+    "location": "Bahen Centre, University of Toronto",
+    "mode": "In-Person",
+    "start_date": "2026-09-12",
+    "end_date": "2026-09-13",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://battle-of-the-schools.devpost.com/",
+    "date_added": "2026-09-08"
+  },
+  {
     "name": "Hack the North",
     "organizer": "University of Waterloo",
     "location": "Waterloo, ON",
