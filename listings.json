@@ -2556,6 +2556,18 @@
     "date_added": "2026-09-03"
   },
   {
+    "name": "MantisGrid AI Hackathon 2026",
+    "organizer": "MantisGrid AI",
+    "location": "Mitchell Park Community Center",
+    "mode": "In-Person",
+    "start_date": "2026-09-17",
+    "end_date": "2026-09-17",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://mantisgrid-ai-hackathon-2026.devpost.com/",
+    "date_added": "2026-09-09"
+  },
+  {
     "name": "VTHacks 14",
     "organizer": "TechHackers at VT",
     "location": "Blacksburg, VA",
