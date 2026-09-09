@@ -2520,6 +2520,18 @@
     "date_added": "2026-09-08"
   },
   {
+    "name": "MAC-athon",
+    "organizer": "Minority Association in Computing @ Pitt",
+    "location": "Pittsburgh, PA, USA",
+    "mode": "In-Person",
+    "start_date": "2026-09-12",
+    "end_date": "2026-09-12",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://pitt-macathon.devpost.com/",
+    "date_added": "2026-09-09"
+  },
+  {
     "name": "Hack the North",
     "organizer": "University of Waterloo",
     "location": "Waterloo, ON",
