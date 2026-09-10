@@ -2460,6 +2460,18 @@
     "date_added": "2026-09-08"
   },
   {
+    "name": "HackRice 16",
+    "organizer": "Rice University",
+    "location": "Rice Memorial Center",
+    "mode": "In-Person",
+    "start_date": "2026-09-11",
+    "end_date": "2026-09-13",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hackrice-16.devpost.com/",
+    "date_added": "2026-09-10"
+  },
+  {
     "name": "Trust in the Hiring Funnel Hackathon",
     "organizer": "localhost-nyc",
     "location": "NYU",
