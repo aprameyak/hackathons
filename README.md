@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->236 hackathons tracked<!-- /STATS -->
+<!-- STATS -->237 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -17,6 +17,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | internal hackathon | Elevate Ecosystem | uniplay | Bengaluru, India | In-Person | Sep 11–12, 2026 | All | Unknown | <a href="https://internal-ee-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 4 |
 | HackKentucky | KYX | Genuine Works | In-Person | Sep 11–12, 2026 | All | Unknown | <a href="https://hackkentucky.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 8 |
 | HackRice 16 | Rice University | Rice Memorial Center | In-Person | Sep 11–13, 2026 | All | Unknown | <a href="https://hackrice-16.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
+| AI 4 Infra Challenge – Advanced Track | AI Student Association | Student Commons 1600 | In-Person | Sep 11–11, 2026 | All | Unknown | <a href="https://ai-4-infra-advanced-track.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | Trust in the Hiring Funnel Hackathon | localhost-nyc | NYU | In-Person | Sep 12–12, 2026 | All | Unknown | <a href="https://trust-in-the-hiring-funnel.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | SaugaHacks | Sauga Hacks | Mississauga | In-Person | Sep 12–12, 2026 | All | Unknown | <a href="https://saugahacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | STEMinate Wildcard Hack | STEMinate Texas | Virtual | Virtual | Sep 12–19, 2026 | All | Unknown | <a href="https://steminate-texas-wildcard-hack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 6 |
