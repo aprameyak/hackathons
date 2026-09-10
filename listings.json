@@ -2448,6 +2448,18 @@
     "date_added": "2026-09-10"
   },
   {
+    "name": "ONHacks",
+    "organizer": "Hack Club",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-09-10",
+    "end_date": "2026-09-10",
+    "open_to": "High School",
+    "prize_pool": "Unknown",
+    "url": "https://onhacks.ca",
+    "date_added": "2026-09-10"
+  },
+  {
     "name": "internal hackathon | Elevate Ecosystem",
     "organizer": "uniplay",
     "location": "Bengaluru, India",
