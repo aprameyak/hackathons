@@ -4,18 +4,14 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->240 hackathons tracked<!-- /STATS -->
+<!-- STATS -->241 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
 | --------- | --------- | -------- | ---- | ----- | ------- | ----- | ----- | ----- |
 | Gen Agra | Orange ARM | Agra-Delhi Highway, Keetham, Agra | In-Person | Sep 7–12, 2026 | All | Unknown | <a href="https://gen-agra.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 5 |
-| Codebox Hacks Makeup | CodeBox | Virtual | Virtual | Sep 7–10, 2026 | All | Unknown | <a href="https://codebox-hacks-makeup.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 6 |
 | Shared OS Hackathon | Systemind, Inc | Virtual | Virtual | Sep 9–11, 2026 | All | Unknown | <a href="https://shared-os-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 5 |
-| Build with Gemini - Gen Recruiter | Trainzex AI | Jaipur, India | In-Person | Sep 10–10, 2026 | All | Unknown | <a href="https://gen-recruiter-google-gemini.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | TechCommons Hacks V2 - Hacks to Inspire | TechCommons | Virtual | Virtual | Sep 10–17, 2026 | All | Unknown | <a href="https://techcommons-hacks-v2.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 7 |
-| SteelByte'26 | Hack Club | Virtual | Virtual | Sep 10–10, 2026 | High School | Unknown | <a href="https://steelbyte-26.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
-| ONHacks | Hack Club | Virtual | Virtual | Sep 10–10, 2026 | High School | Unknown | <a href="https://onhacks.ca" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | internal hackathon | Elevate Ecosystem | uniplay | Bengaluru, India | In-Person | Sep 11–12, 2026 | All | Unknown | <a href="https://internal-ee-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 4 |
 | HackKentucky | KYX | Genuine Works | In-Person | Sep 11–12, 2026 | All | Unknown | <a href="https://hackkentucky.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 8 |
 | HackRice 16 | Rice University | Rice Memorial Center | In-Person | Sep 11–13, 2026 | All | Unknown | <a href="https://hackrice-16.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
@@ -36,6 +32,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | HackMIT | MIT | Cambridge, MA | In-Person | Sep 19–20, 2026 | College | Unknown | <a href="https://hackmit.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | SHPE Jr. Designathon | SHPE UF | Virtual | Virtual | Sep 19–19, 2026 | All | Unknown | <a href="https://shpe-jr-designathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Miami AI Hackathon: Mel + ElevenLabs | OPENMEL.DEV | MDC- AI Center (building 2 east side) | In-Person | Sep 19–19, 2026 | All | Unknown | <a href="https://hackathon-mel-elevenlabs.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 7 |
+| Gotong Royong Hackathon | Independent Student Organizer | Cleo Hotels Surabaya | In-Person | Sep 19–19, 2026 | All | Unknown | <a href="https://gotong-royong-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | CityCamp Gainesville Hack Day | Florida Community Innovation | Reitz Union | In-Person | Sep 20–20, 2026 | All | Unknown | <a href="https://citycamp-hack-day.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Case Closed | GDG on Campus Sheridan College | Location TBA | In-Person | Sep 20–20, 2026 | All | Unknown | <a href="https://caseclosed.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | AI Agent Hackathon | Coffee and Code Philadelphia | Pennovation center | In-Person | Sep 20–20, 2026 | All | Unknown | <a href="https://coffee-and-code-agent.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
@@ -52,8 +49,12 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | HackUTD | UT Dallas | Dallas, TX | In-Person | Nov 14–16, 2026 | College | Unknown | <a href="https://hackutd.co" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | TreeHacks | Stanford University | Stanford, CA | In-Person | Feb 14–16, 2027 | College | Unknown | <a href="https://treehacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | | | | | | | | | |
+| Build with Gemini - Gen Recruiter | Trainzex AI | Jaipur, India | In-Person | Sep 10–10, 2026 | All | Unknown | <a href="https://gen-recruiter-google-gemini.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| SteelByte'26 | Hack Club | Virtual | Virtual | Sep 10–10, 2026 | High School | Unknown | <a href="https://steelbyte-26.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
+| ONHacks | Hack Club | Virtual | Virtual | Sep 10–10, 2026 | High School | Unknown | <a href="https://onhacks.ca" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | Zoftware Hireathon | Enterprise Software Solutions | Delhi | In-Person | Sep 9–9, 2026 | All | Unknown | <a href="https://zoftware-hireathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | drwwtest | independant | Virtual | Virtual | Sep 8–9, 2026 | All | Unknown | 🔒 | Sep 7 |
+| Codebox Hacks Makeup | CodeBox | Virtual | Virtual | Sep 7–10, 2026 | All | Unknown | <a href="https://codebox-hacks-makeup.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 6 |
 | PennApps | University of Pennsylvania | Philadelphia, PA | In-Person | Sep 6–8, 2026 | College | Unknown | <a href="https://pennapps.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Syndicate by Maximor | agent orchestrator | Virtual | Virtual | Sep 5–6, 2026 | All | Unknown | <a href="https://syndicate-by-maximor.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 4 |
 | CodeBox Hacks | CodeBox | Cal Poly Advanced Technology Lab | In-Person | Sep 5–6, 2026 | All | Unknown | <a href="https://codebox-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 4 |

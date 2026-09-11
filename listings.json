@@ -2700,6 +2700,18 @@
     "date_added": "2026-09-07"
   },
   {
+    "name": "Gotong Royong Hackathon",
+    "organizer": "Independent Student Organizer",
+    "location": "Cleo Hotels Surabaya",
+    "mode": "In-Person",
+    "start_date": "2026-09-19",
+    "end_date": "2026-09-19",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://gotong-royong-hackathon.devpost.com/",
+    "date_added": "2026-09-11"
+  },
+  {
     "name": "CityCamp Gainesville Hack Day",
     "organizer": "Florida Community Innovation",
     "location": "Reitz Union",
