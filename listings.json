@@ -2916,6 +2916,18 @@
     "date_added": "2026-09-05"
   },
   {
+    "name": "OneAquaHealth IEEE Global Hackathon",
+    "organizer": "OneAquaHealth",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-10-01",
+    "end_date": "2026-10-01",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://oneaquahealth-ieee-hackathon.devpost.com/",
+    "date_added": "2026-09-12"
+  },
+  {
     "name": "WaffleHacks",
     "organizer": "WaffleHacks",
     "location": "Virtual",

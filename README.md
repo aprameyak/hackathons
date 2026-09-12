@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->250 hackathons tracked<!-- /STATS -->
+<!-- STATS -->251 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -48,6 +48,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Cyber Hawk Hack Days | monmouth university | Monmouth University | In-Person | Sep 26–26, 2026 | All | Unknown | <a href="https://cyber-hawk-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Lake Oswego Hacks | Lake Monsters Robotics (frc2635) | Virtual | Virtual | Sep 26–27, 2026 | All | Unknown | <a href="https://lake-oswego-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | Hack Atlantic | Hack Atlantic | Fredericton, New Brunswick | In-Person | Sep 27–27, 2026 | All | Unknown | <a href="https://hack-atlantic-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 5 |
+| OneAquaHealth IEEE Global Hackathon | OneAquaHealth | Virtual | Virtual | Oct 1–1, 2026 | All | Unknown | <a href="https://oneaquahealth-ieee-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | WaffleHacks | WaffleHacks | Virtual | Virtual | Oct 3–5, 2026 | High School | Unknown | <a href="https://wafflehacks.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | HackHarvard | Harvard University | Cambridge, MA | In-Person | Oct 10–12, 2026 | College | Unknown | <a href="https://hackharvard.io" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | MHacks | University of Michigan | Ann Arbor, MI | In-Person | Oct 17–19, 2026 | College | Unknown | <a href="https://mhacks.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
