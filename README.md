@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->244 hackathons tracked<!-- /STATS -->
+<!-- STATS -->245 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -23,6 +23,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Runway to Reality: AI Fashion Hackathon | vonage | Luma Studios | In-Person | Sep 12–12, 2026 | All | Unknown | <a href="https://runway-to-reality.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | WORLDS London | Multic | London, Waterloo | In-Person | Sep 12–12, 2026 | All | Unknown | <a href="https://worlds.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | VISION HACK | Hacker Fund | The Beehive | In-Person | Sep 12–12, 2026 | All | Unknown | <a href="https://visionhackla.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
+| HackWesTX VII | independant | TTU Innovation Hub at Research Hub | In-Person | Sep 12–13, 2026 | All | Unknown | <a href="https://hackwestx-vii.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | Hack the North | University of Waterloo | Waterloo, ON | In-Person | Sep 13–15, 2026 | College | Unknown | <a href="https://hackthenorth.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Hack Knowvy - 1 | Knowvy Technologies | Indrapuri, Bhopal | In-Person | Sep 13–13, 2026 | All | Unknown | <a href="https://hack-knowvy-1.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Rutgers x Elastic Hackathon | Elastic | Richard Weeks Hall of Eng - Room 211 | In-Person | Sep 14–14, 2026 | All | Unknown | <a href="https://rutgers-x-elastic-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |

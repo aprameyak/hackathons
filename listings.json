@@ -2616,6 +2616,18 @@
     "date_added": "2026-09-12"
   },
   {
+    "name": "HackWesTX VII",
+    "organizer": "independant",
+    "location": "TTU Innovation Hub at Research Hub",
+    "mode": "In-Person",
+    "start_date": "2026-09-12",
+    "end_date": "2026-09-13",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hackwestx-vii.devpost.com/",
+    "date_added": "2026-09-12"
+  },
+  {
     "name": "Hack the North",
     "organizer": "University of Waterloo",
     "location": "Waterloo, ON",
