@@ -2856,6 +2856,18 @@
     "date_added": "2026-09-12"
   },
   {
+    "name": "Houston Hackathon 2026",
+    "organizer": "Impact Hub Houston",
+    "location": "Impact Hub Houston @ Ion District",
+    "mode": "In-Person",
+    "start_date": "2026-09-25",
+    "end_date": "2026-09-28",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://houstonhackathon2026.devpost.com/",
+    "date_added": "2026-09-12"
+  },
+  {
     "name": "Cyber Hawk Hack Days",
     "organizer": "monmouth university",
     "location": "Monmouth University",
