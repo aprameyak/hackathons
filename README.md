@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->245 hackathons tracked<!-- /STATS -->
+<!-- STATS -->246 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -29,6 +29,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Rutgers x Elastic Hackathon | Elastic | Richard Weeks Hall of Eng - Room 211 | In-Person | Sep 14–14, 2026 | All | Unknown | <a href="https://rutgers-x-elastic-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | InfinityX Global Hackathon 2K26 | Innovation Hacks | Virtual | Virtual | Sep 15–25, 2026 | All | Unknown | <a href="https://infinityx-2k26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | MantisGrid AI Hackathon 2026 | MantisGrid AI | Mitchell Park Community Center | In-Person | Sep 17–17, 2026 | All | Unknown | <a href="https://mantisgrid-ai-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 9 |
+| ACM Marketsphere 2026 | R.V. College Of Engineering | Virtual | Virtual | Sep 17–20, 2026 | All | Unknown | <a href="https://acm-marketsphere-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | VTHacks 14 | TechHackers at VT | Blacksburg, VA | In-Person | Sep 18–20, 2026 | All | Unknown | <a href="https://vthacks-14.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 7 |
 | Hack the North 2026 | Hack the North | University of Waterloo — E5/PSE | In-Person | Sep 18–20, 2026 | All | Unknown | <a href="https://hackthenorth2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | HackMIT | MIT | Cambridge, MA | In-Person | Sep 19–20, 2026 | College | Unknown | <a href="https://hackmit.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |

@@ -2688,6 +2688,18 @@
     "date_added": "2026-09-09"
   },
   {
+    "name": "ACM Marketsphere 2026",
+    "organizer": "R.V. College Of Engineering",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-09-17",
+    "end_date": "2026-09-20",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://acm-marketsphere-2026.devpost.com/",
+    "date_added": "2026-09-12"
+  },
+  {
     "name": "VTHacks 14",
     "organizer": "TechHackers at VT",
     "location": "Blacksburg, VA",
