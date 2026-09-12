@@ -2676,6 +2676,18 @@
     "date_added": "2026-09-07"
   },
   {
+    "name": "Hack the North 2026",
+    "organizer": "Hack the North",
+    "location": "University of Waterloo \u2014 E5/PSE",
+    "mode": "In-Person",
+    "start_date": "2026-09-18",
+    "end_date": "2026-09-20",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hackthenorth2026.devpost.com/",
+    "date_added": "2026-09-12"
+  },
+  {
     "name": "HackMIT",
     "organizer": "MIT",
     "location": "Cambridge, MA",
