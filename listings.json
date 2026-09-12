@@ -2604,6 +2604,18 @@
     "date_added": "2026-09-11"
   },
   {
+    "name": "VISION HACK",
+    "organizer": "Hacker Fund",
+    "location": "The Beehive",
+    "mode": "In-Person",
+    "start_date": "2026-09-12",
+    "end_date": "2026-09-12",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://visionhackla.devpost.com/",
+    "date_added": "2026-09-12"
+  },
+  {
     "name": "Hack the North",
     "organizer": "University of Waterloo",
     "location": "Waterloo, ON",
