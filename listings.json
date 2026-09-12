@@ -2808,6 +2808,18 @@
     "date_added": "2026-09-03"
   },
   {
+    "name": "Agentic Hackathon 2026",
+    "organizer": "BUCC",
+    "location": "BRAC University",
+    "mode": "In-Person",
+    "start_date": "2026-09-20",
+    "end_date": "2026-09-30",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://agentic-hacks-2026.devpost.com/",
+    "date_added": "2026-09-12"
+  },
+  {
     "name": "TigerHacks 2026",
     "organizer": "Mizzou Computing Association",
     "location": "Virtual",
