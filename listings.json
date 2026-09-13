@@ -2652,6 +2652,18 @@
     "date_added": "2026-09-03"
   },
   {
+    "name": "Scuffathon 2026",
+    "organizer": "CISSA, HackMelbourne",
+    "location": "Prince Alfred Carlton",
+    "mode": "In-Person",
+    "start_date": "2026-09-13",
+    "end_date": "2026-09-13",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://scuffathon-2026.devpost.com/",
+    "date_added": "2026-09-13"
+  },
+  {
     "name": "Rutgers x Elastic Hackathon",
     "organizer": "Elastic",
     "location": "Richard Weeks Hall of Eng - Room 211",
