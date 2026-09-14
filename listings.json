@@ -2892,6 +2892,18 @@
     "date_added": "2026-09-12"
   },
   {
+    "name": "Hack the Hill III",
+    "organizer": "Capital Technology Network",
+    "location": "Learning Crossroads (CRX) - uOttawa",
+    "mode": "In-Person",
+    "start_date": "2026-09-25",
+    "end_date": "2026-09-27",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hack-the-hill-iii.devpost.com/",
+    "date_added": "2026-09-14"
+  },
+  {
     "name": "Cyber Hawk Hack Days",
     "organizer": "monmouth university",
     "location": "Monmouth University",
