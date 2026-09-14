@@ -2964,6 +2964,18 @@
     "date_added": "2026-09-13"
   },
   {
+    "name": "CyberX 26 CTF",
+    "organizer": "RNS Institute of Technology",
+    "location": "Bengaluru, India",
+    "mode": "In-Person",
+    "start_date": "2026-10-01",
+    "end_date": "2026-10-01",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://cyberx-26-ctf.devpost.com/",
+    "date_added": "2026-09-14"
+  },
+  {
     "name": "WaffleHacks",
     "organizer": "WaffleHacks",
     "location": "Virtual",
