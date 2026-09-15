@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->255 hackathons tracked<!-- /STATS -->
+<!-- STATS -->256 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -12,7 +12,6 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | TechCommons Hacks V2 - Hacks to Inspire | TechCommons | Virtual | Virtual | Sep 10–17, 2026 | All | Unknown | <a href="https://techcommons-hacks-v2.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 7 |
 | STEMinate Wildcard Hack | STEMinate Texas | Virtual | Virtual | Sep 12–19, 2026 | All | Unknown | <a href="https://steminate-texas-wildcard-hack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 6 |
 | Hack the North | University of Waterloo | Waterloo, ON | In-Person | Sep 13–15, 2026 | College | Unknown | <a href="https://hackthenorth.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
-| Rutgers x Elastic Hackathon | Elastic | Richard Weeks Hall of Eng - Room 211 | In-Person | Sep 14–14, 2026 | All | Unknown | <a href="https://rutgers-x-elastic-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | InfinityX Global Hackathon 2K26 | Innovation Hacks | Virtual | Virtual | Sep 15–25, 2026 | All | Unknown | <a href="https://infinityx-2k26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | MantisGrid AI Hackathon 2026 | MantisGrid AI | Mitchell Park Community Center | In-Person | Sep 17–17, 2026 | All | Unknown | <a href="https://mantisgrid-ai-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 9 |
 | ACM Marketsphere 2026 | R.V. College Of Engineering | Virtual | Virtual | Sep 17–20, 2026 | All | Unknown | <a href="https://acm-marketsphere-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
@@ -39,6 +38,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | CCT IT CLUB X INOVEXHQ HACK DAYS | MLH | Chitwan College of Technology | In-Person | Oct 1–1, 2026 | All | Unknown | <a href="https://cct-it-club-inovexhq-hack-days.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | CyberX 26 CTF | RNS Institute of Technology | Bengaluru, India | In-Person | Oct 1–1, 2026 | All | Unknown | <a href="https://cyberx-26-ctf.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
 | WaffleHacks | WaffleHacks | Virtual | Virtual | Oct 3–5, 2026 | High School | Unknown | <a href="https://wafflehacks.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Gear Up Hacks 2026 | Gear Up Foundation | Lincoln on Geer | In-Person | Oct 3–3, 2026 | All | Unknown | <a href="https://gear-up-hacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | HackHarvard | Harvard University | Cambridge, MA | In-Person | Oct 10–12, 2026 | College | Unknown | <a href="https://hackharvard.io" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | MHacks | University of Michigan | Ann Arbor, MI | In-Person | Oct 17–19, 2026 | College | Unknown | <a href="https://mhacks.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | HackGT | Georgia Tech | Atlanta, GA | In-Person | Oct 24–26, 2026 | College | Unknown | <a href="https://hackgt.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
@@ -46,6 +46,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | HackUTD | UT Dallas | Dallas, TX | In-Person | Nov 14–16, 2026 | College | Unknown | <a href="https://hackutd.co" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | TreeHacks | Stanford University | Stanford, CA | In-Person | Feb 14–16, 2027 | College | Unknown | <a href="https://treehacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | | | | | | | | | |
+| Rutgers x Elastic Hackathon | Elastic | Richard Weeks Hall of Eng - Room 211 | In-Person | Sep 14–14, 2026 | All | Unknown | <a href="https://rutgers-x-elastic-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Hack Knowvy - 1 | Knowvy Technologies | Indrapuri, Bhopal | In-Person | Sep 13–13, 2026 | All | Unknown | <a href="https://hack-knowvy-1.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Scuffathon 2026 | CISSA, HackMelbourne | Prince Alfred Carlton | In-Person | Sep 13–13, 2026 | All | Unknown | <a href="https://scuffathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | Trust in the Hiring Funnel Hackathon | localhost-nyc | NYU | In-Person | Sep 12–12, 2026 | All | Unknown | <a href="https://trust-in-the-hiring-funnel.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
