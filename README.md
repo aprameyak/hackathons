@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->259 hackathons tracked<!-- /STATS -->
+<!-- STATS -->260 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -13,6 +13,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | STEMinate Wildcard Hack | STEMinate Texas | Virtual | Virtual | Sep 12–19, 2026 | All | Unknown | <a href="https://steminate-texas-wildcard-hack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 6 |
 | Hack the North | University of Waterloo | Waterloo, ON | In-Person | Sep 13–15, 2026 | College | Unknown | <a href="https://hackthenorth.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | InfinityX Global Hackathon 2K26 | Innovation Hacks | Virtual | Virtual | Sep 15–25, 2026 | All | Unknown | <a href="https://infinityx-2k26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
+| VNU '26 - Connect The Dots | Hack Club | Virtual | Virtual | Sep 15–15, 2026 | High School | Unknown | <a href="https://vnuhack.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | MantisGrid AI Hackathon 2026 | MantisGrid AI | Mitchell Park Community Center | In-Person | Sep 17–17, 2026 | All | Unknown | <a href="https://mantisgrid-ai-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 9 |
 | ACM Marketsphere 2026 | R.V. College Of Engineering | Virtual | Virtual | Sep 17–20, 2026 | All | Unknown | <a href="https://acm-marketsphere-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | VTHacks 14 | TechHackers at VT | Blacksburg, VA | In-Person | Sep 18–20, 2026 | All | Unknown | <a href="https://vthacks-14.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 7 |
