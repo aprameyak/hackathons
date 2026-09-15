@@ -2832,6 +2832,18 @@
     "date_added": "2026-09-12"
   },
   {
+    "name": "Alpaca x Conviction Trading Hackathon",
+    "organizer": "Alpaca",
+    "location": "Frontier Tower",
+    "mode": "In-Person",
+    "start_date": "2026-09-20",
+    "end_date": "2026-09-20",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://conviction-trading-hack.devpost.com/",
+    "date_added": "2026-09-15"
+  },
+  {
     "name": "TigerHacks 2026",
     "organizer": "Mizzou Computing Association",
     "location": "Virtual",
