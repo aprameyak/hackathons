@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->268 hackathons tracked<!-- /STATS -->
+<!-- STATS -->269 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -37,6 +37,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | PROMPTOTHON 2026: AI Edition | AVN Institute of Engineering & Technolog | AVNIET, Ramdaspally, Hyderabad,Telangana | In-Person | Sep 26–27, 2026 | All | Unknown | <a href="https://promptothon-2026-ai-edition.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | Ascendance Foundry's Hackathon | Ascendence Foundry | University of Waterloo | In-Person | Sep 26–27, 2026 | All | Unknown | <a href="https://ascendance-foundry-s-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | JacHacks a2Tech | Jaseci Labs | UMich - Leinweber CS Building | In-Person | Sep 26–27, 2026 | All | Unknown | <a href="https://jachacks-a2tech.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
+| OwlHacks 2026 | Major League Hacking | Temple University - SERC | In-Person | Sep 26–27, 2026 | All | Unknown | <a href="https://owlhacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | Hack Atlantic | Hack Atlantic | Fredericton, New Brunswick | In-Person | Sep 27–27, 2026 | All | Unknown | <a href="https://hack-atlantic-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 5 |
 | OneAquaHealth IEEE Global Hackathon | OneAquaHealth | Virtual | Virtual | Oct 1–1, 2026 | All | Unknown | <a href="https://oneaquahealth-ieee-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | CCT IT CLUB X INOVEXHQ HACK DAYS | MLH | Chitwan College of Technology | In-Person | Oct 1–1, 2026 | All | Unknown | <a href="https://cct-it-club-inovexhq-hack-days.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |

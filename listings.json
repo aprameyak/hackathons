@@ -3060,6 +3060,18 @@
     "date_added": "2026-09-18"
   },
   {
+    "name": "OwlHacks 2026",
+    "organizer": "Major League Hacking",
+    "location": "Temple University - SERC",
+    "mode": "In-Person",
+    "start_date": "2026-09-26",
+    "end_date": "2026-09-27",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://owlhacks-2026.devpost.com/",
+    "date_added": "2026-09-18"
+  },
+  {
     "name": "Hack Atlantic",
     "organizer": "Hack Atlantic",
     "location": "Fredericton, New Brunswick",
