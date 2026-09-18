@@ -3048,6 +3048,18 @@
     "date_added": "2026-09-18"
   },
   {
+    "name": "JacHacks a2Tech",
+    "organizer": "Jaseci Labs",
+    "location": "UMich - Leinweber CS Building",
+    "mode": "In-Person",
+    "start_date": "2026-09-26",
+    "end_date": "2026-09-27",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://jachacks-a2tech.devpost.com/",
+    "date_added": "2026-09-18"
+  },
+  {
     "name": "Hack Atlantic",
     "organizer": "Hack Atlantic",
     "location": "Fredericton, New Brunswick",
