@@ -3024,6 +3024,18 @@
     "date_added": "2026-09-15"
   },
   {
+    "name": "Ascendance Foundry's Hackathon",
+    "organizer": "Ascendence Foundry",
+    "location": "University of Waterloo",
+    "mode": "In-Person",
+    "start_date": "2026-09-26",
+    "end_date": "2026-09-27",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://ascendance-foundry-s-hackathon.devpost.com/",
+    "date_added": "2026-09-18"
+  },
+  {
     "name": "Hack Atlantic",
     "organizer": "Hack Atlantic",
     "location": "Fredericton, New Brunswick",
