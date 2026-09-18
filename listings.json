@@ -2784,6 +2784,18 @@
     "date_added": "2026-09-12"
   },
   {
+    "name": "Bharat Innovation Challenge 2.0",
+    "organizer": "Lovely Professional University",
+    "location": "Lovely Professional University",
+    "mode": "In-Person",
+    "start_date": "2026-09-18",
+    "end_date": "2026-09-21",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://bic.devpost.com/",
+    "date_added": "2026-09-18"
+  },
+  {
     "name": "HackMIT",
     "organizer": "MIT",
     "location": "Cambridge, MA",

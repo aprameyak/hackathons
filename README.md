@@ -4,18 +4,17 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->264 hackathons tracked<!-- /STATS -->
+<!-- STATS -->265 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
 | --------- | --------- | -------- | ---- | ----- | ------- | ----- | ----- | ----- |
-| TechCommons Hacks V2 - Hacks to Inspire | TechCommons | Virtual | Virtual | Sep 10–17, 2026 | All | Unknown | <a href="https://techcommons-hacks-v2.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 7 |
 | STEMinate Wildcard Hack | STEMinate Texas | Virtual | Virtual | Sep 12–19, 2026 | All | Unknown | <a href="https://steminate-texas-wildcard-hack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 6 |
 | InfinityX Global Hackathon 2K26 | Innovation Hacks | Virtual | Virtual | Sep 15–25, 2026 | All | Unknown | <a href="https://infinityx-2k26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
-| MantisGrid AI Hackathon 2026 | MantisGrid AI | Mitchell Park Community Center | In-Person | Sep 17–17, 2026 | All | Unknown | <a href="https://mantisgrid-ai-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 9 |
 | ACM Marketsphere 2026 | R.V. College Of Engineering | Virtual | Virtual | Sep 17–20, 2026 | All | Unknown | <a href="https://acm-marketsphere-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | VTHacks 14 | TechHackers at VT | Blacksburg, VA | In-Person | Sep 18–20, 2026 | All | Unknown | <a href="https://vthacks-14.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 7 |
 | Hack the North 2026 | Hack the North | University of Waterloo — E5/PSE | In-Person | Sep 18–20, 2026 | All | Unknown | <a href="https://hackthenorth2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
+| Bharat Innovation Challenge 2.0 | Lovely Professional University | Lovely Professional University | In-Person | Sep 18–21, 2026 | All | Unknown | <a href="https://bic.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | HackMIT | MIT | Cambridge, MA | In-Person | Sep 19–20, 2026 | College | Unknown | <a href="https://hackmit.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | SHPE Jr. Designathon | SHPE UF | Virtual | Virtual | Sep 19–19, 2026 | All | Unknown | <a href="https://shpe-jr-designathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Miami AI Hackathon: Mel + ElevenLabs | OPENMEL.DEV | MDC- AI Center (building 2 east side) | In-Person | Sep 19–19, 2026 | All | Unknown | <a href="https://hackathon-mel-elevenlabs.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 7 |
@@ -49,6 +48,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | HackUTD | UT Dallas | Dallas, TX | In-Person | Nov 14–16, 2026 | College | Unknown | <a href="https://hackutd.co" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | TreeHacks | Stanford University | Stanford, CA | In-Person | Feb 14–16, 2027 | College | Unknown | <a href="https://treehacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | | | | | | | | | |
+| MantisGrid AI Hackathon 2026 | MantisGrid AI | Mitchell Park Community Center | In-Person | Sep 17–17, 2026 | All | Unknown | <a href="https://mantisgrid-ai-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 9 |
 | VNU '26 - Connect The Dots | Hack Club | Virtual | Virtual | Sep 15–15, 2026 | High School | Unknown | <a href="https://vnuhack.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | Blank Page | Hack Club | Virtual | Virtual | Sep 15–15, 2026 | High School | Unknown | <a href="https://blankpagehacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | Cosmo Hacks | Hack Club | Virtual | Virtual | Sep 15–15, 2026 | High School | Unknown | 🔒 | Sep 15 |
@@ -71,6 +71,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | HackRice 16 | Rice University | Rice Memorial Center | In-Person | Sep 11–13, 2026 | All | Unknown | <a href="https://hackrice-16.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | AI 4 Infra Challenge – Advanced Track | AI Student Association | Student Commons 1600 | In-Person | Sep 11–11, 2026 | All | Unknown | <a href="https://ai-4-infra-advanced-track.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | Build with Gemini - Gen Recruiter | Trainzex AI | Jaipur, India | In-Person | Sep 10–10, 2026 | All | Unknown | <a href="https://gen-recruiter-google-gemini.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| TechCommons Hacks V2 - Hacks to Inspire | TechCommons | Virtual | Virtual | Sep 10–17, 2026 | All | Unknown | <a href="https://techcommons-hacks-v2.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 7 |
 | SteelByte'26 | Hack Club | Virtual | Virtual | Sep 10–10, 2026 | High School | Unknown | <a href="https://steelbyte-26.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | ONHacks | Hack Club | Virtual | Virtual | Sep 10–10, 2026 | High School | Unknown | <a href="https://onhacks.ca" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | Zoftware Hireathon | Enterprise Software Solutions | Delhi | In-Person | Sep 9–9, 2026 | All | Unknown | <a href="https://zoftware-hireathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
