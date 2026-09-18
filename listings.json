@@ -2808,6 +2808,18 @@
     "date_added": "2026-09-18"
   },
   {
+    "name": "SASEhack 2026",
+    "organizer": "SASE",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-09-18",
+    "end_date": "2026-09-21",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://sasehack-2026.devpost.com/",
+    "date_added": "2026-09-18"
+  },
+  {
     "name": "HackMIT",
     "organizer": "MIT",
     "location": "Cambridge, MA",
