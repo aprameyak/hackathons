@@ -2820,6 +2820,18 @@
     "date_added": "2026-09-18"
   },
   {
+    "name": "ForgeHacks",
+    "organizer": "Hack Club",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-09-18",
+    "end_date": "2026-09-18",
+    "open_to": "High School",
+    "prize_pool": "Unknown",
+    "url": "https://www.forgehacks.dev/",
+    "date_added": "2026-09-18"
+  },
+  {
     "name": "HackMIT",
     "organizer": "MIT",
     "location": "Cambridge, MA",

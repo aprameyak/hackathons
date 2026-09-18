@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->270 hackathons tracked<!-- /STATS -->
+<!-- STATS -->271 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -17,6 +17,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Bharat Innovation Challenge 2.0 | Lovely Professional University | Lovely Professional University | In-Person | Sep 18–21, 2026 | All | Unknown | <a href="https://bic.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | Databricks Hackathon @ Queens College 2026 | Self | Virtual | Virtual | Sep 18–20, 2026 | All | Unknown | <a href="https://databricks-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | SASEhack 2026 | SASE | Virtual | Virtual | Sep 18–21, 2026 | All | Unknown | <a href="https://sasehack-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
+| ForgeHacks | Hack Club | Virtual | Virtual | Sep 18–18, 2026 | High School | Unknown | <a href="https://www.forgehacks.dev/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | HackMIT | MIT | Cambridge, MA | In-Person | Sep 19–20, 2026 | College | Unknown | <a href="https://hackmit.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | SHPE Jr. Designathon | SHPE UF | Virtual | Virtual | Sep 19–19, 2026 | All | Unknown | <a href="https://shpe-jr-designathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Miami AI Hackathon: Mel + ElevenLabs | OPENMEL.DEV | MDC- AI Center (building 2 east side) | In-Person | Sep 19–19, 2026 | All | Unknown | <a href="https://hackathon-mel-elevenlabs.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 7 |
