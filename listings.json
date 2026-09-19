@@ -3204,6 +3204,18 @@
     "date_added": "2026-09-17"
   },
   {
+    "name": "ImpactHack 2026",
+    "organizer": "GIS Engineering Club",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-10-01",
+    "end_date": "2026-10-08",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://impacthack26.devpost.com/",
+    "date_added": "2026-09-19"
+  },
+  {
     "name": "Gator Quant Hacks",
     "organizer": "University of Florida",
     "location": "Gainesville, Florida",
