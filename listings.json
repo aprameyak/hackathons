@@ -3276,6 +3276,18 @@
     "date_added": "2026-09-19"
   },
   {
+    "name": "LovHack Season 3",
+    "organizer": "Lovhack",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-10-04",
+    "end_date": "2026-10-04",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://lovhack-season-3.devpost.com/",
+    "date_added": "2026-09-19"
+  },
+  {
     "name": "HackHarvard",
     "organizer": "Harvard University",
     "location": "Cambridge, MA",
