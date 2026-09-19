@@ -3192,6 +3192,18 @@
     "date_added": "2026-09-17"
   },
   {
+    "name": "Gator Quant Hacks",
+    "organizer": "University of Florida",
+    "location": "Gainesville, Florida",
+    "mode": "In-Person",
+    "start_date": "2026-10-02",
+    "end_date": "2026-10-04",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://gqhacks.devpost.com/",
+    "date_added": "2026-09-19"
+  },
+  {
     "name": "WaffleHacks",
     "organizer": "WaffleHacks",
     "location": "Virtual",
