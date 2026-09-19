@@ -3216,6 +3216,18 @@
     "date_added": "2026-09-19"
   },
   {
+    "name": "Dublin Hacx",
+    "organizer": "Emerald High School",
+    "location": "SAP Office \u2014 San Ramon, CA",
+    "mode": "In-Person",
+    "start_date": "2026-10-03",
+    "end_date": "2026-10-04",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://dublin-hacx.devpost.com/",
+    "date_added": "2026-09-19"
+  },
+  {
     "name": "HackHarvard",
     "organizer": "Harvard University",
     "location": "Cambridge, MA",
