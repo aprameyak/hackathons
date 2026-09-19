@@ -3132,6 +3132,18 @@
     "date_added": "2026-09-05"
   },
   {
+    "name": "HackMatrix 5.0",
+    "organizer": "GeeksforGeeks Student Chapter",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-09-28",
+    "end_date": "2026-09-29",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hackmatrix-5.devpost.com/",
+    "date_added": "2026-09-19"
+  },
+  {
     "name": "OneAquaHealth IEEE Global Hackathon",
     "organizer": "OneAquaHealth",
     "location": "Virtual",
