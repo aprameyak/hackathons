@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->278 hackathons tracked<!-- /STATS -->
+<!-- STATS -->279 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -28,6 +28,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | AI Agent Hackathon | Coffee and Code Philadelphia | Pennovation center | In-Person | Sep 20–20, 2026 | All | Unknown | <a href="https://coffee-and-code-agent.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Agentic Hackathon 2026 | BUCC | BRAC University | In-Person | Sep 20–30, 2026 | All | Unknown | <a href="https://agentic-hacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | Alpaca x Conviction Trading Hackathon | Alpaca | Frontier Tower | In-Person | Sep 20–20, 2026 | All | Unknown | <a href="https://conviction-trading-hack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
+| Hack Days Turbhe | AITD EVENTS | Navi Mumbai, India | In-Person | Sep 20–29, 2026 | All | Unknown | <a href="https://hack-days-turbhe.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | TigerHacks 2026 | Mizzou Computing Association | Virtual | Virtual | Sep 24–27, 2026 | All | Unknown | <a href="https://tigerhacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 5 |
 | Nerdearla Vibeathon 2026 | Nerdearla | Ciudad Cultural Konex | In-Person | Sep 24–25, 2026 | All | Unknown | <a href="https://nerdearla26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | Business + AI Hackathon | stevens insitute of technology | Tech Flex, University Center Complex | In-Person | Sep 25–25, 2026 | All | Unknown | <a href="https://business-ai-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 4 |
