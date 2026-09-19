@@ -3192,6 +3192,18 @@
     "date_added": "2026-09-15"
   },
   {
+    "name": "Kurukshetra CTF",
+    "organizer": "pimpri chinchwad college of engineering",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-10-03",
+    "end_date": "2026-10-03",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://kurukshetractf.devpost.com/",
+    "date_added": "2026-09-19"
+  },
+  {
     "name": "HackHarvard",
     "organizer": "Harvard University",
     "location": "Cambridge, MA",

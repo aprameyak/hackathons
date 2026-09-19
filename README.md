@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->272 hackathons tracked<!-- /STATS -->
+<!-- STATS -->273 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -47,6 +47,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Planet Resilience: Innovation for Sustainable Impact Hackathon | Singapore University of Social Sciences | Singapore, Singapore | In-Person | Oct 1–1, 2026 | All | Unknown | <a href="https://uob-suss-planet-resilience.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | WaffleHacks | WaffleHacks | Virtual | Virtual | Oct 3–5, 2026 | High School | Unknown | <a href="https://wafflehacks.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Gear Up Hacks 2026 | Gear Up Foundation | Lincoln on Geer | In-Person | Oct 3–3, 2026 | All | Unknown | <a href="https://gear-up-hacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
+| Kurukshetra CTF | pimpri chinchwad college of engineering | Virtual | Virtual | Oct 3–3, 2026 | All | Unknown | <a href="https://kurukshetractf.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | HackHarvard | Harvard University | Cambridge, MA | In-Person | Oct 10–12, 2026 | College | Unknown | <a href="https://hackharvard.io" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | MHacks | University of Michigan | Ann Arbor, MI | In-Person | Oct 17–19, 2026 | College | Unknown | <a href="https://mhacks.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | HackGT | Georgia Tech | Atlanta, GA | In-Person | Oct 24–26, 2026 | College | Unknown | <a href="https://hackgt.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
