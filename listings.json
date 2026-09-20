@@ -3336,6 +3336,18 @@
     "date_added": "2026-09-20"
   },
   {
+    "name": "Ensign Build",
+    "organizer": "Ensign College",
+    "location": "Ensign College Building",
+    "mode": "In-Person",
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-10",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://ensign-build.devpost.com/",
+    "date_added": "2026-09-20"
+  },
+  {
     "name": "HackHarvard",
     "organizer": "Harvard University",
     "location": "Cambridge, MA",
