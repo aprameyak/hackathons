@@ -3324,6 +3324,18 @@
     "date_added": "2026-09-20"
   },
   {
+    "name": "HackUCD x Stripe",
+    "organizer": "HackUCD",
+    "location": "Ireland",
+    "mode": "In-Person",
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-09",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hackucd.devpost.com/",
+    "date_added": "2026-09-20"
+  },
+  {
     "name": "HackHarvard",
     "organizer": "Harvard University",
     "location": "Cambridge, MA",
