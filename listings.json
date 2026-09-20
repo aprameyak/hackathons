@@ -3312,6 +3312,18 @@
     "date_added": "2026-09-20"
   },
   {
+    "name": "Prompt2Product: MLH Hack Day @ AITR",
+    "organizer": "Acropolis Institute of Technology and RC",
+    "location": "AITR Indore",
+    "mode": "In-Person",
+    "start_date": "2026-10-08",
+    "end_date": "2026-10-09",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://prompt2product.devpost.com/",
+    "date_added": "2026-09-20"
+  },
+  {
     "name": "HackHarvard",
     "organizer": "Harvard University",
     "location": "Cambridge, MA",
