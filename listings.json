@@ -3300,6 +3300,18 @@
     "date_added": "2026-09-19"
   },
   {
+    "name": "Anvation",
+    "organizer": "KSSEM",
+    "location": "KSSEM",
+    "mode": "In-Person",
+    "start_date": "2026-10-08",
+    "end_date": "2026-10-09",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://anvation.devpost.com/",
+    "date_added": "2026-09-20"
+  },
+  {
     "name": "HackHarvard",
     "organizer": "Harvard University",
     "location": "Cambridge, MA",
