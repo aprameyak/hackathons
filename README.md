@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->286 hackathons tracked<!-- /STATS -->
+<!-- STATS -->287 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -45,6 +45,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Planet Resilience: Innovation for Sustainable Impact Hackathon | Singapore University of Social Sciences | Singapore, Singapore | In-Person | Oct 1–1, 2026 | All | Unknown | <a href="https://uob-suss-planet-resilience.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | ImpactHack 2026 | GIS Engineering Club | Virtual | Virtual | Oct 1–8, 2026 | All | Unknown | <a href="https://impacthack26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Gator Quant Hacks | University of Florida | Gainesville, Florida | In-Person | Oct 2–4, 2026 | All | Unknown | <a href="https://gqhacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
+| Future innovators hackothon | shrimat koti | Virtual | Virtual | Oct 2–4, 2026 | All | Unknown | <a href="https://future-innovators-hackothon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | WaffleHacks | WaffleHacks | Virtual | Virtual | Oct 3–5, 2026 | High School | Unknown | <a href="https://wafflehacks.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Gear Up Hacks 2026 | Gear Up Foundation | Lincoln on Geer | In-Person | Oct 3–3, 2026 | All | Unknown | <a href="https://gear-up-hacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | Kurukshetra CTF | pimpri chinchwad college of engineering | Virtual | Virtual | Oct 3–3, 2026 | All | Unknown | <a href="https://kurukshetractf.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
