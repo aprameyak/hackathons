@@ -3132,6 +3132,18 @@
     "date_added": "2026-09-18"
   },
   {
+    "name": "HelloHacks",
+    "organizer": "UBC BizTech",
+    "location": "University of British Columbia (UBC)",
+    "mode": "In-Person",
+    "start_date": "2026-09-26",
+    "end_date": "2026-09-27",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hellohacks-2026.devpost.com/",
+    "date_added": "2026-09-21"
+  },
+  {
     "name": "Hack Atlantic",
     "organizer": "Hack Atlantic",
     "location": "Fredericton, New Brunswick",
