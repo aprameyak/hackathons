@@ -3336,6 +3336,18 @@
     "date_added": "2026-09-20"
   },
   {
+    "name": "ForgeHacks Online 2026",
+    "organizer": "ForgeHacks",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-10-03",
+    "end_date": "2026-10-10",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://forgehacks-2026.devpost.com/",
+    "date_added": "2026-09-22"
+  },
+  {
     "name": "LovHack Season 3",
     "organizer": "Lovhack",
     "location": "Virtual",
