@@ -3168,6 +3168,18 @@
     "date_added": "2026-09-23"
   },
   {
+    "name": "Carolina Data Challenge 2026",
+    "organizer": "Carolina Analytics and Data Science",
+    "location": "UNC Chapel Hill - Sitterson Hall",
+    "mode": "In-Person",
+    "start_date": "2026-09-26",
+    "end_date": "2026-09-27",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://carolina-data-challenge-2026.devpost.com/",
+    "date_added": "2026-09-23"
+  },
+  {
     "name": "Hack Atlantic",
     "organizer": "Hack Atlantic",
     "location": "Fredericton, New Brunswick",
