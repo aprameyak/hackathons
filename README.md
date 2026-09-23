@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->292 hackathons tracked<!-- /STATS -->
+<!-- STATS -->293 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -14,6 +14,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Hack Days Turbhe | AITD EVENTS | Navi Mumbai, India | In-Person | Sep 20–29, 2026 | All | Unknown | <a href="https://hack-days-turbhe.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | TigerHacks 2026 | Mizzou Computing Association | Virtual | Virtual | Sep 24–27, 2026 | All | Unknown | <a href="https://tigerhacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 5 |
 | Nerdearla Vibeathon 2026 | Nerdearla | Ciudad Cultural Konex | In-Person | Sep 24–25, 2026 | All | Unknown | <a href="https://nerdearla26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
+| Origin Weekend Fall 2026 (x Replit) | Tiehub | Los Angeles, CA, USA | In-Person | Sep 24–28, 2026 | All | Unknown | <a href="https://origin-weekend-fall-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | Business + AI Hackathon | stevens insitute of technology | Tech Flex, University Center Complex | In-Person | Sep 25–25, 2026 | All | Unknown | <a href="https://business-ai-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 4 |
 | Chipcraft 3.0 - 24 Hour VLSI Hackathon | KARE IEEE EDS | DSPSD Lab (321), Block III | In-Person | Sep 25–26, 2026 | All | Unknown | <a href="https://chipcraft-3-0.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 6 |
 | Recruit Holdings Hackathon “Innovation Cup” | Recruit Holdings Co., Ltd. | CA, USA | In-Person | Sep 25–27, 2026 | All | Unknown | <a href="https://innovation-cup2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
