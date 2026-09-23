@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->290 hackathons tracked<!-- /STATS -->
+<!-- STATS -->291 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -27,6 +27,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | JacHacks a2Tech | Jaseci Labs | UMich - Leinweber CS Building | In-Person | Sep 26–27, 2026 | All | Unknown | <a href="https://jachacks-a2tech.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | OwlHacks 2026 | Major League Hacking | Temple University - SERC | In-Person | Sep 26–27, 2026 | All | Unknown | <a href="https://owlhacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | HelloHacks | UBC BizTech | University of British Columbia (UBC) | In-Person | Sep 26–27, 2026 | All | Unknown | <a href="https://hellohacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
+| DivHacks 2026 | Columbia University WiCS | Columbia University - Alfred Lerner Hall | In-Person | Sep 26–27, 2026 | All | Unknown | <a href="https://divhacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | Hack Atlantic | Hack Atlantic | Fredericton, New Brunswick | In-Person | Sep 27–27, 2026 | All | Unknown | <a href="https://hack-atlantic-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 5 |
 | HackMatrix 5.0 | GeeksforGeeks Student Chapter | Virtual | Virtual | Sep 28–29, 2026 | All | Unknown | <a href="https://hackmatrix-5.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | OneAquaHealth IEEE Global Hackathon | OneAquaHealth | Virtual | Virtual | Oct 1–1, 2026 | All | Unknown | <a href="https://oneaquahealth-ieee-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
