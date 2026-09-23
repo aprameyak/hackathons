@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->293 hackathons tracked<!-- /STATS -->
+<!-- STATS -->294 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -12,6 +12,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | InfinityX Global Hackathon 2K26 | Innovation Hacks | Virtual | Virtual | Sep 15–25, 2026 | All | Unknown | <a href="https://infinityx-2k26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 10 |
 | Agentic Hackathon 2026 | BUCC | BRAC University | In-Person | Sep 20–30, 2026 | All | Unknown | <a href="https://agentic-hacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | Hack Days Turbhe | AITD EVENTS | Navi Mumbai, India | In-Person | Sep 20–29, 2026 | All | Unknown | <a href="https://hack-days-turbhe.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
+| Telos Hacks | Hack Club | Virtual | Virtual | Sep 23–23, 2026 | High School | Unknown | <a href="https://hack.telost.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
 | TigerHacks 2026 | Mizzou Computing Association | Virtual | Virtual | Sep 24–27, 2026 | All | Unknown | <a href="https://tigerhacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 5 |
 | Nerdearla Vibeathon 2026 | Nerdearla | Ciudad Cultural Konex | In-Person | Sep 24–25, 2026 | All | Unknown | <a href="https://nerdearla26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | Origin Weekend Fall 2026 (x Replit) | Tiehub | Los Angeles, CA, USA | In-Person | Sep 24–28, 2026 | All | Unknown | <a href="https://origin-weekend-fall-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 23 |
