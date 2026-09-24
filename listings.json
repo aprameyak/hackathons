@@ -3204,6 +3204,18 @@
     "date_added": "2026-09-23"
   },
   {
+    "name": "hackUMBC 2026",
+    "organizer": "hackUMBC",
+    "location": "RAC (Retriever Activities Center)",
+    "mode": "In-Person",
+    "start_date": "2026-09-26",
+    "end_date": "2026-09-27",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hackumbc-2026.devpost.com/",
+    "date_added": "2026-09-24"
+  },
+  {
     "name": "Hack Atlantic",
     "organizer": "Hack Atlantic",
     "location": "Fredericton, New Brunswick",
