@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->304 hackathons tracked<!-- /STATS -->
+<!-- STATS -->305 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -22,6 +22,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Hack the Hill III | Capital Technology Network | Learning Crossroads (CRX) - uOttawa | In-Person | Sep 25–27, 2026 | All | Unknown | <a href="https://hack-the-hill-iii.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
 | Jāgriti Hacks | Jāgriti Technologies PVT LTD | Virtual | Virtual | Sep 25–29, 2026 | All | Unknown | <a href="https://jagriti-hacks1.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 21 |
 | Tech For Her | Machine Learning Bangladesh | Asian University for Women MM Ali Campus | In-Person | Sep 25–25, 2026 | All | Unknown | <a href="https://tech-for-her.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 24 |
+| Sentinel Hacks | Hack Club | Virtual | Virtual | Sep 25–25, 2026 | High School | Unknown | <a href="https://www.sentinelhacks.tech/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | Cyber Hawk Hack Days | monmouth university | Monmouth University | In-Person | Sep 26–26, 2026 | All | Unknown | <a href="https://cyber-hawk-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Lake Oswego Hacks | Lake Monsters Robotics (frc2635) | Virtual | Virtual | Sep 26–27, 2026 | All | Unknown | <a href="https://lake-oswego-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | PROMPTOTHON 2026: AI Edition | AVN Institute of Engineering & Technolog | AVNIET, Ramdaspally, Hyderabad,Telangana | In-Person | Sep 26–27, 2026 | All | Unknown | <a href="https://promptothon-2026-ai-edition.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
