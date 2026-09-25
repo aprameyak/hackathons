@@ -3420,6 +3420,18 @@
     "date_added": "2026-09-22"
   },
   {
+    "name": "StormHacks 2026",
+    "organizer": "SFU Surge",
+    "location": "Simon Fraser University",
+    "mode": "In-Person",
+    "start_date": "2026-10-03",
+    "end_date": "2026-10-04",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://stormhacks2026.devpost.com/",
+    "date_added": "2026-09-25"
+  },
+  {
     "name": "LovHack Season 3",
     "organizer": "Lovhack",
     "location": "Virtual",

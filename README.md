@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->298 hackathons tracked<!-- /STATS -->
+<!-- STATS -->299 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -48,6 +48,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | codeLinc 11 with Lincoln Financial & AWS | Lincoln Financial Group | Lincoln Financial Group - Greensboro, NC | In-Person | Oct 3–4, 2026 | All | Unknown | <a href="https://codelinc11.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Financial Cybersecurity Challenge 2026 | EconExplorers | Virtual | Virtual | Oct 3–4, 2026 | All | Unknown | <a href="https://finance-cybersecurity2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | ForgeHacks Online 2026 | ForgeHacks | Virtual | Virtual | Oct 3–10, 2026 | All | Unknown | <a href="https://forgehacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
+| StormHacks 2026 | SFU Surge | Simon Fraser University | In-Person | Oct 3–4, 2026 | All | Unknown | <a href="https://stormhacks2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | LovHack Season 3 | Lovhack | Virtual | Virtual | Oct 4–4, 2026 | All | Unknown | <a href="https://lovhack-season-3.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Anvation | KSSEM | KSSEM | In-Person | Oct 8–9, 2026 | All | Unknown | <a href="https://anvation.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | Prompt2Product: MLH Hack Day @ AITR | Acropolis Institute of Technology and RC | AITR Indore | In-Person | Oct 8–9, 2026 | All | Unknown | <a href="https://prompt2product.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
