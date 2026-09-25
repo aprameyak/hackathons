@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->303 hackathons tracked<!-- /STATS -->
+<!-- STATS -->304 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -55,6 +55,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Prompt2Product: MLH Hack Day @ AITR | Acropolis Institute of Technology and RC | AITR Indore | In-Person | Oct 8–9, 2026 | All | Unknown | <a href="https://prompt2product.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | HackUCD x Stripe | HackUCD | Ireland | In-Person | Oct 9–9, 2026 | All | Unknown | <a href="https://hackucd.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | Ensign Build | Ensign College | Ensign College Building | In-Person | Oct 9–10, 2026 | All | Unknown | <a href="https://ensign-build.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
+| Caribbean AI Summit Hackathon | Puerto Rico AI Community | Puerto Rico Convention Center | In-Person | Oct 9–10, 2026 | All | Unknown | <a href="https://caribbean-ai-summit-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | HackHarvard | Harvard University | Cambridge, MA | In-Person | Oct 10–12, 2026 | College | Unknown | <a href="https://hackharvard.io" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Build Multiplayer Data Science Agents · PyMC Labs | PyMC Labs | New York, NY, USA | In-Person | Oct 10–10, 2026 | All | Unknown | <a href="https://daimon-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | #SFTechWeek - Decision-Grade AI @ Stanford ⚡️ A Buildathon on LLM Trust | ezio | Stanford, California, USA | In-Person | Oct 10–10, 2026 | All | Unknown | <a href="https://ai-trust.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
