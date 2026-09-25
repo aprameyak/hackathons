@@ -3540,6 +3540,18 @@
     "date_added": "2026-09-25"
   },
   {
+    "name": "Hyphen-Hacks",
+    "organizer": "Lick-Wilmerding High School",
+    "location": "Lick-Wilmerding High School",
+    "mode": "In-Person",
+    "start_date": "2026-10-10",
+    "end_date": "2026-10-10",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hyphen-hacks26.devpost.com/",
+    "date_added": "2026-09-25"
+  },
+  {
     "name": "MHacks",
     "organizer": "University of Michigan",
     "location": "Ann Arbor, MI",
