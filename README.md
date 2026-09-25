@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->297 hackathons tracked<!-- /STATS -->
+<!-- STATS -->298 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -55,6 +55,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Ensign Build | Ensign College | Ensign College Building | In-Person | Oct 9–10, 2026 | All | Unknown | <a href="https://ensign-build.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | HackHarvard | Harvard University | Cambridge, MA | In-Person | Oct 10–12, 2026 | College | Unknown | <a href="https://hackharvard.io" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Build Multiplayer Data Science Agents · PyMC Labs | PyMC Labs | New York, NY, USA | In-Person | Oct 10–10, 2026 | All | Unknown | <a href="https://daimon-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
+| #SFTechWeek - Decision-Grade AI @ Stanford ⚡️ A Buildathon on LLM Trust | ezio | Stanford, California, USA | In-Person | Oct 10–10, 2026 | All | Unknown | <a href="https://ai-trust.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 25 |
 | MHacks | University of Michigan | Ann Arbor, MI | In-Person | Oct 17–19, 2026 | College | Unknown | <a href="https://mhacks.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | HackGT | Georgia Tech | Atlanta, GA | In-Person | Oct 24–26, 2026 | College | Unknown | <a href="https://hackgt.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | HackUMass | UMass Amherst | Amherst, MA | In-Person | Nov 7–9, 2026 | College | Unknown | <a href="https://hackumass.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
