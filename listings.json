@@ -3228,6 +3228,18 @@
     "date_added": "2026-09-24"
   },
   {
+    "name": "HackNite",
+    "organizer": "ACM at UC",
+    "location": "University of Cincinnati - Baldwin ",
+    "mode": "In-Person",
+    "start_date": "2026-09-26",
+    "end_date": "2026-09-27",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hacknite-31518.devpost.com/",
+    "date_added": "2026-09-25"
+  },
+  {
     "name": "Hack Atlantic",
     "organizer": "Hack Atlantic",
     "location": "Fredericton, New Brunswick",
