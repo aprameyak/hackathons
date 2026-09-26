@@ -3576,6 +3576,18 @@
     "date_added": "2026-09-26"
   },
   {
+    "name": "CrownHacks",
+    "organizer": "Club for AI Research - Charlotte",
+    "location": "UNC Charlotte - Union",
+    "mode": "In-Person",
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-11",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://crownhacks.devpost.com/",
+    "date_added": "2026-09-26"
+  },
+  {
     "name": "HackHarvard",
     "organizer": "Harvard University",
     "location": "Cambridge, MA",
