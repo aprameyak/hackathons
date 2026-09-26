@@ -3372,6 +3372,18 @@
     "date_added": "2026-09-19"
   },
   {
+    "name": "Hack Apertus",
+    "organizer": "aiLights Association",
+    "location": "Grand Finals 2027 ",
+    "mode": "In-Person",
+    "start_date": "2026-10-01",
+    "end_date": "2026-10-16",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hackapertus.devpost.com/",
+    "date_added": "2026-09-26"
+  },
+  {
     "name": "Gator Quant Hacks",
     "organizer": "University of Florida",
     "location": "Gainesville, Florida",
