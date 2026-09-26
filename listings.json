@@ -3660,6 +3660,18 @@
     "date_added": "2026-09-26"
   },
   {
+    "name": "hackPHS 2026",
+    "organizer": "Princeton High School",
+    "location": "Princeton High School",
+    "mode": "In-Person",
+    "start_date": "2026-10-10",
+    "end_date": "2026-10-11",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hackphs2026.devpost.com/",
+    "date_added": "2026-09-26"
+  },
+  {
     "name": "MHacks",
     "organizer": "University of Michigan",
     "location": "Ann Arbor, MI",
