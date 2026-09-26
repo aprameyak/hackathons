@@ -3564,6 +3564,18 @@
     "date_added": "2026-09-25"
   },
   {
+    "name": "Hacklanta",
+    "organizer": "progsu",
+    "location": "Student Center East Ballroom GSU",
+    "mode": "In-Person",
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-11",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hacklanta.devpost.com/",
+    "date_added": "2026-09-26"
+  },
+  {
     "name": "HackHarvard",
     "organizer": "Harvard University",
     "location": "Cambridge, MA",
