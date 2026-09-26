@@ -3264,6 +3264,18 @@
     "date_added": "2026-09-26"
   },
   {
+    "name": "Badger Build Fest 2026",
+    "organizer": "Tech Exploration Lab",
+    "location": "Morgridge Hall - Hello World",
+    "mode": "In-Person",
+    "start_date": "2026-09-26",
+    "end_date": "2026-09-27",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://badger-build-fest-2026.devpost.com/",
+    "date_added": "2026-09-26"
+  },
+  {
     "name": "Hack Atlantic",
     "organizer": "Hack Atlantic",
     "location": "Fredericton, New Brunswick",
