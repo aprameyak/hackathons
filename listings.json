@@ -3504,6 +3504,18 @@
     "date_added": "2026-09-19"
   },
   {
+    "name": "United Hackathons V1",
+    "organizer": "United Hackathons",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-10-06",
+    "end_date": "2026-10-12",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://devonomicsv1.devpost.com/",
+    "date_added": "2026-09-26"
+  },
+  {
     "name": "Anvation",
     "organizer": "KSSEM",
     "location": "KSSEM",
