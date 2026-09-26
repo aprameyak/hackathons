@@ -3732,6 +3732,18 @@
     "date_added": "2026-09-26"
   },
   {
+    "name": "OCCHacks",
+    "organizer": "Iota Xi at Orange Coast College",
+    "location": "OCC Ballroom - 3rd Floor Conference Room",
+    "mode": "In-Person",
+    "start_date": "2026-10-10",
+    "end_date": "2026-10-11",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://occhacks-2026.devpost.com/",
+    "date_added": "2026-09-26"
+  },
+  {
     "name": "MHacks",
     "organizer": "University of Michigan",
     "location": "Ann Arbor, MI",
