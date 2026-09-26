@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->322 hackathons tracked<!-- /STATS -->
+<!-- STATS -->323 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -75,6 +75,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | OCCHacks | Iota Xi at Orange Coast College | OCC Ballroom - 3rd Floor Conference Room | In-Person | Oct 10–11, 2026 | All | Unknown | <a href="https://occhacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | RESPAWN | MS Ramaiah University of Applied Science | Virtual | Virtual | Oct 12–15, 2026 | All | Unknown | <a href="https://respawn.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | Multimodal AI Hackathon 2026 | Kamand Prompt, IIT Mandi | Virtual | Virtual | Oct 14–14, 2026 | All | Unknown | <a href="https://multimodal-ai-hackathon-2026-7.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
+| Daytona HackSprint w/ Arize AI - NYC, October 2026 | daytona | AWS, JFK27 | In-Person | Oct 16–16, 2026 | All | Unknown | <a href="https://daytona-hacksprint-nyc.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | MHacks | University of Michigan | Ann Arbor, MI | In-Person | Oct 17–19, 2026 | College | Unknown | <a href="https://mhacks.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | HackGT | Georgia Tech | Atlanta, GA | In-Person | Oct 24–26, 2026 | College | Unknown | <a href="https://hackgt.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | HackUMass | UMass Amherst | Amherst, MA | In-Person | Nov 7–9, 2026 | College | Unknown | <a href="https://hackumass.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
