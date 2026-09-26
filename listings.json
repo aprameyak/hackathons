@@ -3252,6 +3252,18 @@
     "date_added": "2026-09-25"
   },
   {
+    "name": "2026 CS Club Hackathon",
+    "organizer": "CSC x FUCS",
+    "location": "Adelaide University",
+    "mode": "In-Person",
+    "start_date": "2026-09-26",
+    "end_date": "2026-09-27",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://csc-fucs.devpost.com/",
+    "date_added": "2026-09-26"
+  },
+  {
     "name": "Hack Atlantic",
     "organizer": "Hack Atlantic",
     "location": "Fredericton, New Brunswick",
