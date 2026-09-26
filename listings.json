@@ -3600,6 +3600,18 @@
     "date_added": "2026-09-26"
   },
   {
+    "name": "Rutgers Health Hack 2026",
+    "organizer": "Robert Wood Johnson Medical School",
+    "location": "NJ HELIX Tower 1",
+    "mode": "In-Person",
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-11",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://rutgers-health-hack-2026.devpost.com/",
+    "date_added": "2026-09-26"
+  },
+  {
     "name": "HackHarvard",
     "organizer": "Harvard University",
     "location": "Cambridge, MA",
