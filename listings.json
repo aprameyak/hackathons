@@ -3768,6 +3768,18 @@
     "date_added": "2026-09-26"
   },
   {
+    "name": "RESPAWN",
+    "organizer": "MS Ramaiah University of Applied Science",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-15",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://respawn.devpost.com/",
+    "date_added": "2026-09-26"
+  },
+  {
     "name": "Multimodal AI Hackathon 2026",
     "organizer": "Kamand Prompt, IIT Mandi",
     "location": "Virtual",
