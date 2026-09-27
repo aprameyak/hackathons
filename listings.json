@@ -3828,6 +3828,18 @@
     "date_added": "2026-09-03"
   },
   {
+    "name": "MLH Hacktoberfest Hack Day Teens Delhi X ElevenLabs",
+    "organizer": "MLH",
+    "location": "The Grandeur By Lavanya-Moti Nagar",
+    "mode": "In-Person",
+    "start_date": "2026-10-17",
+    "end_date": "2026-10-17",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hacktoberfest-teens.devpost.com/",
+    "date_added": "2026-09-27"
+  },
+  {
     "name": "HackGT",
     "organizer": "Georgia Tech",
     "location": "Atlanta, GA",
