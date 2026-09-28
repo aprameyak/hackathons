@@ -3420,6 +3420,18 @@
     "date_added": "2026-09-27"
   },
   {
+    "name": "UIUC Product Hackathon - Hack to the Future",
+    "organizer": "Product Space UIUC",
+    "location": "Campus Instructional Facility",
+    "mode": "In-Person",
+    "start_date": "2026-10-02",
+    "end_date": "2026-10-03",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://product-hackathon-uiuc.devpost.com/",
+    "date_added": "2026-09-28"
+  },
+  {
     "name": "WaffleHacks",
     "organizer": "WaffleHacks",
     "location": "Virtual",
