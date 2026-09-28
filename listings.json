@@ -3816,6 +3816,18 @@
     "date_added": "2026-09-26"
   },
   {
+    "name": "EvoHacks2026",
+    "organizer": "EvoHacks",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-10-10",
+    "end_date": "2026-10-11",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://evohackathon2026.devpost.com/",
+    "date_added": "2026-09-28"
+  },
+  {
     "name": "RESPAWN",
     "organizer": "MS Ramaiah University of Applied Science",
     "location": "Virtual",
