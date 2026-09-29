@@ -3384,6 +3384,18 @@
     "date_added": "2026-09-26"
   },
   {
+    "name": "RESPIRA HACKATHON",
+    "organizer": "CIBER",
+    "location": "Edificio Estel",
+    "mode": "In-Person",
+    "start_date": "2026-10-01",
+    "end_date": "2026-10-03",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://respira-hackathon.devpost.com/",
+    "date_added": "2026-09-29"
+  },
+  {
     "name": "Gator Quant Hacks",
     "organizer": "University of Florida",
     "location": "Gainesville, Florida",

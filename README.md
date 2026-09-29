@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->331 hackathons tracked<!-- /STATS -->
+<!-- STATS -->332 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -19,6 +19,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Planet Resilience: Innovation for Sustainable Impact Hackathon | Singapore University of Social Sciences | Singapore, Singapore | In-Person | Oct 1–1, 2026 | All | Unknown | <a href="https://uob-suss-planet-resilience.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 17 |
 | ImpactHack 2026 | GIS Engineering Club | Virtual | Virtual | Oct 1–8, 2026 | All | Unknown | <a href="https://impacthack26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Hack Apertus | aiLights Association | Grand Finals 2027 | In-Person | Oct 1–16, 2026 | All | Unknown | <a href="https://hackapertus.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
+| RESPIRA HACKATHON | CIBER | Edificio Estel | In-Person | Oct 1–3, 2026 | All | Unknown | <a href="https://respira-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 29 |
 | Gator Quant Hacks | University of Florida | Gainesville, Florida | In-Person | Oct 2–4, 2026 | All | Unknown | <a href="https://gqhacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Future innovators hackothon | shrimat koti | Virtual | Virtual | Oct 2–4, 2026 | All | Unknown | <a href="https://future-innovators-hackothon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | CSIT RE:Uni Hackathon 2026 | CSIT Society | 80.01.02, RMIT University | In-Person | Oct 2–3, 2026 | All | Unknown | <a href="https://csit-re-uni-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
