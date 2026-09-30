@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->335 hackathons tracked<!-- /STATS -->
+<!-- STATS -->336 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -34,6 +34,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Hack Dearborn: Conjure Reality | Major League Hacking | University of Michigan-Dearborn | In-Person | Oct 3–4, 2026 | All | Unknown | <a href="https://hack-dearborn-5.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
 | Build for Canada: An AI Hackathon for Economic Resilience | NovaForge | ForgeVenue | In-Person | Oct 3–3, 2026 | All | Unknown | <a href="https://build-for-canada.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 29 |
 | Hacktoberfest Hack Day Dinajpur | Machine Learning Bangladesh | HSTU, Dinajpur | In-Person | Oct 3–3, 2026 | All | Unknown | <a href="https://hacktoberfest-dinajpur.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
+| Rowdy Hacks XII | ACM UTSA | San Pedro II | In-Person | Oct 3–4, 2026 | All | Unknown | <a href="https://rowdy-hacks-xii.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | LovHack Season 3 | Lovhack | Virtual | Virtual | Oct 4–4, 2026 | All | Unknown | <a href="https://lovhack-season-3.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | FIK FAIR 2026 | UPN "Veteran" Jakarta | Virtual | Virtual | Oct 4–4, 2026 | All | Unknown | <a href="https://fik-fair-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
 | United Hackathons V1 | United Hackathons | Virtual | Virtual | Oct 6–12, 2026 | All | Unknown | <a href="https://devonomicsv1.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
