@@ -3456,6 +3456,18 @@
     "date_added": "2026-09-29"
   },
   {
+    "name": "HealthLink Life Sciences Hackathon 2026",
+    "organizer": "HealthLink",
+    "location": "The Basement",
+    "mode": "In-Person",
+    "start_date": "2026-10-02",
+    "end_date": "2026-10-04",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://healthlink-hackathon-2026.devpost.com/",
+    "date_added": "2026-09-30"
+  },
+  {
     "name": "WaffleHacks",
     "organizer": "WaffleHacks",
     "location": "Virtual",
