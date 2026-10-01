@@ -3912,6 +3912,18 @@
     "date_added": "2026-09-28"
   },
   {
+    "name": "QMUL AI Hackathon",
+    "organizer": "Queen Mary Computer Science Society",
+    "location": "QMUL - Bancroft Building 1.13",
+    "mode": "In-Person",
+    "start_date": "2026-10-10",
+    "end_date": "2026-10-10",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://qmul-ai-hackathon.devpost.com/",
+    "date_added": "2026-10-01"
+  },
+  {
     "name": "RESPAWN",
     "organizer": "MS Ramaiah University of Applied Science",
     "location": "Virtual",

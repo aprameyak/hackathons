@@ -4,12 +4,11 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->336 hackathons tracked<!-- /STATS -->
+<!-- STATS -->337 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
 | --------- | --------- | -------- | ---- | ----- | ------- | ----- | ----- | ----- |
-| Agentic Hackathon 2026 | BUCC | BRAC University | In-Person | Sep 20–30, 2026 | All | Unknown | <a href="https://agentic-hacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | OneAquaHealth IEEE Global Hackathon | OneAquaHealth | Virtual | Virtual | Oct 1–1, 2026 | All | Unknown | <a href="https://oneaquahealth-ieee-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | CCT IT CLUB X INOVEXHQ HACK DAYS | MLH | Chitwan College of Technology | In-Person | Oct 1–1, 2026 | All | Unknown | <a href="https://cct-it-club-inovexhq-hack-days.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | CyberX 26 CTF | RNS Institute of Technology | Bengaluru, India | In-Person | Oct 1–1, 2026 | All | Unknown | <a href="https://cyberx-26-ctf.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
@@ -60,6 +59,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Hacks for Humanity | Project Humanities | ASU Memorial Union , Ventana Ballroom | In-Person | Oct 10–11, 2026 | All | Unknown | <a href="https://hacks-for-humanity-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | OCCHacks | Iota Xi at Orange Coast College | OCC Ballroom - 3rd Floor Conference Room | In-Person | Oct 10–11, 2026 | All | Unknown | <a href="https://occhacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | EvoHacks2026 | EvoHacks | Virtual | Virtual | Oct 10–11, 2026 | All | Unknown | <a href="https://evohackathon2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
+| QMUL AI Hackathon | Queen Mary Computer Science Society | QMUL - Bancroft Building 1.13 | In-Person | Oct 10–10, 2026 | All | Unknown | <a href="https://qmul-ai-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 1 |
 | RESPAWN | MS Ramaiah University of Applied Science | Virtual | Virtual | Oct 12–15, 2026 | All | Unknown | <a href="https://respawn.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | Multimodal AI Hackathon 2026 | Kamand Prompt, IIT Mandi | Virtual | Virtual | Oct 14–14, 2026 | All | Unknown | <a href="https://multimodal-ai-hackathon-2026-7.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | Daytona HackSprint w/ Arize AI - NYC, October 2026 | daytona | AWS, JFK27 | In-Person | Oct 16–16, 2026 | All | Unknown | <a href="https://daytona-hacksprint-nyc.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
@@ -102,6 +102,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | CityCamp Gainesville Hack Day | Florida Community Innovation | Reitz Union | In-Person | Sep 20–20, 2026 | All | Unknown | <a href="https://citycamp-hack-day.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Case Closed | GDG on Campus Sheridan College | Location TBA | In-Person | Sep 20–20, 2026 | All | Unknown | <a href="https://caseclosed.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | AI Agent Hackathon | Coffee and Code Philadelphia | Pennovation center | In-Person | Sep 20–20, 2026 | All | Unknown | <a href="https://coffee-and-code-agent.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Agentic Hackathon 2026 | BUCC | BRAC University | In-Person | Sep 20–30, 2026 | All | Unknown | <a href="https://agentic-hacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | Alpaca x Conviction Trading Hackathon | Alpaca | Frontier Tower | In-Person | Sep 20–20, 2026 | All | Unknown | <a href="https://conviction-trading-hack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | Hack Days Turbhe | AITD EVENTS | Navi Mumbai, India | In-Person | Sep 20–29, 2026 | All | Unknown | <a href="https://hack-days-turbhe.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | HackMIT | MIT | Cambridge, MA | In-Person | Sep 19–20, 2026 | College | Unknown | <a href="https://hackmit.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
