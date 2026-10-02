@@ -4020,6 +4020,18 @@
     "date_added": "2026-09-27"
   },
   {
+    "name": "Cornell Six Sigma Hackathon",
+    "organizer": "Cornell University",
+    "location": "Upson Hall 116",
+    "mode": "In-Person",
+    "start_date": "2026-10-16",
+    "end_date": "2026-10-17",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://six-sigma-hackathon.devpost.com/",
+    "date_added": "2026-10-02"
+  },
+  {
     "name": "MHacks",
     "organizer": "University of Michigan",
     "location": "Ann Arbor, MI",

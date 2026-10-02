@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->341 hackathons tracked<!-- /STATS -->
+<!-- STATS -->342 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -64,6 +64,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Multimodal AI Hackathon 2026 | Kamand Prompt, IIT Mandi | Virtual | Virtual | Oct 14–14, 2026 | All | Unknown | <a href="https://multimodal-ai-hackathon-2026-7.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | Daytona HackSprint w/ Arize AI - NYC, October 2026 | daytona | AWS, JFK27 | In-Person | Oct 16–16, 2026 | All | Unknown | <a href="https://daytona-hacksprint-nyc.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | Build-A-Thon | Major League Hacking | NCC Digital Park, University of Ibadan | In-Person | Oct 16–17, 2026 | All | Unknown | <a href="https://build-a-thon-30568.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
+| Cornell Six Sigma Hackathon | Cornell University | Upson Hall 116 | In-Person | Oct 16–17, 2026 | All | Unknown | <a href="https://six-sigma-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 2 |
 | MHacks | University of Michigan | Ann Arbor, MI | In-Person | Oct 17–19, 2026 | College | Unknown | <a href="https://mhacks.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | MLH Hacktoberfest Hack Day Teens Delhi X ElevenLabs | MLH | The Grandeur By Lavanya-Moti Nagar | In-Person | Oct 17–17, 2026 | All | Unknown | <a href="https://hacktoberfest-teens.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
 | HackGT | Georgia Tech | Atlanta, GA | In-Person | Oct 24–26, 2026 | College | Unknown | <a href="https://hackgt.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
