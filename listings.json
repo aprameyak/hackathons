@@ -3468,6 +3468,18 @@
     "date_added": "2026-09-30"
   },
   {
+    "name": "Women's Hack Night",
+    "organizer": "Cal Hacks",
+    "location": "Unversity of California, Berkeley",
+    "mode": "In-Person",
+    "start_date": "2026-10-02",
+    "end_date": "2026-10-02",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://women-s-hack-night.devpost.com/",
+    "date_added": "2026-10-02"
+  },
+  {
     "name": "WaffleHacks",
     "organizer": "WaffleHacks",
     "location": "Virtual",
