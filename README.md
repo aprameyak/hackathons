@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->338 hackathons tracked<!-- /STATS -->
+<!-- STATS -->339 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -34,6 +34,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | LovHack Season 3 | Lovhack | Virtual | Virtual | Oct 4–4, 2026 | All | Unknown | <a href="https://lovhack-season-3.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | FIK FAIR 2026 | UPN "Veteran" Jakarta | Virtual | Virtual | Oct 4–4, 2026 | All | Unknown | <a href="https://fik-fair-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
 | United Hackathons V1 | United Hackathons | Virtual | Virtual | Oct 6–12, 2026 | All | Unknown | <a href="https://devonomicsv1.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
+| HACK PRADESH – RVIT Hackathon | RV Institute of Technology (RVIT) | RV Institute of Technology (RVIT) | In-Person | Oct 6–8, 2026 | All | Unknown | <a href="https://hackpradesh.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 2 |
 | Anvation | KSSEM | KSSEM | In-Person | Oct 8–9, 2026 | All | Unknown | <a href="https://anvation.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | Prompt2Product: MLH Hack Day @ AITR | Acropolis Institute of Technology and RC | AITR Indore | In-Person | Oct 8–9, 2026 | All | Unknown | <a href="https://prompt2product.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
 | HackUCD x Stripe | HackUCD | Ireland | In-Person | Oct 9–9, 2026 | All | Unknown | <a href="https://hackucd.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 20 |
