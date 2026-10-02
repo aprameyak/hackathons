@@ -3624,6 +3624,18 @@
     "date_added": "2026-09-30"
   },
   {
+    "name": "AdaHack 2026",
+    "organizer": "Edinburgh Hoppers",
+    "location": "UoE Informatics Forum",
+    "mode": "In-Person",
+    "start_date": "2026-10-03",
+    "end_date": "2026-10-03",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://adahack-2026.devpost.com/",
+    "date_added": "2026-10-02"
+  },
+  {
     "name": "LovHack Season 3",
     "organizer": "Lovhack",
     "location": "Virtual",
