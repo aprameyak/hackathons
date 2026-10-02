@@ -3804,6 +3804,18 @@
     "date_added": "2026-09-26"
   },
   {
+    "name": "Hack Knight Fall 2026",
+    "organizer": "Code for All QC",
+    "location": "Queens College - Dining Hall",
+    "mode": "In-Person",
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-11",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hack-knight-fall-2026.devpost.com/",
+    "date_added": "2026-10-02"
+  },
+  {
     "name": "HackHarvard",
     "organizer": "Harvard University",
     "location": "Cambridge, MA",
