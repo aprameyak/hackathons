@@ -4164,6 +4164,18 @@
     "date_added": "2026-10-03"
   },
   {
+    "name": "AI Hackathon 2026 by LA Hacks",
+    "organizer": "LA Hacks",
+    "location": "James West Alumni Center",
+    "mode": "In-Person",
+    "start_date": "2026-10-17",
+    "end_date": "2026-10-18",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://la-ai-hackathon-2026.devpost.com/",
+    "date_added": "2026-10-03"
+  },
+  {
     "name": "HackGT",
     "organizer": "Georgia Tech",
     "location": "Atlanta, GA",

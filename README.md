@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->351 hackathons tracked<!-- /STATS -->
+<!-- STATS -->352 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -75,6 +75,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Blank Page | Blank Page | Microsoft NERD Center | In-Person | Oct 17–17, 2026 | All | Unknown | <a href="https://blankpage.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 3 |
 | HuskyHack 2026:Phase 1 | SoundCreditUnion and UW Tacoma | Milgard Hall | In-Person | Oct 17–17, 2026 | All | Unknown | <a href="https://huskyhack2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 3 |
 | Hack Like W@CC 2026 | Women at College of Computing @ GT | Georgia Tech – Klaus Atrium, Klaus 1116 | In-Person | Oct 17–18, 2026 | All | Unknown | <a href="https://hack-like-wacc-26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 3 |
+| AI Hackathon 2026 by LA Hacks | LA Hacks | James West Alumni Center | In-Person | Oct 17–18, 2026 | All | Unknown | <a href="https://la-ai-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 3 |
 | HackGT | Georgia Tech | Atlanta, GA | In-Person | Oct 24–26, 2026 | College | Unknown | <a href="https://hackgt.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | HackUMass | UMass Amherst | Amherst, MA | In-Person | Nov 7–9, 2026 | College | Unknown | <a href="https://hackumass.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | HackUTD | UT Dallas | Dallas, TX | In-Person | Nov 14–16, 2026 | College | Unknown | <a href="https://hackutd.co" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
