@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->342 hackathons tracked<!-- /STATS -->
+<!-- STATS -->343 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -18,7 +18,6 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | UIUC Product Hackathon - Hack to the Future | Product Space UIUC | Campus Instructional Facility | In-Person | Oct 2–3, 2026 | All | Unknown | <a href="https://product-hackathon-uiuc.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | BigRed//Hacks 2026 | BigRed//Hacks | Virtual | Virtual | Oct 2–4, 2026 | All | Unknown | <a href="https://bigredhacks2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 29 |
 | HealthLink Life Sciences Hackathon 2026 | HealthLink | The Basement | In-Person | Oct 2–4, 2026 | All | Unknown | <a href="https://healthlink-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
-| Women's Hack Night | Cal Hacks | Unversity of California, Berkeley | In-Person | Oct 2–2, 2026 | All | Unknown | <a href="https://women-s-hack-night.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 2 |
 | WaffleHacks | WaffleHacks | Virtual | Virtual | Oct 3–5, 2026 | High School | Unknown | <a href="https://wafflehacks.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Gear Up Hacks 2026 | Gear Up Foundation | Lincoln on Geer | In-Person | Oct 3–3, 2026 | All | Unknown | <a href="https://gear-up-hacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | Kurukshetra CTF | pimpri chinchwad college of engineering | Virtual | Virtual | Oct 3–3, 2026 | All | Unknown | <a href="https://kurukshetractf.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
@@ -32,6 +31,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Hacktoberfest Hack Day Dinajpur | Machine Learning Bangladesh | HSTU, Dinajpur | In-Person | Oct 3–3, 2026 | All | Unknown | <a href="https://hacktoberfest-dinajpur.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | Rowdy Hacks XII | ACM UTSA | San Pedro II | In-Person | Oct 3–4, 2026 | All | Unknown | <a href="https://rowdy-hacks-xii.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 30 |
 | AdaHack 2026 | Edinburgh Hoppers | UoE Informatics Forum | In-Person | Oct 3–3, 2026 | All | Unknown | <a href="https://adahack-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 2 |
+| WolfHacks 2026 by ACM NCSU | ACM | Duke Energy Hall, James Hunt Jr. Library | In-Person | Oct 3–4, 2026 | All | Unknown | <a href="https://wolfhacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 3 |
 | LovHack Season 3 | Lovhack | Virtual | Virtual | Oct 4–4, 2026 | All | Unknown | <a href="https://lovhack-season-3.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | FIK FAIR 2026 | UPN "Veteran" Jakarta | Virtual | Virtual | Oct 4–4, 2026 | All | Unknown | <a href="https://fik-fair-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
 | United Hackathons V1 | United Hackathons | Virtual | Virtual | Oct 6–12, 2026 | All | Unknown | <a href="https://devonomicsv1.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
@@ -72,6 +72,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | HackUTD | UT Dallas | Dallas, TX | In-Person | Nov 14–16, 2026 | College | Unknown | <a href="https://hackutd.co" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | TreeHacks | Stanford University | Stanford, CA | In-Person | Feb 14–16, 2027 | College | Unknown | <a href="https://treehacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | | | | | | | | | |
+| Women's Hack Night | Cal Hacks | Unversity of California, Berkeley | In-Person | Oct 2–2, 2026 | All | Unknown | <a href="https://women-s-hack-night.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 2 |
 | OneAquaHealth IEEE Global Hackathon | OneAquaHealth | Virtual | Virtual | Oct 1–1, 2026 | All | Unknown | <a href="https://oneaquahealth-ieee-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 12 |
 | CCT IT CLUB X INOVEXHQ HACK DAYS | MLH | Chitwan College of Technology | In-Person | Oct 1–1, 2026 | All | Unknown | <a href="https://cct-it-club-inovexhq-hack-days.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 13 |
 | CyberX 26 CTF | RNS Institute of Technology | Bengaluru, India | In-Person | Oct 1–1, 2026 | All | Unknown | <a href="https://cyberx-26-ctf.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 14 |
