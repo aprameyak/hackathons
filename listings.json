@@ -4116,6 +4116,18 @@
     "date_added": "2026-10-03"
   },
   {
+    "name": "Seattle GiveCamp 2026",
+    "organizer": "Seattle GiveCamp",
+    "location": "Microsoft Building 122",
+    "mode": "In-Person",
+    "start_date": "2026-10-16",
+    "end_date": "2026-10-18",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://seattle-givecamp-2026.devpost.com/",
+    "date_added": "2026-10-03"
+  },
+  {
     "name": "MHacks",
     "organizer": "University of Michigan",
     "location": "Ann Arbor, MI",

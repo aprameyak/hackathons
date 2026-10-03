@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->353 hackathons tracked<!-- /STATS -->
+<!-- STATS -->354 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -71,6 +71,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Agentic Enterprise AI Hackathon — Box + AWS | box | Amazon Day 1 Building | In-Person | Oct 16–17, 2026 | All | Unknown | <a href="https://agentic-ai-hackathon-box-aws.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 3 |
 | WWU Social Justice Hackathon | Western Washington University | WWU - Kaiser Borsari Building | In-Person | Oct 16–18, 2026 | All | Unknown | <a href="https://wwu-sj-hack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 3 |
 | Neeley AI Forward: AI Innovation Competition | Texas Christian University | Virtual | Virtual | Oct 16–18, 2026 | All | Unknown | <a href="https://neeley-ai-forward.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 3 |
+| Seattle GiveCamp 2026 | Seattle GiveCamp | Microsoft Building 122 | In-Person | Oct 16–18, 2026 | All | Unknown | <a href="https://seattle-givecamp-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 3 |
 | MHacks | University of Michigan | Ann Arbor, MI | In-Person | Oct 17–19, 2026 | College | Unknown | <a href="https://mhacks.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | MLH Hacktoberfest Hack Day Teens Delhi X ElevenLabs | MLH | The Grandeur By Lavanya-Moti Nagar | In-Person | Oct 17–17, 2026 | All | Unknown | <a href="https://hacktoberfest-teens.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
 | Blank Page | Blank Page | Microsoft NERD Center | In-Person | Oct 17–17, 2026 | All | Unknown | <a href="https://blankpage.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 3 |
