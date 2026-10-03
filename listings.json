@@ -3648,6 +3648,18 @@
     "date_added": "2026-10-03"
   },
   {
+    "name": "MATLAB in Space",
+    "organizer": "Mathworks",
+    "location": "Northeastern University Shillman Hall",
+    "mode": "In-Person",
+    "start_date": "2026-10-03",
+    "end_date": "2026-10-03",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://matlab-in-space.devpost.com/",
+    "date_added": "2026-10-03"
+  },
+  {
     "name": "LovHack Season 3",
     "organizer": "Lovhack",
     "location": "Virtual",
