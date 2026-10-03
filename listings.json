@@ -4080,6 +4080,18 @@
     "date_added": "2026-10-02"
   },
   {
+    "name": "Agentic Enterprise AI Hackathon \u2014 Box + AWS",
+    "organizer": "box",
+    "location": "Amazon Day 1 Building",
+    "mode": "In-Person",
+    "start_date": "2026-10-16",
+    "end_date": "2026-10-17",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://agentic-ai-hackathon-box-aws.devpost.com/",
+    "date_added": "2026-10-03"
+  },
+  {
     "name": "MHacks",
     "organizer": "University of Michigan",
     "location": "Ann Arbor, MI",
