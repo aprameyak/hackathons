@@ -4116,6 +4116,18 @@
     "date_added": "2026-10-03"
   },
   {
+    "name": "HuskyHack 2026:Phase 1",
+    "organizer": "SoundCreditUnion and UW Tacoma",
+    "location": "Milgard Hall ",
+    "mode": "In-Person",
+    "start_date": "2026-10-17",
+    "end_date": "2026-10-17",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://huskyhack2026.devpost.com/",
+    "date_added": "2026-10-03"
+  },
+  {
     "name": "HackGT",
     "organizer": "Georgia Tech",
     "location": "Atlanta, GA",
