@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->359 hackathons tracked<!-- /STATS -->
+<!-- STATS -->360 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -42,6 +42,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | EvoHacks2026 | EvoHacks | Virtual | Virtual | Oct 10–11, 2026 | All | Unknown | <a href="https://evohackathon2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 28 |
 | QMUL AI Hackathon | Queen Mary Computer Science Society | QMUL - Bancroft Building 1.13 | In-Person | Oct 10–10, 2026 | All | Unknown | <a href="https://qmul-ai-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 1 |
 | PalmettoHacks 2026 | Kappa Theta Pi South Carolina | Swearingen Engineering Center | In-Person | Oct 10–11, 2026 | All | Unknown | <a href="https://palmettohacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 4 |
+| HackNC 2026 | HackNC | Fetzer Gym, UNC-Chapel Hill | In-Person | Oct 10–11, 2026 | All | Unknown | <a href="https://hacknc-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 5 |
 | RESPAWN | MS Ramaiah University of Applied Science | Virtual | Virtual | Oct 12–15, 2026 | All | Unknown | <a href="https://respawn.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | Multimodal AI Hackathon 2026 | Kamand Prompt, IIT Mandi | Virtual | Virtual | Oct 14–14, 2026 | All | Unknown | <a href="https://multimodal-ai-hackathon-2026-7.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | Daytona HackSprint w/ Arize AI - NYC, October 2026 | daytona | AWS, JFK27 | In-Person | Oct 16–16, 2026 | All | Unknown | <a href="https://daytona-hacksprint-nyc.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
