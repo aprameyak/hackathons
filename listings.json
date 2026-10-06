@@ -4260,6 +4260,18 @@
     "date_added": "2026-10-03"
   },
   {
+    "name": "Lehigh Fall 2026 Collegiate Hackathon",
+    "organizer": "CSBA",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-10-17",
+    "end_date": "2026-10-18",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://lehigh-hacks.devpost.com/",
+    "date_added": "2026-10-06"
+  },
+  {
     "name": "804 Hacks",
     "organizer": "UW Blockchain Society",
     "location": "Randolph-Macon College - Birdsong Hall",

@@ -4,14 +4,13 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->360 hackathons tracked<!-- /STATS -->
+<!-- STATS -->361 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
 | --------- | --------- | -------- | ---- | ----- | ------- | ----- | ----- | ----- |
 | ImpactHack 2026 | GIS Engineering Club | Virtual | Virtual | Oct 1–8, 2026 | All | Unknown | <a href="https://impacthack26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Hack Apertus | aiLights Association | Grand Finals 2027 | In-Person | Oct 1–16, 2026 | All | Unknown | <a href="https://hackapertus.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
-| WaffleHacks | WaffleHacks | Virtual | Virtual | Oct 3–5, 2026 | High School | Unknown | <a href="https://wafflehacks.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | ForgeHacks Online 2026 | ForgeHacks | Virtual | Virtual | Oct 3–10, 2026 | All | Unknown | <a href="https://forgehacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 22 |
 | United Hackathons V1 | United Hackathons | Virtual | Virtual | Oct 6–12, 2026 | All | Unknown | <a href="https://devonomicsv1.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | HACK PRADESH – RVIT Hackathon | RV Institute of Technology (RVIT) | RV Institute of Technology (RVIT) | In-Person | Oct 6–8, 2026 | All | Unknown | <a href="https://hackpradesh.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 2 |
@@ -60,6 +59,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Hack Like W@CC 2026 | Women at College of Computing @ GT | Georgia Tech – Klaus Atrium, Klaus 1116 | In-Person | Oct 17–18, 2026 | All | Unknown | <a href="https://hack-like-wacc-26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 3 |
 | AI Hackathon 2026 by LA Hacks | LA Hacks | James West Alumni Center | In-Person | Oct 17–18, 2026 | All | Unknown | <a href="https://la-ai-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 3 |
 | Girls Hoo Hack 2026 | Girls Who Code UVA | University of Virginia - Rice Hall | In-Person | Oct 17–18, 2026 | All | Unknown | <a href="https://girls-hoo-hack-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 3 |
+| Lehigh Fall 2026 Collegiate Hackathon | CSBA | Virtual | Virtual | Oct 17–18, 2026 | All | Unknown | <a href="https://lehigh-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 6 |
 | 804 Hacks | UW Blockchain Society | Randolph-Macon College - Birdsong Hall | In-Person | Oct 18–18, 2026 | All | Unknown | <a href="https://804hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 3 |
 | HackGT | Georgia Tech | Atlanta, GA | In-Person | Oct 24–26, 2026 | College | Unknown | <a href="https://hackgt.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | HackUMass | UMass Amherst | Amherst, MA | In-Person | Nov 7–9, 2026 | College | Unknown | <a href="https://hackumass.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
@@ -68,6 +68,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | | | | | | | | | |
 | LovHack Season 3 | Lovhack | Virtual | Virtual | Oct 4–4, 2026 | All | Unknown | <a href="https://lovhack-season-3.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | FIK FAIR 2026 | UPN "Veteran" Jakarta | Virtual | Virtual | Oct 4–4, 2026 | All | Unknown | <a href="https://fik-fair-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
+| WaffleHacks | WaffleHacks | Virtual | Virtual | Oct 3–5, 2026 | High School | Unknown | <a href="https://wafflehacks.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Gear Up Hacks 2026 | Gear Up Foundation | Lincoln on Geer | In-Person | Oct 3–3, 2026 | All | Unknown | <a href="https://gear-up-hacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 15 |
 | Kurukshetra CTF | pimpri chinchwad college of engineering | Virtual | Virtual | Oct 3–3, 2026 | All | Unknown | <a href="https://kurukshetractf.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Dublin Hacx | Emerald High School | SAP Office — San Ramon, CA | In-Person | Oct 3–4, 2026 | All | Unknown | <a href="https://dublin-hacx.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
