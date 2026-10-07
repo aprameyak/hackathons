@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->362 hackathons tracked<!-- /STATS -->
+<!-- STATS -->363 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -45,6 +45,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Zoftware AgentHack | zoftwarehub | Spring House Workspaces SHGU001 | In-Person | Oct 11–11, 2026 | All | Unknown | <a href="https://zoftware-agenthack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 7 |
 | RESPAWN | MS Ramaiah University of Applied Science | Virtual | Virtual | Oct 12–15, 2026 | All | Unknown | <a href="https://respawn.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | Multimodal AI Hackathon 2026 | Kamand Prompt, IIT Mandi | Virtual | Virtual | Oct 14–14, 2026 | All | Unknown | <a href="https://multimodal-ai-hackathon-2026-7.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
+| HacKITSnova 2026 | karunya University | Madawarayapuram, India | In-Person | Oct 15–15, 2026 | All | Unknown | <a href="https://hackitsnova-2026-31640.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 7 |
 | Daytona HackSprint w/ Arize AI - NYC, October 2026 | daytona | AWS, JFK27 | In-Person | Oct 16–16, 2026 | All | Unknown | <a href="https://daytona-hacksprint-nyc.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | Build-A-Thon | Major League Hacking | NCC Digital Park, University of Ibadan | In-Person | Oct 16–17, 2026 | All | Unknown | <a href="https://build-a-thon-30568.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
 | Cornell Six Sigma Hackathon | Cornell University | Upson Hall 116 | In-Person | Oct 16–17, 2026 | All | Unknown | <a href="https://six-sigma-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 2 |
