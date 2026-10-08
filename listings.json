@@ -4056,6 +4056,18 @@
     "date_added": "2026-10-05"
   },
   {
+    "name": "Get Hired Hack @ Columbia Startup Lab",
+    "organizer": "localhost-nyc",
+    "location": "Columbia Startup Lab",
+    "mode": "In-Person",
+    "start_date": "2026-10-10",
+    "end_date": "2026-10-10",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://get-hired-hack-nyc.devpost.com/",
+    "date_added": "2026-10-08"
+  },
+  {
     "name": "Zoftware AgentHack",
     "organizer": "zoftwarehub",
     "location": "Spring House Workspaces SHGU001",
