@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->365 hackathons tracked<!-- /STATS -->
+<!-- STATS -->366 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -55,6 +55,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Neeley AI Forward: AI Innovation Competition | Texas Christian University | Virtual | Virtual | Oct 16–18, 2026 | All | Unknown | <a href="https://neeley-ai-forward.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 3 |
 | Seattle GiveCamp 2026 | Seattle GiveCamp | Microsoft Building 122 | In-Person | Oct 16–18, 2026 | All | Unknown | <a href="https://seattle-givecamp-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 3 |
 | SwampHacks XII | SwampHacks | University of Florida - Reitz Union | In-Person | Oct 16–18, 2026 | All | Unknown | <a href="https://swamphacks-xii.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 5 |
+| AI At Work - Hack the Everyday | Snowflake | College for Creative Studies - Taubman | In-Person | Oct 16–16, 2026 | All | Unknown | <a href="https://ai-at-work-hack-the-everyday.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 8 |
 | MHacks | University of Michigan | Ann Arbor, MI | In-Person | Oct 17–19, 2026 | College | Unknown | <a href="https://mhacks.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | MLH Hacktoberfest Hack Day Teens Delhi X ElevenLabs | MLH | The Grandeur By Lavanya-Moti Nagar | In-Person | Oct 17–17, 2026 | All | Unknown | <a href="https://hacktoberfest-teens.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 27 |
 | Blank Page | Blank Page | Microsoft NERD Center | In-Person | Oct 17–17, 2026 | All | Unknown | <a href="https://blankpage.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 3 |
