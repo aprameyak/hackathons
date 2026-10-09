@@ -3876,6 +3876,18 @@
     "date_added": "2026-10-03"
   },
   {
+    "name": "Hack Peel",
+    "organizer": "Hack Club",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-09",
+    "open_to": "High School",
+    "prize_pool": "Unknown",
+    "url": "https://hackpeel.ca",
+    "date_added": "2026-10-09"
+  },
+  {
     "name": "HackHarvard",
     "organizer": "Harvard University",
     "location": "Cambridge, MA",
