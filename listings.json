@@ -4332,6 +4332,18 @@
     "date_added": "2026-10-08"
   },
   {
+    "name": "Arm + ExecuTorch: Edge AI Challenge",
+    "organizer": "arm",
+    "location": "San Francisco State University",
+    "mode": "In-Person",
+    "start_date": "2026-10-17",
+    "end_date": "2026-10-18",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://arm-executorch.devpost.com/",
+    "date_added": "2026-10-09"
+  },
+  {
     "name": "804 Hacks",
     "organizer": "UW Blockchain Society",
     "location": "Randolph-Macon College - Birdsong Hall",
