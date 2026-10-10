@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->386 hackathons tracked<!-- /STATS -->
+<!-- STATS -->387 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -67,6 +67,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | HEALTHHACK 48 | HealthHack | Virtual | Virtual | Oct 17–19, 2026 | All | Unknown | <a href="https://healthhack-48.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | 804 Hacks | UW Blockchain Society | Randolph-Macon College - Birdsong Hall | In-Person | Oct 18–18, 2026 | All | Unknown | <a href="https://804hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 3 |
 | SDC Hackathon 2026 | Xiamen University Malaysia | Xiamen University Malaysia | In-Person | Oct 19–24, 2026 | All | Unknown | <a href="https://sdc-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
+| Code For DFW | n/a | Virtual | Virtual | Oct 20–27, 2026 | All | Unknown | <a href="https://code-for-dfw.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | CapCut x EAST2046 University of Cambridge Creator Lab Free Learning Campus | east2046 | IfM, University of Cambridge | In-Person | Oct 22–22, 2026 | All | Unknown | <a href="https://cambridge-creator-lab.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | GeauxHack 2026 | SASE-LSU | Patrick F. Taylor Hall | In-Person | Oct 23–25, 2026 | All | Unknown | <a href="https://geauxhack-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | 2026 AI for Good Hackathon | Florida Data Science for Social Good | The Link | In-Person | Oct 23–25, 2026 | All | Unknown | <a href="https://2026ai4goodhackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
