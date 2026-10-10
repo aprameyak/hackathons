@@ -4608,6 +4608,18 @@
     "date_added": "2026-10-10"
   },
   {
+    "name": "SUSTAIN-A-THON 2.0",
+    "organizer": "Sharda University Greater Noida",
+    "location": "Block 45, Sharda University, ",
+    "mode": "In-Person",
+    "start_date": "2026-10-27",
+    "end_date": "2026-10-28",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://sustain-a-thon-2-0-31534.devpost.com/",
+    "date_added": "2026-10-10"
+  },
+  {
     "name": "HackUMass",
     "organizer": "UMass Amherst",
     "location": "Amherst, MA",
