@@ -4512,6 +4512,18 @@
     "date_added": "2026-10-10"
   },
   {
+    "name": "HackPSU Fall 2026",
+    "organizer": "HackPSU",
+    "location": "ECoRE Building",
+    "mode": "In-Person",
+    "start_date": "2026-10-24",
+    "end_date": "2026-10-25",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hackpsu-fall-2026.devpost.com/",
+    "date_added": "2026-10-10"
+  },
+  {
     "name": "HackUMass",
     "organizer": "UMass Amherst",
     "location": "Amherst, MA",
