@@ -4500,6 +4500,18 @@
     "date_added": "2026-10-10"
   },
   {
+    "name": "The Top 500 (UH v2)",
+    "organizer": "noclue",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-10-23",
+    "end_date": "2026-10-25",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://the-top-500-uh-v2.devpost.com/",
+    "date_added": "2026-10-10"
+  },
+  {
     "name": "HackGT",
     "organizer": "Georgia Tech",
     "location": "Atlanta, GA",

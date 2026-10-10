@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->385 hackathons tracked<!-- /STATS -->
+<!-- STATS -->386 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -72,6 +72,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | 2026 AI for Good Hackathon | Florida Data Science for Social Good | The Link | In-Person | Oct 23–25, 2026 | All | Unknown | <a href="https://2026ai4goodhackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | HarborHack 2026 - Agent In The Loop | Charlestonhacks | College of Charleston, Harbor Walk | In-Person | Oct 23–25, 2026 | All | Unknown | <a href="https://harborhack-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Gator Hack V - AI Days 2026 | University of Florida | Virtual | Virtual | Oct 23–25, 2026 | All | Unknown | <a href="https://gatorhack2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
+| The Top 500 (UH v2) | noclue | Virtual | Virtual | Oct 23–25, 2026 | All | Unknown | <a href="https://the-top-500-uh-v2.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | HackGT | Georgia Tech | Atlanta, GA | In-Person | Oct 24–26, 2026 | College | Unknown | <a href="https://hackgt.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Sierra Hacks 2026 | CodeCatalyst | Sierra High School | In-Person | Oct 24–24, 2026 | All | Unknown | <a href="https://sierra-hacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | HackOHI/O 2026 | OHI/O | The Ohio State University - Ohio Union | In-Person | Oct 24–25, 2026 | All | Unknown | <a href="https://hackohio2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
