@@ -4080,6 +4080,18 @@
     "date_added": "2026-10-08"
   },
   {
+    "name": "CodeRED: Orion",
+    "organizer": "CougarCS",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-10-10",
+    "end_date": "2026-10-11",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://codered-orion-ccs.devpost.com/",
+    "date_added": "2026-10-10"
+  },
+  {
     "name": "Zoftware AgentHack",
     "organizer": "zoftwarehub",
     "location": "Spring House Workspaces SHGU001",
