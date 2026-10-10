@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->371 hackathons tracked<!-- /STATS -->
+<!-- STATS -->372 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -38,6 +38,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | HackNC 2026 | HackNC | Fetzer Gym, UNC-Chapel Hill | In-Person | Oct 10–11, 2026 | All | Unknown | <a href="https://hacknc-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 5 |
 | Get Hired Hack @ Columbia Startup Lab | localhost-nyc | Columbia Startup Lab | In-Person | Oct 10–10, 2026 | All | Unknown | <a href="https://get-hired-hack-nyc.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 8 |
 | CodeRED: Orion | CougarCS | Virtual | Virtual | Oct 10–11, 2026 | All | Unknown | <a href="https://codered-orion-ccs.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
+| BoxLang-AI-ANIA-2026 | BoxLang | ANIA - El Salvador | In-Person | Oct 10–11, 2026 | All | Unknown | <a href="https://boxlang-ai-ania-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Zoftware AgentHack | zoftwarehub | Spring House Workspaces SHGU001 | In-Person | Oct 11–11, 2026 | All | Unknown | <a href="https://zoftware-agenthack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 7 |
 | RESPAWN | MS Ramaiah University of Applied Science | Virtual | Virtual | Oct 12–15, 2026 | All | Unknown | <a href="https://respawn.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
 | Multimodal AI Hackathon 2026 | Kamand Prompt, IIT Mandi | Virtual | Virtual | Oct 14–14, 2026 | All | Unknown | <a href="https://multimodal-ai-hackathon-2026-7.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 26 |
