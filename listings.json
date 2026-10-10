@@ -4272,6 +4272,18 @@
     "date_added": "2026-10-08"
   },
   {
+    "name": "Neighborhood Hacks",
+    "organizer": "Student Organization",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-10-16",
+    "end_date": "2026-10-24",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://neighborhood-hacks-2026.devpost.com/",
+    "date_added": "2026-10-10"
+  },
+  {
     "name": "MHacks",
     "organizer": "University of Michigan",
     "location": "Ann Arbor, MI",
