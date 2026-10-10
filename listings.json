@@ -4476,6 +4476,18 @@
     "date_added": "2026-10-10"
   },
   {
+    "name": "HackOHI/O 2026",
+    "organizer": "OHI/O",
+    "location": "The Ohio State University - Ohio Union",
+    "mode": "In-Person",
+    "start_date": "2026-10-24",
+    "end_date": "2026-10-25",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hackohio2026.devpost.com/",
+    "date_added": "2026-10-10"
+  },
+  {
     "name": "HackUMass",
     "organizer": "UMass Amherst",
     "location": "Amherst, MA",
