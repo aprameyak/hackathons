@@ -4128,6 +4128,18 @@
     "date_added": "2026-09-26"
   },
   {
+    "name": "Black Code Collective Hacktoberfest",
+    "organizer": "Black Code Collective",
+    "location": "Washington DC",
+    "mode": "In-Person",
+    "start_date": "2026-10-12",
+    "end_date": "2026-10-24",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://bcc-hacktoberfest.devpost.com/",
+    "date_added": "2026-10-10"
+  },
+  {
     "name": "Multimodal AI Hackathon 2026",
     "organizer": "Kamand Prompt, IIT Mandi",
     "location": "Virtual",
