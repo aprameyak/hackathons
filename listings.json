@@ -4524,6 +4524,18 @@
     "date_added": "2026-10-10"
   },
   {
+    "name": "UGAHacks CADathon",
+    "organizer": "UGAHacks",
+    "location": "UGA - Driftmier Engineering Center",
+    "mode": "In-Person",
+    "start_date": "2026-10-24",
+    "end_date": "2026-10-25",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://ugahacks-cadathon.devpost.com/",
+    "date_added": "2026-10-10"
+  },
+  {
     "name": "HackUMass",
     "organizer": "UMass Amherst",
     "location": "Amherst, MA",
