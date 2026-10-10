@@ -4488,6 +4488,18 @@
     "date_added": "2026-10-10"
   },
   {
+    "name": "DS+X Hackathon 2026",
+    "organizer": "Boston University Spark!",
+    "location": "Boston University- CDS",
+    "mode": "In-Person",
+    "start_date": "2026-10-24",
+    "end_date": "2026-10-25",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://ds-x-hackathon-2026.devpost.com/",
+    "date_added": "2026-10-10"
+  },
+  {
     "name": "HackUMass",
     "organizer": "UMass Amherst",
     "location": "Amherst, MA",
