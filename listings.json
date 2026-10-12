@@ -4296,6 +4296,18 @@
     "date_added": "2026-10-10"
   },
   {
+    "name": "Hack the Valley 11",
+    "organizer": "University of Toronto",
+    "location": "University of Toronto Scarborough",
+    "mode": "In-Person",
+    "start_date": "2026-10-16",
+    "end_date": "2026-10-18",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hack-the-valley-11.devpost.com/",
+    "date_added": "2026-10-12"
+  },
+  {
     "name": "MHacks",
     "organizer": "University of Michigan",
     "location": "Ann Arbor, MI",
