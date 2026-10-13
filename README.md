@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->392 hackathons tracked<!-- /STATS -->
+<!-- STATS -->393 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -38,6 +38,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | DubHacks '26 | University of Washington | UW Seattle- Husky Union Building | In-Person | Oct 17–18, 2026 | All | Unknown | <a href="https://dubhacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 8 |
 | Arm + ExecuTorch: Edge AI Challenge | arm | San Francisco State University | In-Person | Oct 17–18, 2026 | All | Unknown | <a href="https://arm-executorch.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 9 |
 | HEALTHHACK 48 | HealthHack | Virtual | Virtual | Oct 17–19, 2026 | All | Unknown | <a href="https://healthhack-48.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
+| Hack For Humanity (Taipei) | The AI Collective | Collaplay | In-Person | Oct 17–17, 2026 | All | Unknown | <a href="https://hack-for-humanity-taipei.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 13 |
 | 804 Hacks | UW Blockchain Society | Randolph-Macon College - Birdsong Hall | In-Person | Oct 18–18, 2026 | All | Unknown | <a href="https://804hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 3 |
 | SDC Hackathon 2026 | Xiamen University Malaysia | Xiamen University Malaysia | In-Person | Oct 19–24, 2026 | All | Unknown | <a href="https://sdc-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Code For DFW | n/a | Virtual | Virtual | Oct 20–27, 2026 | All | Unknown | <a href="https://code-for-dfw.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
