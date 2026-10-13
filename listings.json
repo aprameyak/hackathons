@@ -4560,6 +4560,18 @@
     "date_added": "2026-10-10"
   },
   {
+    "name": "SBUHacks 2026",
+    "organizer": "Stony Brook Computing Society",
+    "location": " Frank Melville Jr. Memorial Library",
+    "mode": "In-Person",
+    "start_date": "2026-10-23",
+    "end_date": "2026-10-25",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://sbuhacks-2026.devpost.com/",
+    "date_added": "2026-10-13"
+  },
+  {
     "name": "HackGT",
     "organizer": "Georgia Tech",
     "location": "Atlanta, GA",
