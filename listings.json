@@ -4320,6 +4320,18 @@
     "date_added": "2026-10-12"
   },
   {
+    "name": "MLH HacktoberFest 2026",
+    "organizer": "Google Developer Student club @ ULM",
+    "location": "University of Louisiana at Monroe",
+    "mode": "In-Person",
+    "start_date": "2026-10-16",
+    "end_date": "2026-10-16",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://mlh-hacktoberfest-2026.devpost.com/",
+    "date_added": "2026-10-13"
+  },
+  {
     "name": "MHacks",
     "organizer": "University of Michigan",
     "location": "Ann Arbor, MI",
