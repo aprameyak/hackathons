@@ -30,8 +30,8 @@ jobs:
 
       - name: Configure git
         run: |
-          git config user.name "Aprameya Kannan"
-          git config user.email "aprameyakannan@gmail.com"
+          git config user.name "baldmeya"
+          git config user.email "akannan8@umd.edu"
 
       - name: Scrape hackathon sources
         timeout-minutes: 30
