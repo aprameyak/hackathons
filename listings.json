@@ -4200,6 +4200,18 @@
     "date_added": "2026-10-07"
   },
   {
+    "name": "SPU Hacks",
+    "organizer": "Seattle Pacific University",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-18",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://spu-hacks.devpost.com/",
+    "date_added": "2026-10-14"
+  },
+  {
     "name": "Daytona HackSprint w/ Arize AI - NYC, October 2026",
     "organizer": "daytona",
     "location": "AWS, JFK27",
