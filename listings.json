@@ -4788,6 +4788,18 @@
     "date_added": "2026-10-10"
   },
   {
+    "name": "Deal Flow: NYC's First VC Hackathon @ Betaworks",
+    "organizer": "localhost-nyc",
+    "location": "Betaworks NYC",
+    "mode": "In-Person",
+    "start_date": "2026-10-24",
+    "end_date": "2026-10-24",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://nyc-vc-hack.devpost.com/",
+    "date_added": "2026-10-14"
+  },
+  {
     "name": "SUSTAIN-A-THON 2.0",
     "organizer": "Sharda University Greater Noida",
     "location": "Block 45, Sharda University, ",
