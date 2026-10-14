@@ -4524,6 +4524,18 @@
     "date_added": "2026-10-14"
   },
   {
+    "name": "Technica 2026",
+    "organizer": "technica",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-10-17",
+    "end_date": "2026-10-18",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://technica-2026.devpost.com/",
+    "date_added": "2026-10-14"
+  },
+  {
     "name": "804 Hacks",
     "organizer": "UW Blockchain Society",
     "location": "Randolph-Macon College - Birdsong Hall",
