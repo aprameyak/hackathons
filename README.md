@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->407 hackathons tracked<!-- /STATS -->
+<!-- STATS -->408 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -52,6 +52,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | HuskyHack 2026:Phase 2 | SoundCreditUnion and UW Tacoma | University of Washington Tacoma | In-Person | Oct 18–18, 2026 | All | Unknown | <a href="https://huskyhack2026phase2.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | SDC Hackathon 2026 | Xiamen University Malaysia | Xiamen University Malaysia | In-Person | Oct 19–24, 2026 | All | Unknown | <a href="https://sdc-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Build The Next Big Thing with AI - Devmarketplace | devmarketplace | NED University | In-Person | Oct 19–22, 2026 | All | Unknown | <a href="https://build-next-big-thing-with-ai.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
+| uXperience Design Jam sponsored by Sunlife | Stratford School of Interaction Design | DMS - Stratford Campus | In-Person | Oct 19–24, 2026 | All | Unknown | <a href="https://uxperience-f26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
 | Code For DFW | n/a | Virtual | Virtual | Oct 20–27, 2026 | All | Unknown | <a href="https://code-for-dfw.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | CapCut x EAST2046 University of Cambridge Creator Lab Free Learning Campus | east2046 | IfM, University of Cambridge | In-Person | Oct 22–22, 2026 | All | Unknown | <a href="https://cambridge-creator-lab.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | GeauxHack 2026 | SASE-LSU | Patrick F. Taylor Hall | In-Person | Oct 23–25, 2026 | All | Unknown | <a href="https://geauxhack-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
