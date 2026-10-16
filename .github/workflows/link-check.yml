@@ -36,8 +36,8 @@ jobs:
 
       - name: Commit closed hackathons
         run: |
-          git config user.name "Aprameya Kannan"
-          git config user.email "aprameyakannan@gmail.com"
+          git config user.name "baldmeya"
+          git config user.email "akannan8@umd.edu"
           git add README.md listings.json
           if ! git diff --staged --quiet; then
             git commit -m "mark closed hackathons from link check"
