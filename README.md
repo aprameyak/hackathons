@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->410 hackathons tracked<!-- /STATS -->
+<!-- STATS -->411 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -47,6 +47,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | HackGB | Google Developers Group on Campus- UWGB | Brown County STEM Innovation Center | In-Person | Oct 17–18, 2026 | All | Unknown | <a href="https://hackgb-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Technica 2026 | technica | Virtual | Virtual | Oct 17–18, 2026 | All | Unknown | <a href="https://technica-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | ZotHacks 2026 | Hack at UCI | UC Irvine – Student Center | In-Person | Oct 17–18, 2026 | All | Unknown | <a href="https://zothacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
+| [LA Tech Week] ACM TrojanHacks 2026 | ACM at USC | USC — Franklin Suites | In-Person | Oct 17–18, 2026 | All | Unknown | <a href="https://la-tech-acm-trojanhacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | 804 Hacks | UW Blockchain Society | Randolph-Macon College - Birdsong Hall | In-Person | Oct 18–18, 2026 | All | Unknown | <a href="https://804hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 3 |
 | Hacktoberfest Hack Day Dhaka | UniDevs | EMK Center | In-Person | Oct 18–18, 2026 | All | Unknown | <a href="https://hacktoberfest-hack-day-dhaka.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | HuskyHack 2026:Phase 2 | SoundCreditUnion and UW Tacoma | University of Washington Tacoma | In-Person | Oct 18–18, 2026 | All | Unknown | <a href="https://huskyhack2026phase2.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
