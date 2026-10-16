@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->413 hackathons tracked<!-- /STATS -->
+<!-- STATS -->414 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -72,6 +72,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | UGAHacks CADathon | UGAHacks | UGA - Driftmier Engineering Center | In-Person | Oct 24–25, 2026 | All | Unknown | <a href="https://ugahacks-cadathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Action Space | university of pennsylvania | Fab Lab | In-Person | Oct 24–25, 2026 | All | Unknown | <a href="https://action-space-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Deal Flow: NYC's First VC Hackathon @ Betaworks | localhost-nyc | Betaworks NYC | In-Person | Oct 24–24, 2026 | All | Unknown | <a href="https://nyc-vc-hack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
+| Marina Hacks 6.0 | CSULB Women in Computing | The Pointe Conference Center | In-Person | Oct 24–25, 2026 | All | Unknown | <a href="https://marina-hacks-6-0.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | SUSTAIN-A-THON 2.0 | Sharda University Greater Noida | Block 45, Sharda University, | In-Person | Oct 27–28, 2026 | All | Unknown | <a href="https://sustain-a-thon-2-0-31534.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | HackUMass | UMass Amherst | Amherst, MA | In-Person | Nov 7–9, 2026 | College | Unknown | <a href="https://hackumass.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | HackUTD | UT Dallas | Dallas, TX | In-Person | Nov 14–16, 2026 | College | Unknown | <a href="https://hackutd.co" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
