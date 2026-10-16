@@ -4800,6 +4800,18 @@
     "date_added": "2026-10-13"
   },
   {
+    "name": "Cal Hacks 13.0",
+    "organizer": "Cal Hacks",
+    "location": "Palace of Fine Arts",
+    "mode": "In-Person",
+    "start_date": "2026-10-23",
+    "end_date": "2026-10-25",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://cal-hacks-13-0.devpost.com/",
+    "date_added": "2026-10-16"
+  },
+  {
     "name": "HackGT",
     "organizer": "Georgia Tech",
     "location": "Atlanta, GA",
