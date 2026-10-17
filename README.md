@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->425 hackathons tracked<!-- /STATS -->
+<!-- STATS -->426 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -78,6 +78,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | PowerHack | ColorStack @ Lehman College | Lehman College - East Dining Hall/MU-102 | In-Person | Nov 6–6, 2026 | All | Unknown | <a href="https://powerhack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Since AI 2026 | Since AI ry | Kupittaa Campus, Turku | In-Person | Nov 6–8, 2026 | All | Unknown | <a href="https://sinceai2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | HackUMass | UMass Amherst | Amherst, MA | In-Person | Nov 7–9, 2026 | College | Unknown | <a href="https://hackumass.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Redhawk Builds 2026 | Miami | McVey Data Science Building | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://redhawk-builds-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | HackUTD | UT Dallas | Dallas, TX | In-Person | Nov 14–16, 2026 | College | Unknown | <a href="https://hackutd.co" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | TreeHacks | Stanford University | Stanford, CA | In-Person | Feb 14–16, 2027 | College | Unknown | <a href="https://treehacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | | | | | | | | | |
