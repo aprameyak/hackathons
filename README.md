@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->428 hackathons tracked<!-- /STATS -->
+<!-- STATS -->429 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -42,6 +42,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | [LA Tech Week] ACM TrojanHacks 2026 | ACM at USC | USC — Franklin Suites | In-Person | Oct 17–18, 2026 | All | Unknown | <a href="https://la-tech-acm-trojanhacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | IKU Womxn in STEM Hackathon | IKU Womxn in STEM | King's College London - Bush House | In-Person | Oct 17–18, 2026 | All | Unknown | <a href="https://iku-womxn-in-stem-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | c0mpiled-14 | Enactus at Berkeley x Transpose | MLK Student Union, Pauley East Ballroom | In-Person | Oct 17–17, 2026 | All | Unknown | <a href="https://c0mpiled-14.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
+| AccessED Hacks | AccessEDnpo | Virtual | Virtual | Oct 17–20, 2026 | All | Unknown | <a href="https://accessed-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | 804 Hacks | UW Blockchain Society | Randolph-Macon College - Birdsong Hall | In-Person | Oct 18–18, 2026 | All | Unknown | <a href="https://804hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 3 |
 | Hacktoberfest Hack Day Dhaka | UniDevs | EMK Center | In-Person | Oct 18–18, 2026 | All | Unknown | <a href="https://hacktoberfest-hack-day-dhaka.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | HuskyHack 2026:Phase 2 | SoundCreditUnion and UW Tacoma | University of Washington Tacoma | In-Person | Oct 18–18, 2026 | All | Unknown | <a href="https://huskyhack2026phase2.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
