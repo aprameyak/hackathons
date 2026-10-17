@@ -4980,6 +4980,18 @@
     "date_added": "2026-10-17"
   },
   {
+    "name": "Mergetober",
+    "organizer": "Hacker's Unity",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-11-01",
+    "end_date": "2026-11-01",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://mergetober.devpost.com/",
+    "date_added": "2026-10-17"
+  },
+  {
     "name": "HackUMass",
     "organizer": "UMass Amherst",
     "location": "Amherst, MA",
