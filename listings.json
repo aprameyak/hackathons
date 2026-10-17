@@ -5016,6 +5016,18 @@
     "date_added": "2026-10-17"
   },
   {
+    "name": "EthnoHack",
+    "organizer": "ETHCSTWIN",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-11-02",
+    "end_date": "2026-11-08",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://ethnohack2026.devpost.com/",
+    "date_added": "2026-10-17"
+  },
+  {
     "name": "Asymmetric Reframed Reality Hackathon & Co-Creation Workshop",
     "organizer": "Goldsmiths, University of London",
     "location": "Caroline Graveson Building",
