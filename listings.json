@@ -4944,6 +4944,18 @@
     "date_added": "2026-10-10"
   },
   {
+    "name": "Hybrid Micro Mouse Challenge",
+    "organizer": "Alliance University",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-10-29",
+    "end_date": "2026-10-29",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hybrid-micro-mouse-challenge.devpost.com/",
+    "date_added": "2026-10-17"
+  },
+  {
     "name": "HackUMass",
     "organizer": "UMass Amherst",
     "location": "Amherst, MA",
