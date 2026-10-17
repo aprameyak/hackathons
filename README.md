@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->422 hackathons tracked<!-- /STATS -->
+<!-- STATS -->423 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -74,6 +74,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | LarpHacks | larphacks | Toronto | In-Person | Nov 1–1, 2026 | All | Unknown | <a href="https://larphacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Ostad Presents YUNet AIgnite Buildathon 2026 | Youth Upskill Network - YUNet | Virtual | Virtual | Nov 1–5, 2026 | All | Unknown | <a href="https://yunet-aignite26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Asymmetric Reframed Reality Hackathon & Co-Creation Workshop | Goldsmiths, University of London | Caroline Graveson Building | In-Person | Nov 4–6, 2026 | All | Unknown | <a href="https://arr-hackathon-co-creation.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
+| PowerHack | ColorStack @ Lehman College | Lehman College - East Dining Hall/MU-102 | In-Person | Nov 6–6, 2026 | All | Unknown | <a href="https://powerhack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | HackUMass | UMass Amherst | Amherst, MA | In-Person | Nov 7–9, 2026 | College | Unknown | <a href="https://hackumass.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | HackUTD | UT Dallas | Dallas, TX | In-Person | Nov 14–16, 2026 | College | Unknown | <a href="https://hackutd.co" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | TreeHacks | Stanford University | Stanford, CA | In-Person | Feb 14–16, 2027 | College | Unknown | <a href="https://treehacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |

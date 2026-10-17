@@ -5028,6 +5028,18 @@
     "date_added": "2026-10-17"
   },
   {
+    "name": "PowerHack",
+    "organizer": "ColorStack @ Lehman College",
+    "location": "Lehman College - East Dining Hall/MU-102",
+    "mode": "In-Person",
+    "start_date": "2026-11-06",
+    "end_date": "2026-11-06",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://powerhack.devpost.com/",
+    "date_added": "2026-10-17"
+  },
+  {
     "name": "HackUMass",
     "organizer": "UMass Amherst",
     "location": "Amherst, MA",
