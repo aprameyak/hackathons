@@ -5100,6 +5100,18 @@
     "date_added": "2026-10-17"
   },
   {
+    "name": "HackRPI 2026",
+    "organizer": "HackRPI",
+    "location": "Darrin Communications Center",
+    "mode": "In-Person",
+    "start_date": "2026-11-07",
+    "end_date": "2026-11-08",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hackrpi-2026.devpost.com/",
+    "date_added": "2026-10-17"
+  },
+  {
     "name": "HackUTD",
     "organizer": "UT Dallas",
     "location": "Dallas, TX",
