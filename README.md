@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->431 hackathons tracked<!-- /STATS -->
+<!-- STATS -->432 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -35,6 +35,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Hacktoberfest Hack Day Dhaka | UniDevs | EMK Center | In-Person | Oct 18–18, 2026 | All | Unknown | <a href="https://hacktoberfest-hack-day-dhaka.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | HuskyHack 2026:Phase 2 | SoundCreditUnion and UW Tacoma | University of Washington Tacoma | In-Person | Oct 18–18, 2026 | All | Unknown | <a href="https://huskyhack2026phase2.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | GLITCHATHON | sir padampat singhania university | Virtual | Virtual | Oct 18–25, 2026 | All | Unknown | <a href="https://glitchathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
+| HACK INSIGHT | NED | Virtual | Virtual | Oct 18–22, 2026 | All | Unknown | <a href="https://hack-insight.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | SDC Hackathon 2026 | Xiamen University Malaysia | Xiamen University Malaysia | In-Person | Oct 19–24, 2026 | All | Unknown | <a href="https://sdc-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Build The Next Big Thing with AI - Devmarketplace | devmarketplace | NED University | In-Person | Oct 19–22, 2026 | All | Unknown | <a href="https://build-next-big-thing-with-ai.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | uXperience Design Jam sponsored by Sunlife | Stratford School of Interaction Design | DMS - Stratford Campus | In-Person | Oct 19–24, 2026 | All | Unknown | <a href="https://uxperience-f26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 15 |
