@@ -5160,6 +5160,18 @@
     "date_added": "2026-10-17"
   },
   {
+    "name": "CommuniHacks",
+    "organizer": "CommuniHacks",
+    "location": "Builders Club",
+    "mode": "In-Person",
+    "start_date": "2026-11-07",
+    "end_date": "2026-11-08",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://communihacks.devpost.com/",
+    "date_added": "2026-10-18"
+  },
+  {
     "name": "HackUTD",
     "organizer": "UT Dallas",
     "location": "Dallas, TX",
