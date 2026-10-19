@@ -5232,6 +5232,18 @@
     "date_added": "2026-10-19"
   },
   {
+    "name": "Indy Init 2026",
+    "organizer": "Indy Hackers",
+    "location": "Launch Fishers",
+    "mode": "In-Person",
+    "start_date": "2026-11-07",
+    "end_date": "2026-11-07",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://indy-init-2026.devpost.com/",
+    "date_added": "2026-10-19"
+  },
+  {
     "name": "HackUTD",
     "organizer": "UT Dallas",
     "location": "Dallas, TX",
