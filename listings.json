@@ -5220,6 +5220,18 @@
     "date_added": "2026-10-19"
   },
   {
+    "name": "Meow",
+    "organizer": "meower@outlook.com",
+    "location": "Cincinnati, OH, USA",
+    "mode": "In-Person",
+    "start_date": "2026-11-07",
+    "end_date": "2026-11-08",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://makeuc-2026-30881.devpost.com/",
+    "date_added": "2026-10-19"
+  },
+  {
     "name": "HackUTD",
     "organizer": "UT Dallas",
     "location": "Dallas, TX",
