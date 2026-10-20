@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->440 hackathons tracked<!-- /STATS -->
+<!-- STATS -->441 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -47,6 +47,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Ostad Presents YUNet AIgnite Buildathon 2026 | Youth Upskill Network - YUNet | Virtual | Virtual | Nov 1–5, 2026 | All | Unknown | <a href="https://yunet-aignite26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | AQX Sports Analytics Data Bowl 4.0 | Devpost | Virtual | Virtual | Nov 1–1, 2026 | All | Unknown | <a href="https://aqxanalyticsfour.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | EthnoHack | ETHCSTWIN | Virtual | Virtual | Nov 2–8, 2026 | All | Unknown | <a href="https://ethnohack2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
+| Neural Storm | JNTUH | Virtual | Virtual | Nov 2–4, 2026 | All | Unknown | <a href="https://neuralstorm.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | Asymmetric Reframed Reality Hackathon & Co-Creation Workshop | Goldsmiths, University of London | Caroline Graveson Building | In-Person | Nov 4–6, 2026 | All | Unknown | <a href="https://arr-hackathon-co-creation.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | PowerHack | ColorStack @ Lehman College | Lehman College - East Dining Hall/MU-102 | In-Person | Nov 6–6, 2026 | All | Unknown | <a href="https://powerhack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Since AI 2026 | Since AI ry | Kupittaa Campus, Turku | In-Person | Nov 6–8, 2026 | All | Unknown | <a href="https://sinceai2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
