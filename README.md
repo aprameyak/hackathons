@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->446 hackathons tracked<!-- /STATS -->
+<!-- STATS -->447 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -20,6 +20,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | HowdyHack 2026 | TAMUhack | Texas A＆M - Memorial Student Center | In-Person | Oct 19–25, 2026 | All | Unknown | <a href="https://hh26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | Code For DFW | n/a | Virtual | Virtual | Oct 20–27, 2026 | All | Unknown | <a href="https://code-for-dfw.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Hack to the Future | HackathonForEveryone | Virtual | Virtual | Oct 20–27, 2026 | All | Unknown | <a href="https://hack-to-the-missing-future-ai.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
+| Falcon Hacks | Hack Club | Virtual | Virtual | Oct 20–20, 2026 | High School | Unknown | <a href="https://falconhacks2026.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | United Arab Emirates vs France | World Hackathon Federation | Abu Dhabi | In-Person | Oct 21–21, 2026 | All | Unknown | <a href="https://aevsfr.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | Engage 6.0 – Code with AI Hackathon | The Northcap University | The NorthCap University | In-Person | Oct 21–27, 2026 | All | Unknown | <a href="https://engage6.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | CapCut x EAST2046 University of Cambridge Creator Lab Free Learning Campus | east2046 | IfM, University of Cambridge | In-Person | Oct 22–22, 2026 | All | Unknown | <a href="https://cambridge-creator-lab.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
