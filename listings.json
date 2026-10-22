@@ -5280,6 +5280,18 @@
     "date_added": "2026-10-17"
   },
   {
+    "name": "Ship It: The Product Builders' Hackathon",
+    "organizer": "Mixpanel",
+    "location": "Mixpanel HQ",
+    "mode": "In-Person",
+    "start_date": "2026-11-05",
+    "end_date": "2026-11-05",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://ship-it-hackathon.devpost.com/",
+    "date_added": "2026-10-22"
+  },
+  {
     "name": "PowerHack",
     "organizer": "ColorStack @ Lehman College",
     "location": "Lehman College - East Dining Hall/MU-102",
