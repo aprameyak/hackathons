@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->453 hackathons tracked<!-- /STATS -->
+<!-- STATS -->454 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -68,6 +68,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | MakeUC 2026 | IEEE@UC | 1819 Innovation Hub | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://makeuc-2026-30884.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Meow | meower@outlook.com | Cincinnati, OH, USA | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://makeuc-2026-30881.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Indy Init 2026 | Indy Hackers | Launch Fishers | In-Person | Nov 7–7, 2026 | All | Unknown | <a href="https://indy-init-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
+| Redshifted Cortex - AI built by High Schoolers | Redshifted | Virtual | Virtual | Nov 7–7, 2026 | All | Unknown | <a href="https://redshifted-cortex.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | HackUTD | UT Dallas | Dallas, TX | In-Person | Nov 14–16, 2026 | College | Unknown | <a href="https://hackutd.co" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | TreeHacks | Stanford University | Stanford, CA | In-Person | Feb 14–16, 2027 | College | Unknown | <a href="https://treehacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | | | | | | | | | |
