@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->450 hackathons tracked<!-- /STATS -->
+<!-- STATS -->451 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -42,6 +42,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Buksi SITE (STEM Innovation & Talent Expo) 2026 | Bukit Sion School | Bukit Sion Highschool | In-Person | Oct 24–30, 2026 | All | Unknown | <a href="https://buksi-site-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | AI Builder Competition (Hackachusetts) | MassAI | Meehan Student Center (MSC) 490 | In-Person | Oct 24–24, 2026 | All | Unknown | <a href="https://a-hackachusetts.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | CodeFest 2026 by ColorStackBU | ColorStackBU | Binghamton University Classroom Wing | In-Person | Oct 24–25, 2026 | All | Unknown | <a href="https://codefest-2026-colorstackbu.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
+| Zero Human Company Hackathon at Whop HQ by Terac | Terac | Whop Headquarters | In-Person | Oct 24–24, 2026 | All | Unknown | <a href="https://zhch-nyc.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | SUSTAIN-A-THON 2.0 | Sharda University Greater Noida | Block 45, Sharda University, | In-Person | Oct 27–28, 2026 | All | Unknown | <a href="https://sustain-a-thon-2-0-31534.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Hybrid Micro Mouse Challenge | Alliance University | Virtual | Virtual | Oct 29–29, 2026 | All | Unknown | <a href="https://hybrid-micro-mouse-challenge.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Learn to Hack: MATLAB Edition 2026 | CCEB ANATA | Virtual | Virtual | Oct 30–30, 2026 | All | Unknown | <a href="https://ntu-matlab-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
