@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->448 hackathons tracked<!-- /STATS -->
+<!-- STATS -->449 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -19,7 +19,6 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | HowdyHack 2026 | TAMUhack | Texas A＆M - Memorial Student Center | In-Person | Oct 19–25, 2026 | All | Unknown | 🔒 | Oct 20 |
 | Code For DFW | n/a | Virtual | Virtual | Oct 20–27, 2026 | All | Unknown | <a href="https://code-for-dfw.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Hack to the Future | HackathonForEveryone | Virtual | Virtual | Oct 20–27, 2026 | All | Unknown | <a href="https://hack-to-the-missing-future-ai.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
-| United Arab Emirates vs France | World Hackathon Federation | Abu Dhabi | In-Person | Oct 21–21, 2026 | All | Unknown | <a href="https://aevsfr.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | Engage 6.0 – Code with AI Hackathon | The Northcap University | The NorthCap University | In-Person | Oct 21–27, 2026 | All | Unknown | <a href="https://engage6.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | CapCut x EAST2046 University of Cambridge Creator Lab Free Learning Campus | east2046 | IfM, University of Cambridge | In-Person | Oct 22–22, 2026 | All | Unknown | <a href="https://cambridge-creator-lab.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | GeauxHack 2026 | SASE-LSU | Patrick F. Taylor Hall | In-Person | Oct 23–25, 2026 | All | Unknown | <a href="https://geauxhack-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
@@ -42,6 +41,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | NextSpark Hacks | Independent | Virtual | Virtual | Oct 24–31, 2026 | All | Unknown | <a href="https://nextspark-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Buksi SITE (STEM Innovation & Talent Expo) 2026 | Bukit Sion School | Bukit Sion Highschool | In-Person | Oct 24–30, 2026 | All | Unknown | <a href="https://buksi-site-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | AI Builder Competition (Hackachusetts) | MassAI | Meehan Student Center (MSC) 490 | In-Person | Oct 24–24, 2026 | All | Unknown | <a href="https://a-hackachusetts.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
+| CodeFest 2026 by ColorStackBU | ColorStackBU | Binghamton University Classroom Wing | In-Person | Oct 24–25, 2026 | All | Unknown | <a href="https://codefest-2026-colorstackbu.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | SUSTAIN-A-THON 2.0 | Sharda University Greater Noida | Block 45, Sharda University, | In-Person | Oct 27–28, 2026 | All | Unknown | <a href="https://sustain-a-thon-2-0-31534.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Hybrid Micro Mouse Challenge | Alliance University | Virtual | Virtual | Oct 29–29, 2026 | All | Unknown | <a href="https://hybrid-micro-mouse-challenge.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Learn to Hack: MATLAB Edition 2026 | CCEB ANATA | Virtual | Virtual | Oct 30–30, 2026 | All | Unknown | <a href="https://ntu-matlab-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
@@ -67,6 +67,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | HackUTD | UT Dallas | Dallas, TX | In-Person | Nov 14–16, 2026 | College | Unknown | <a href="https://hackutd.co" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | TreeHacks | Stanford University | Stanford, CA | In-Person | Feb 14–16, 2027 | College | Unknown | <a href="https://treehacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | | | | | | | | | |
+| United Arab Emirates vs France | World Hackathon Federation | Abu Dhabi | In-Person | Oct 21–21, 2026 | All | Unknown | <a href="https://aevsfr.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | Falcon Hacks | Hack Club | Virtual | Virtual | Oct 20–20, 2026 | High School | Unknown | <a href="https://falconhacks2026.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | 804 Hacks | UW Blockchain Society | Randolph-Macon College - Birdsong Hall | In-Person | Oct 18–18, 2026 | All | Unknown | <a href="https://804hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 3 |
 | Hacktoberfest Hack Day Dhaka | UniDevs | EMK Center | In-Person | Oct 18–18, 2026 | All | Unknown | <a href="https://hacktoberfest-hack-day-dhaka.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
