@@ -4932,6 +4932,18 @@
     "date_added": "2026-10-16"
   },
   {
+    "name": "Make Her Hack",
+    "organizer": "Make-A-Ton",
+    "location": "Kochi",
+    "mode": "In-Person",
+    "start_date": "2026-10-23",
+    "end_date": "2026-10-23",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://make-her-hack.devpost.com/",
+    "date_added": "2026-10-22"
+  },
+  {
     "name": "HackGT",
     "organizer": "Georgia Tech",
     "location": "Atlanta, GA",
