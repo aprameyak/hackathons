@@ -328,7 +328,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | HackIllinois | University of Illinois | Champaign, IL | In-Person | Sep 3–3, 2026 | College | Unknown | <a href="https://hackillinois.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | HackTX | UT Austin | Austin, TX | In-Person | Sep 3–3, 2026 | College | Unknown | <a href="https://hacktx.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | HackKU | University of Kansas | Lawrence, KS | In-Person | Sep 3–3, 2026 | College | Unknown | 🔒 | Sep 3 |
-| HackCU | University of Colorado Boulder | Boulder, CO | In-Person | Sep 3–3, 2026 | College | Unknown | <a href="https://hackcu.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| HackCU | University of Colorado Boulder | Boulder, CO | In-Person | Sep 3–3, 2026 | College | Unknown | 🔒 | Sep 3 |
 | WashUHacks | Washington University in St. Louis | St. Louis, MO | In-Person | Sep 3–3, 2026 | College | Unknown | 🔒 | Sep 3 |
 | HackOHI/O | Ohio State University | Columbus, OH | In-Person | Sep 3–3, 2026 | College | Unknown | 🔒 | Sep 3 |
 | HackPSU | Penn State University | State College, PA | In-Person | Sep 3–3, 2026 | College | Unknown | <a href="https://hackpsu.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
