@@ -4848,6 +4848,18 @@
     "date_added": "2026-10-10"
   },
   {
+    "name": "Teens Hack Houston",
+    "organizer": "Hack Club",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-10-22",
+    "end_date": "2026-10-22",
+    "open_to": "High School",
+    "prize_pool": "Unknown",
+    "url": "https://tripleh.space/",
+    "date_added": "2026-10-22"
+  },
+  {
     "name": "GeauxHack 2026",
     "organizer": "SASE-LSU",
     "location": "Patrick F. Taylor Hall",
