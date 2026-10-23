@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->461 hackathons tracked<!-- /STATS -->
+<!-- STATS -->462 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -46,6 +46,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | UXperience: Waves of Becoming | User Experience Club | ECSW @ UT Dallas | In-Person | Oct 24–25, 2026 | All | Unknown | <a href="https://uxperience-waves-of-becoming.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Five Nights with AI | ACM@UCSD | Virtual | Virtual | Oct 24–24, 2026 | All | Unknown | <a href="https://five-nights-with-ai.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | UF GDG DevFest 2026 | UF Google Developer Group | Turlington Hall - University of Florida | In-Person | Oct 24–24, 2026 | All | Unknown | <a href="https://ufgdg-devfest-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
+| AI in Healthcare Hackathon | Leeds AI Society | University of Leeds - Helix | In-Person | Oct 24–25, 2026 | All | Unknown | <a href="https://leeds-ai-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | SUSTAIN-A-THON 2.0 | Sharda University Greater Noida | Block 45, Sharda University, | In-Person | Oct 27–28, 2026 | All | Unknown | <a href="https://sustain-a-thon-2-0-31534.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Hybrid Micro Mouse Challenge | Alliance University | Virtual | Virtual | Oct 29–29, 2026 | All | Unknown | <a href="https://hybrid-micro-mouse-challenge.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Trick or Build: Mel × Prompt Anything × AI Builders | Agentic Day (co-hosted with Mel) | Virtual | Virtual | Oct 29–29, 2026 | All | Unknown | <a href="https://trick-or-build.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
