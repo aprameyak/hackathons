@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->462 hackathons tracked<!-- /STATS -->
+<!-- STATS -->463 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -28,6 +28,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Cal Hacks 13.0 | Cal Hacks | Palace of Fine Arts | In-Person | Oct 23–25, 2026 | All | Unknown | <a href="https://cal-hacks-13-0.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
 | Make Her Hack | Make-A-Ton | Kochi | In-Person | Oct 23–23, 2026 | All | Unknown | <a href="https://make-her-hack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | SpartHill Hacks 2026: IBM AI Challenge | IBM | SJSU - Spartan Complex | In-Person | Oct 23–24, 2026 | All | Unknown | <a href="https://sparthill-ibm-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
+| Mango Hacks | Hack Club | Virtual | Virtual | Oct 23–23, 2026 | High School | Unknown | <a href="https://mangohacks.ecily.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | HackGT | Georgia Tech | Atlanta, GA | In-Person | Oct 24–26, 2026 | College | Unknown | 🔒 | Sep 3 |
 | Sierra Hacks 2026 | CodeCatalyst | Sierra High School | In-Person | Oct 24–24, 2026 | All | Unknown | <a href="https://sierra-hacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | HackOHI/O 2026 | OHI/O | The Ohio State University - Ohio Union | In-Person | Oct 24–25, 2026 | All | Unknown | <a href="https://hackohio2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
