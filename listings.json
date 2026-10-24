@@ -5676,6 +5676,18 @@
     "date_added": "2026-10-24"
   },
   {
+    "name": "Hackperimeter",
+    "organizer": "Georgia State University",
+    "location": "GSU Perimeter College - Clarkston Campus",
+    "mode": "In-Person",
+    "start_date": "2026-11-13",
+    "end_date": "2026-11-13",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hackperimeter.devpost.com/",
+    "date_added": "2026-10-24"
+  },
+  {
     "name": "HackUTD",
     "organizer": "UT Dallas",
     "location": "Dallas, TX",
