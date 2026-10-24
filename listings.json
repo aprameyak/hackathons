@@ -5664,6 +5664,18 @@
     "date_added": "2026-10-24"
   },
   {
+    "name": "The Atomiq Hackathon | Qiskit Fall Fest 2026 at IEM",
+    "organizer": "Institute of Engineering & Management",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-11-10",
+    "end_date": "2026-11-11",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://atomiq-hackathon-qff-26-iem.devpost.com/",
+    "date_added": "2026-10-24"
+  },
+  {
     "name": "HackUTD",
     "organizer": "UT Dallas",
     "location": "Dallas, TX",
