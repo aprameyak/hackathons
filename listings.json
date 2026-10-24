@@ -5604,6 +5604,18 @@
     "date_added": "2026-10-24"
   },
   {
+    "name": "UXDC Designathon - 2026",
+    "organizer": "UXDC - Ucalgary design club",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-11-07",
+    "end_date": "2026-11-08",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://uxdc-designathon-2026.devpost.com/",
+    "date_added": "2026-10-24"
+  },
+  {
     "name": "HackUTD",
     "organizer": "UT Dallas",
     "location": "Dallas, TX",
