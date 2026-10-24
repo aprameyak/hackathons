@@ -5724,6 +5724,18 @@
     "date_added": "2026-10-24"
   },
   {
+    "name": "Code/Clash",
+    "organizer": "BitBrothers",
+    "location": "Towson Cyber Center (10 West)",
+    "mode": "In-Person",
+    "start_date": "2026-11-14",
+    "end_date": "2026-11-14",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://code-clash.devpost.com/",
+    "date_added": "2026-10-24"
+  },
+  {
     "name": "TreeHacks",
     "organizer": "Stanford University",
     "location": "Stanford, CA",
