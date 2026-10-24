@@ -5244,6 +5244,18 @@
     "date_added": "2026-10-24"
   },
   {
+    "name": "OxHack 2026",
+    "organizer": "Oxford University",
+    "location": "Mathematical Institute",
+    "mode": "In-Person",
+    "start_date": "2026-10-24",
+    "end_date": "2026-10-25",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://oxhack-2026.devpost.com/",
+    "date_added": "2026-10-24"
+  },
+  {
     "name": "SUSTAIN-A-THON 2.0",
     "organizer": "Sharda University Greater Noida",
     "location": "Block 45, Sharda University, ",
