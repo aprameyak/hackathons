@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->470 hackathons tracked<!-- /STATS -->
+<!-- STATS -->471 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -78,6 +78,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | DevFest: Sheridan Datathon 2026 | GDG on Campus Sheridan College | Sheridan College Hazel McCallion Campus | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://sheridandatathon2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | KTPHacks 2 | Kappa Theta Pi | Virginia Tech - DDS | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://ktphacks-2.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | UXDC Designathon - 2026 | UXDC - Ucalgary design club | Virtual | Virtual | Nov 7–8, 2026 | All | Unknown | <a href="https://uxdc-designathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
+| Hack the Change 2026 | Code the Change YYC | University of Calgary | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://hack-the-change-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | HackUTD | UT Dallas | Dallas, TX | In-Person | Nov 14–16, 2026 | College | Unknown | <a href="https://hackutd.co" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | TreeHacks | Stanford University | Stanford, CA | In-Person | Feb 14–16, 2027 | College | Unknown | <a href="https://treehacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | | | | | | | | | |
