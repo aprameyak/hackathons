@@ -5736,6 +5736,18 @@
     "date_added": "2026-10-24"
   },
   {
+    "name": "LPC Hacks",
+    "organizer": "LPCHacks",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-11-14",
+    "end_date": "2026-11-14",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://lpc-hacks.devpost.com/",
+    "date_added": "2026-10-24"
+  },
+  {
     "name": "TreeHacks",
     "organizer": "Stanford University",
     "location": "Stanford, CA",

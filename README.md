@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->479 hackathons tracked<!-- /STATS -->
+<!-- STATS -->480 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -88,6 +88,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | HackUTD | UT Dallas | Dallas, TX | In-Person | Nov 14–16, 2026 | College | Unknown | <a href="https://hackutd.co" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | System Public Challenge | System, Inc. | System HQ | In-Person | Nov 14–14, 2026 | All | Unknown | <a href="https://system-public-challenge.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | Code/Clash | BitBrothers | Towson Cyber Center (10 West) | In-Person | Nov 14–14, 2026 | All | Unknown | <a href="https://code-clash.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
+| LPC Hacks | LPCHacks | Virtual | Virtual | Nov 14–14, 2026 | All | Unknown | <a href="https://lpc-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | TreeHacks | Stanford University | Stanford, CA | In-Person | Feb 14–16, 2027 | College | Unknown | <a href="https://treehacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | | | | | | | | | |
 | Make Her Hack | Make-A-Ton | Kochi | In-Person | Oct 23–23, 2026 | All | Unknown | <a href="https://make-her-hack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
