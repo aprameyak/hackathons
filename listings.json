@@ -5568,6 +5568,18 @@
     "date_added": "2026-10-22"
   },
   {
+    "name": "AWS x A10 Hack 2026",
+    "organizer": "Santa Clara University ACM",
+    "location": "Heafey Hall",
+    "mode": "In-Person",
+    "start_date": "2026-11-07",
+    "end_date": "2026-11-08",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://a10-x-aws-hack-26.devpost.com/",
+    "date_added": "2026-10-24"
+  },
+  {
     "name": "HackUTD",
     "organizer": "UT Dallas",
     "location": "Dallas, TX",
