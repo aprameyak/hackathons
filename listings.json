@@ -5316,6 +5316,18 @@
     "date_added": "2026-10-17"
   },
   {
+    "name": "Blackstart: Data Centers, Reforged",
+    "organizer": "Lightgrid Energy",
+    "location": "Barrett Centre For Technology Innovation",
+    "mode": "In-Person",
+    "start_date": "2026-10-30",
+    "end_date": "2026-10-30",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://blackstart-data-centers.devpost.com/",
+    "date_added": "2026-10-25"
+  },
+  {
     "name": "Haunted Hacks: Realtime AI Edition",
     "organizer": "Terse",
     "location": "Y Combinator",
