@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->487 hackathons tracked<!-- /STATS -->
+<!-- STATS -->488 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -17,6 +17,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | NextSpark Hacks | Independent | Virtual | Virtual | Oct 24–31, 2026 | All | Unknown | <a href="https://nextspark-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Buksi SITE (STEM Innovation & Talent Expo) 2026 | Bukit Sion School | Bukit Sion Highschool | In-Person | Oct 24–30, 2026 | All | Unknown | <a href="https://buksi-site-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | SUSTAIN-A-THON 2.0 | Sharda University Greater Noida | Block 45, Sharda University, | In-Person | Oct 27–28, 2026 | All | Unknown | <a href="https://sustain-a-thon-2-0-31534.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
+| Joints 2026 | Universitas Gadjah Mada | Virtual | Virtual | Oct 27–27, 2026 | All | Unknown | <a href="https://joints2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | Hybrid Micro Mouse Challenge | Alliance University | Virtual | Virtual | Oct 29–29, 2026 | All | Unknown | <a href="https://hybrid-micro-mouse-challenge.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Trick or Build: Mel × Prompt Anything × AI Builders | Agentic Day (co-hosted with Mel) | Virtual | Virtual | Oct 29–29, 2026 | All | Unknown | <a href="https://trick-or-build.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Learn to Hack: MATLAB Edition 2026 | CCEB ANATA | Virtual | Virtual | Oct 30–30, 2026 | All | Unknown | <a href="https://ntu-matlab-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
