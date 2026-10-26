@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->486 hackathons tracked<!-- /STATS -->
+<!-- STATS -->487 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -30,6 +30,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Scope-AI-Thon 2026 - AI for Detection of Acute Patient Deterioration | mcgill university | Virtual | Virtual | Nov 1–14, 2026 | All | Unknown | <a href="https://scope-ai-thon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | Hack With Karthik | IEEE Student Branch × Data Forge Club, S | Alvas institute of Engineering | In-Person | Nov 1–1, 2026 | All | Unknown | <a href="https://hack-with-karthik.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | TRMI X Lovhack : Multiplayer Everything Hackathon | Lovhack | Virtual | Virtual | Nov 1–1, 2026 | All | Unknown | <a href="https://lovhack-trmi-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
+| Agentic Hackathon | Devin | Virtual | Virtual | Nov 1–10, 2026 | All | Unknown | <a href="https://agentic-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | EthnoHack | ETHCSTWIN | Virtual | Virtual | Nov 2–8, 2026 | All | Unknown | <a href="https://ethnohack2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Neural Storm | JNTUH | Virtual | Virtual | Nov 2–4, 2026 | All | Unknown | <a href="https://neuralstorm.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | BDBI x SpaceXSI Grokathon | SpaceXSI | Virtual | Virtual | Nov 2–2, 2026 | All | Unknown | <a href="https://bdbi-x-spacexsi.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
