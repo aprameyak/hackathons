@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->491 hackathons tracked<!-- /STATS -->
+<!-- STATS -->492 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -37,6 +37,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Neural Storm | JNTUH | Virtual | Virtual | Nov 2–4, 2026 | All | Unknown | <a href="https://neuralstorm.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | BDBI x SpaceXSI Grokathon | SpaceXSI | Virtual | Virtual | Nov 2–2, 2026 | All | Unknown | <a href="https://bdbi-x-spacexsi.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | FSB AI Build-a-thon Event 02 | Farmer School of Business, Miami Univers | Farmer School of Business | In-Person | Nov 3–3, 2026 | All | Unknown | <a href="https://fsb-ai-buildathon-02.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
+| WWC Hackathon | School | Fiji | In-Person | Nov 3–9, 2026 | All | Unknown | <a href="https://wwc-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Asymmetric Reframed Reality Hackathon & Co-Creation Workshop | Goldsmiths, University of London | Caroline Graveson Building | In-Person | Nov 4–6, 2026 | All | Unknown | <a href="https://arr-hackathon-co-creation.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Ship It: The Product Builders' Hackathon | Mixpanel | Mixpanel HQ | In-Person | Nov 5–5, 2026 | All | Unknown | <a href="https://ship-it-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | PowerHack | ColorStack @ Lehman College | Lehman College - East Dining Hall/MU-102 | In-Person | Nov 6–6, 2026 | All | Unknown | <a href="https://powerhack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |

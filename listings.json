@@ -5532,6 +5532,18 @@
     "date_added": "2026-10-20"
   },
   {
+    "name": "WWC Hackathon",
+    "organizer": "School",
+    "location": "Fiji",
+    "mode": "In-Person",
+    "start_date": "2026-11-03",
+    "end_date": "2026-11-09",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://wwc-hackathon.devpost.com/",
+    "date_added": "2026-10-27"
+  },
+  {
     "name": "Asymmetric Reframed Reality Hackathon & Co-Creation Workshop",
     "organizer": "Goldsmiths, University of London",
     "location": "Caroline Graveson Building",
