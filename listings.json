@@ -5580,6 +5580,18 @@
     "date_added": "2026-10-24"
   },
   {
+    "name": "Intermountain Quantum Competition",
+    "organizer": "Brigham Young University - Provo",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-11-06",
+    "end_date": "2026-11-07",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://iqc.devpost.com/",
+    "date_added": "2026-10-27"
+  },
+  {
     "name": "HackUMass",
     "organizer": "UMass Amherst",
     "location": "Amherst, MA",

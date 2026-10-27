@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->488 hackathons tracked<!-- /STATS -->
+<!-- STATS -->489 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -12,7 +12,6 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Code For DFW | n/a | Virtual | Virtual | Oct 20–27, 2026 | All | Unknown | <a href="https://code-for-dfw.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Hack to the Future | HackathonForEveryone | Virtual | Virtual | Oct 20–27, 2026 | All | Unknown | <a href="https://hack-to-the-missing-future-ai.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | Engage 6.0 – Code with AI Hackathon | The Northcap University | The NorthCap University | In-Person | Oct 21–27, 2026 | All | Unknown | <a href="https://engage6.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
-| HackGT | Georgia Tech | Atlanta, GA | In-Person | Oct 24–26, 2026 | College | Unknown | 🔒 | Sep 3 |
 | FUSE Society Blueprint 2026 | Fuse Society | Virtual | Virtual | Oct 24–31, 2026 | All | Unknown | <a href="https://fuse-society-blueprint-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | NextSpark Hacks | Independent | Virtual | Virtual | Oct 24–31, 2026 | All | Unknown | <a href="https://nextspark-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Buksi SITE (STEM Innovation & Talent Expo) 2026 | Bukit Sion School | Bukit Sion Highschool | In-Person | Oct 24–30, 2026 | All | Unknown | <a href="https://buksi-site-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
@@ -42,6 +41,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Since AI 2026 | Since AI ry | Kupittaa Campus, Turku | In-Person | Nov 6–8, 2026 | All | Unknown | <a href="https://sinceai2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | DevFest Hackathon 2026 | Google Developer Group Central Florida. | UCF Downtown | In-Person | Nov 6–8, 2026 | All | Unknown | <a href="https://devfest-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | Ctrl+V Hackathon | AKSZ | Virtual | Virtual | Nov 6–10, 2026 | All | Unknown | <a href="https://ctrl-v-hackathon-31831.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
+| Intermountain Quantum Competition | Brigham Young University - Provo | Virtual | Virtual | Nov 6–7, 2026 | All | Unknown | <a href="https://iqc.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | HackUMass | UMass Amherst | Amherst, MA | In-Person | Nov 7–9, 2026 | College | Unknown | <a href="https://hackumass.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Redhawk Builds 2026 | Miami | McVey Data Science Building | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://redhawk-builds-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | BioHacks | BioEng4Youth | McMaster University - PGCLL | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://biohacksmcmaster.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
@@ -66,6 +66,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Haven Princeton Game Jam - High School | Hack Club | 1435 Capital | In-Person | Nov 14–14, 2026 | All | Unknown | <a href="https://haven-asbury-park.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | TreeHacks | Stanford University | Stanford, CA | In-Person | Feb 14–16, 2027 | College | Unknown | <a href="https://treehacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | | | | | | | | | |
+| HackGT | Georgia Tech | Atlanta, GA | In-Person | Oct 24–26, 2026 | College | Unknown | 🔒 | Sep 3 |
 | Sierra Hacks 2026 | CodeCatalyst | Sierra High School | In-Person | Oct 24–24, 2026 | All | Unknown | <a href="https://sierra-hacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | HackOHI/O 2026 | OHI/O | The Ohio State University - Ohio Union | In-Person | Oct 24–25, 2026 | All | Unknown | <a href="https://hackohio2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | DS+X Hackathon 2026 | Boston University Spark! | Boston University- CDS | In-Person | Oct 24–25, 2026 | All | Unknown | <a href="https://ds-x-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
