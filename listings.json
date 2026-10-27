@@ -5292,6 +5292,18 @@
     "date_added": "2026-10-26"
   },
   {
+    "name": "Catalyst California Conference (C3) Hackathon",
+    "organizer": "Computing Catalyst",
+    "location": "Anaheim, CA, USA",
+    "mode": "In-Person",
+    "start_date": "2026-10-28",
+    "end_date": "2026-10-28",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://c3hackathon.devpost.com/",
+    "date_added": "2026-10-27"
+  },
+  {
     "name": "Hybrid Micro Mouse Challenge",
     "organizer": "Alliance University",
     "location": "Virtual",
