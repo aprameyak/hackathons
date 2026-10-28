@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->493 hackathons tracked<!-- /STATS -->
+<!-- STATS -->494 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -15,6 +15,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | SUSTAIN-A-THON 2.0 | Sharda University Greater Noida | Block 45, Sharda University, | In-Person | Oct 27–28, 2026 | All | Unknown | <a href="https://sustain-a-thon-2-0-31534.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Catalyst California Conference (C3) Hackathon | Computing Catalyst | Anaheim, CA, USA | In-Person | Oct 28–28, 2026 | All | Unknown | <a href="https://c3hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Code-con | Telem AI | Virtual | Virtual | Oct 28–30, 2026 | All | Unknown | <a href="https://code-con.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
+| Beacon Hacks | Hack Club | Virtual | Virtual | Oct 28–28, 2026 | High School | Unknown | <a href="https://beaconhacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Hybrid Micro Mouse Challenge | Alliance University | Virtual | Virtual | Oct 29–29, 2026 | All | Unknown | <a href="https://hybrid-micro-mouse-challenge.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Trick or Build: Mel × Prompt Anything × AI Builders | Agentic Day (co-hosted with Mel) | Virtual | Virtual | Oct 29–29, 2026 | All | Unknown | <a href="https://trick-or-build.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Learn to Hack: MATLAB Edition 2026 | CCEB ANATA | Virtual | Virtual | Oct 30–30, 2026 | All | Unknown | <a href="https://ntu-matlab-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
