@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->495 hackathons tracked<!-- /STATS -->
+<!-- STATS -->496 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -31,6 +31,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | EthnoHack | ETHCSTWIN | Virtual | Virtual | Nov 2–8, 2026 | All | Unknown | <a href="https://ethnohack2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Neural Storm | JNTUH | Virtual | Virtual | Nov 2–4, 2026 | All | Unknown | <a href="https://neuralstorm.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | BDBI x SpaceXSI Grokathon | SpaceXSI | Virtual | Virtual | Nov 2–2, 2026 | All | Unknown | <a href="https://bdbi-x-spacexsi.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
+| 2026 UXC NYU Fall Design-a-thon | New York University | Virtual | Virtual | Nov 2–7, 2026 | All | Unknown | <a href="https://uxc-fall-2026-design-a-thon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | FSB AI Build-a-thon Event 02 | Farmer School of Business, Miami Univers | Farmer School of Business | In-Person | Nov 3–3, 2026 | All | Unknown | <a href="https://fsb-ai-buildathon-02.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | WWC Hackathon | School | Fiji | In-Person | Nov 3–9, 2026 | All | Unknown | <a href="https://wwc-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Asymmetric Reframed Reality Hackathon & Co-Creation Workshop | Goldsmiths, University of London | Caroline Graveson Building | In-Person | Nov 4–6, 2026 | All | Unknown | <a href="https://arr-hackathon-co-creation.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
