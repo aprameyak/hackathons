@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->494 hackathons tracked<!-- /STATS -->
+<!-- STATS -->495 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -12,15 +12,13 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | FUSE Society Blueprint 2026 | Fuse Society | Virtual | Virtual | Oct 24–31, 2026 | All | Unknown | <a href="https://fuse-society-blueprint-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | NextSpark Hacks | Independent | Virtual | Virtual | Oct 24–31, 2026 | All | Unknown | <a href="https://nextspark-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Buksi SITE (STEM Innovation & Talent Expo) 2026 | Bukit Sion School | Bukit Sion Highschool | In-Person | Oct 24–30, 2026 | All | Unknown | <a href="https://buksi-site-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
-| SUSTAIN-A-THON 2.0 | Sharda University Greater Noida | Block 45, Sharda University, | In-Person | Oct 27–28, 2026 | All | Unknown | <a href="https://sustain-a-thon-2-0-31534.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
-| Catalyst California Conference (C3) Hackathon | Computing Catalyst | Anaheim, CA, USA | In-Person | Oct 28–28, 2026 | All | Unknown | <a href="https://c3hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Code-con | Telem AI | Virtual | Virtual | Oct 28–30, 2026 | All | Unknown | <a href="https://code-con.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
-| Beacon Hacks | Hack Club | Virtual | Virtual | Oct 28–28, 2026 | High School | Unknown | <a href="https://beaconhacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Hybrid Micro Mouse Challenge | Alliance University | Virtual | Virtual | Oct 29–29, 2026 | All | Unknown | <a href="https://hybrid-micro-mouse-challenge.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Trick or Build: Mel × Prompt Anything × AI Builders | Agentic Day (co-hosted with Mel) | Virtual | Virtual | Oct 29–29, 2026 | All | Unknown | <a href="https://trick-or-build.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Learn to Hack: MATLAB Edition 2026 | CCEB ANATA | Virtual | Virtual | Oct 30–30, 2026 | All | Unknown | <a href="https://ntu-matlab-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Blackstart: Data Centers, Reforged | Lightgrid Energy | Barrett Centre For Technology Innovation | In-Person | Oct 30–30, 2026 | All | Unknown | <a href="https://blackstart-data-centers.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | LancerHacks | pasadena city college | Virtual | Virtual | Oct 30–30, 2026 | All | Unknown | <a href="https://lancerhacks2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
+| Hack-A-Ween | Girls Who Code BCC | Building 13 / Room 106 | In-Person | Oct 30–30, 2026 | All | Unknown | <a href="https://hack-a-ween.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Haunted Hacks: Realtime AI Edition | Terse | Y Combinator | In-Person | Oct 31–31, 2026 | All | Unknown | 🔒 | Oct 21 |
 | Mergetober | Hacker's Unity | Virtual | Virtual | Nov 1–1, 2026 | All | Unknown | <a href="https://mergetober.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | LarpHacks | larphacks | Toronto | In-Person | Nov 1–1, 2026 | All | Unknown | <a href="https://larphacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
@@ -67,6 +65,9 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Haven Princeton Game Jam - High School | Hack Club | 1435 Capital | In-Person | Nov 14–14, 2026 | All | Unknown | <a href="https://haven-asbury-park.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | TreeHacks | Stanford University | Stanford, CA | In-Person | Feb 14–16, 2027 | College | Unknown | <a href="https://treehacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | | | | | | | | | |
+| Catalyst California Conference (C3) Hackathon | Computing Catalyst | Anaheim, CA, USA | In-Person | Oct 28–28, 2026 | All | Unknown | <a href="https://c3hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
+| Beacon Hacks | Hack Club | Virtual | Virtual | Oct 28–28, 2026 | High School | Unknown | <a href="https://beaconhacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| SUSTAIN-A-THON 2.0 | Sharda University Greater Noida | Block 45, Sharda University, | In-Person | Oct 27–28, 2026 | All | Unknown | <a href="https://sustain-a-thon-2-0-31534.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Joints 2026 | Universitas Gadjah Mada | Virtual | Virtual | Oct 27–27, 2026 | All | Unknown | <a href="https://joints2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 26 |
 | HackGT | Georgia Tech | Atlanta, GA | In-Person | Oct 24–26, 2026 | College | Unknown | 🔒 | Sep 3 |
 | Sierra Hacks 2026 | CodeCatalyst | Sierra High School | In-Person | Oct 24–24, 2026 | All | Unknown | <a href="https://sierra-hacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |

@@ -5388,6 +5388,18 @@
     "date_added": "2026-10-25"
   },
   {
+    "name": "Hack-A-Ween",
+    "organizer": "Girls Who Code BCC",
+    "location": "Building 13 / Room 106",
+    "mode": "In-Person",
+    "start_date": "2026-10-30",
+    "end_date": "2026-10-30",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hack-a-ween.devpost.com/",
+    "date_added": "2026-10-29"
+  },
+  {
     "name": "Haunted Hacks: Realtime AI Edition",
     "organizer": "Terse",
     "location": "Y Combinator",
