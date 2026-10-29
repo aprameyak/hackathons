@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->496 hackathons tracked<!-- /STATS -->
+<!-- STATS -->497 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -15,6 +15,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Code-con | Telem AI | Virtual | Virtual | Oct 28–30, 2026 | All | Unknown | <a href="https://code-con.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Hybrid Micro Mouse Challenge | Alliance University | Virtual | Virtual | Oct 29–29, 2026 | All | Unknown | <a href="https://hybrid-micro-mouse-challenge.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Trick or Build: Mel × Prompt Anything × AI Builders | Agentic Day (co-hosted with Mel) | Virtual | Virtual | Oct 29–29, 2026 | All | Unknown | <a href="https://trick-or-build.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
+| Pakistan Hardware Hack 27 | Hack Club | Virtual | Virtual | Oct 29–29, 2026 | High School | Unknown | <a href="https://teenhacks.org/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Learn to Hack: MATLAB Edition 2026 | CCEB ANATA | Virtual | Virtual | Oct 30–30, 2026 | All | Unknown | <a href="https://ntu-matlab-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Blackstart: Data Centers, Reforged | Lightgrid Energy | Barrett Centre For Technology Innovation | In-Person | Oct 30–30, 2026 | All | Unknown | <a href="https://blackstart-data-centers.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | LancerHacks | pasadena city college | Virtual | Virtual | Oct 30–30, 2026 | All | Unknown | <a href="https://lancerhacks2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
