@@ -5424,6 +5424,18 @@
     "date_added": "2026-10-30"
   },
   {
+    "name": "LancerHacks1.0",
+    "organizer": "pasadena city college",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-10-30",
+    "end_date": "2026-10-30",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://lancerhacks1-0.devpost.com/",
+    "date_added": "2026-10-30"
+  },
+  {
     "name": "Haunted Hacks: Realtime AI Edition",
     "organizer": "Terse",
     "location": "Y Combinator",

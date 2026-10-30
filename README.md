@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->498 hackathons tracked<!-- /STATS -->
+<!-- STATS -->499 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -18,6 +18,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | LancerHacks | pasadena city college | Virtual | Virtual | Oct 30–30, 2026 | All | Unknown | <a href="https://lancerhacks2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | Hack-A-Ween | Girls Who Code BCC | Building 13 / Room 106 | In-Person | Oct 30–30, 2026 | All | Unknown | <a href="https://hack-a-ween.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Hacktoberfest Hack Day Grambling | MLH | JTS - STC Lab | In-Person | Oct 30–30, 2026 | All | Unknown | <a href="https://hacktoberfest-hack-day.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
+| LancerHacks1.0 | pasadena city college | Virtual | Virtual | Oct 30–30, 2026 | All | Unknown | <a href="https://lancerhacks1-0.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Haunted Hacks: Realtime AI Edition | Terse | Y Combinator | In-Person | Oct 31–31, 2026 | All | Unknown | 🔒 | Oct 21 |
 | Mergetober | Hacker's Unity | Virtual | Virtual | Nov 1–1, 2026 | All | Unknown | <a href="https://mergetober.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | LarpHacks | larphacks | Toronto | In-Person | Nov 1–1, 2026 | All | Unknown | <a href="https://larphacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
