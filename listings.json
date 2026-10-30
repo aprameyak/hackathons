@@ -5412,6 +5412,18 @@
     "date_added": "2026-10-29"
   },
   {
+    "name": "Hacktoberfest Hack Day Grambling",
+    "organizer": "MLH",
+    "location": "JTS - STC Lab",
+    "mode": "In-Person",
+    "start_date": "2026-10-30",
+    "end_date": "2026-10-30",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hacktoberfest-hack-day.devpost.com/",
+    "date_added": "2026-10-30"
+  },
+  {
     "name": "Haunted Hacks: Realtime AI Edition",
     "organizer": "Terse",
     "location": "Y Combinator",
