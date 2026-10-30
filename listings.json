@@ -5448,6 +5448,18 @@
     "date_added": "2026-10-21"
   },
   {
+    "name": "Vaani Agent Buildathon",
+    "organizer": "vaani ai",
+    "location": "Leap HQ, Incubex 14 HSR",
+    "mode": "In-Person",
+    "start_date": "2026-10-31",
+    "end_date": "2026-10-31",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://vaani-agent-buildathon.devpost.com/",
+    "date_added": "2026-10-30"
+  },
+  {
     "name": "Mergetober",
     "organizer": "Hacker's Unity",
     "location": "Virtual",
