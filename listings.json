@@ -5652,6 +5652,18 @@
     "date_added": "2026-10-22"
   },
   {
+    "name": "Remote Control AI",
+    "organizer": "avacado",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-11-05",
+    "end_date": "2026-11-05",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://remote-control-ai.devpost.com/",
+    "date_added": "2026-10-30"
+  },
+  {
     "name": "PowerHack",
     "organizer": "ColorStack @ Lehman College",
     "location": "Lehman College - East Dining Hall/MU-102",
