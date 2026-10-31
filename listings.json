@@ -5724,6 +5724,18 @@
     "date_added": "2026-10-27"
   },
   {
+    "name": "HackTrent 2026",
+    "organizer": "HackTrent",
+    "location": "Trent University Student Centre",
+    "mode": "In-Person",
+    "start_date": "2026-11-06",
+    "end_date": "2026-11-08",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hacktrent-2026-31951.devpost.com/",
+    "date_added": "2026-10-31"
+  },
+  {
     "name": "HackUMass",
     "organizer": "UMass Amherst",
     "location": "Amherst, MA",
