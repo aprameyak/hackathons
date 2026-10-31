@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->502 hackathons tracked<!-- /STATS -->
+<!-- STATS -->503 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -36,6 +36,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Ctrl+V Hackathon | AKSZ | Virtual | Virtual | Nov 6–10, 2026 | All | Unknown | <a href="https://ctrl-v-hackathon-31831.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | Intermountain Quantum Competition | Brigham Young University - Provo | Virtual | Virtual | Nov 6–7, 2026 | All | Unknown | <a href="https://iqc.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | HackTrent 2026 | HackTrent | Trent University Student Centre | In-Person | Nov 6–8, 2026 | All | Unknown | <a href="https://hacktrent-2026-31951.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
+| Build, Demo, and Take Home a Working AI Support Bot | egain | eGain Corp. | In-Person | Nov 6–12, 2026 | All | Unknown | <a href="https://build-a-working-ai-support-bot.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | HackUMass | UMass Amherst | Amherst, MA | In-Person | Nov 7–9, 2026 | College | Unknown | <a href="https://hackumass.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Redhawk Builds 2026 | Miami | McVey Data Science Building | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://redhawk-builds-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | BioHacks | BioEng4Youth | McMaster University - PGCLL | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://biohacksmcmaster.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
