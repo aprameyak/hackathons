@@ -5964,6 +5964,18 @@
     "date_added": "2026-10-24"
   },
   {
+    "name": "WiseStart 2026 Hackathon: Tallinn",
+    "organizer": "WISE",
+    "location": "Wise Tallinn",
+    "mode": "In-Person",
+    "start_date": "2026-11-13",
+    "end_date": "2026-11-14",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://wisestart-2026-tll.devpost.com/",
+    "date_added": "2026-10-31"
+  },
+  {
     "name": "HackUTD",
     "organizer": "UT Dallas",
     "location": "Dallas, TX",

@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->503 hackathons tracked<!-- /STATS -->
+<!-- STATS -->504 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -55,6 +55,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | HACK.COMS 2026 | Computing Org for Multicultural Students | Golisano College of Computing @ RIT | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://hack-coms-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | The Atomiq Hackathon | Qiskit Fall Fest 2026 at IEM | Institute of Engineering & Management | Virtual | Virtual | Nov 10–11, 2026 | All | Unknown | <a href="https://atomiq-hackathon-qff-26-iem.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | Hackperimeter | Georgia State University | GSU Perimeter College - Clarkston Campus | In-Person | Nov 13–13, 2026 | All | Unknown | <a href="https://hackperimeter.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
+| WiseStart 2026 Hackathon: Tallinn | WISE | Wise Tallinn | In-Person | Nov 13–14, 2026 | All | Unknown | <a href="https://wisestart-2026-tll.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | HackUTD | UT Dallas | Dallas, TX | In-Person | Nov 14–16, 2026 | College | Unknown | <a href="https://hackutd.co" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | System Public Challenge | System, Inc. | System HQ | In-Person | Nov 14–14, 2026 | All | Unknown | <a href="https://system-public-challenge.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | Code/Clash | BitBrothers | Towson Cyber Center (10 West) | In-Person | Nov 14–14, 2026 | All | Unknown | <a href="https://code-clash.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
