@@ -5988,6 +5988,18 @@
     "date_added": "2026-10-31"
   },
   {
+    "name": "BUHACK 2.0",
+    "organizer": "HKBU Coding Club",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-11-13",
+    "end_date": "2026-11-15",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://buhack-2.devpost.com/",
+    "date_added": "2026-11-01"
+  },
+  {
     "name": "HackUTD",
     "organizer": "UT Dallas",
     "location": "Dallas, TX",
