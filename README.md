@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->505 hackathons tracked<!-- /STATS -->
+<!-- STATS -->506 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -49,6 +49,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Hack the Change 2026 | Code the Change YYC | University of Calgary | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://hack-the-change-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | HackCamp 2026 | nwPlus | Vancouver, Canada | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://hackcamp-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | HACK.COMS 2026 | Computing Org for Multicultural Students | Golisano College of Computing @ RIT | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://hack-coms-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| GreatUniHack 2026 | University of Manchester | Nancy Rothwell Building, Manchester | In-Person | Nov 7–7, 2026 | All | Unknown | <a href="https://greatunihack-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 1 |
 | The Atomiq Hackathon | Qiskit Fall Fest 2026 at IEM | Institute of Engineering & Management | Virtual | Virtual | Nov 10–11, 2026 | All | Unknown | <a href="https://atomiq-hackathon-qff-26-iem.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | Hackperimeter | Georgia State University | GSU Perimeter College - Clarkston Campus | In-Person | Nov 13–13, 2026 | All | Unknown | <a href="https://hackperimeter.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | WiseStart 2026 Hackathon: Tallinn | WISE | Wise Tallinn | In-Person | Nov 13–14, 2026 | All | Unknown | <a href="https://wisestart-2026-tll.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |

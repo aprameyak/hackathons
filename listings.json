@@ -5940,6 +5940,18 @@
     "date_added": "2026-10-28"
   },
   {
+    "name": "GreatUniHack 2026",
+    "organizer": "University of Manchester",
+    "location": "Nancy Rothwell Building, Manchester",
+    "mode": "In-Person",
+    "start_date": "2026-11-07",
+    "end_date": "2026-11-07",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://greatunihack-2026.devpost.com/",
+    "date_added": "2026-11-01"
+  },
+  {
     "name": "The Atomiq Hackathon | Qiskit Fall Fest 2026 at IEM",
     "organizer": "Institute of Engineering & Management",
     "location": "Virtual",
