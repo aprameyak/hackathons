@@ -4,15 +4,11 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed
 
-<!-- STATS -->504 hackathons tracked<!-- /STATS -->
+<!-- STATS -->505 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
 | --------- | --------- | -------- | ---- | ----- | ------- | ----- | ----- | ----- |
-| FUSE Society Blueprint 2026 | Fuse Society | Virtual | Virtual | Oct 24–31, 2026 | All | Unknown | <a href="https://fuse-society-blueprint-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
-| NextSpark Hacks | Independent | Virtual | Virtual | Oct 24–31, 2026 | All | Unknown | <a href="https://nextspark-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
-| Haunted Hacks: Realtime AI Edition | Terse | Y Combinator | In-Person | Oct 31–31, 2026 | All | Unknown | 🔒 | Oct 21 |
-| Vaani Agent Buildathon | vaani ai | Leap HQ, Incubex 14 HSR | In-Person | Oct 31–31, 2026 | All | Unknown | <a href="https://vaani-agent-buildathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Mergetober | Hacker's Unity | Virtual | Virtual | Nov 1–1, 2026 | All | Unknown | <a href="https://mergetober.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | LarpHacks | larphacks | Toronto | In-Person | Nov 1–1, 2026 | All | Unknown | <a href="https://larphacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Ostad Presents YUNet AIgnite Buildathon 2026 | Youth Upskill Network - YUNet | Virtual | Virtual | Nov 1–5, 2026 | All | Unknown | <a href="https://yunet-aignite26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
@@ -61,8 +57,11 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Code/Clash | BitBrothers | Towson Cyber Center (10 West) | In-Person | Nov 14–14, 2026 | All | Unknown | <a href="https://code-clash.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | LPC Hacks | LPCHacks | Virtual | Virtual | Nov 14–14, 2026 | All | Unknown | <a href="https://lpc-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | Haven Princeton Game Jam - High School | Hack Club | 1435 Capital | In-Person | Nov 14–14, 2026 | All | Unknown | <a href="https://haven-asbury-park.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
+| SearchHack: Build the next layer of AI search | Telem AI | Sunnyvale | In-Person | Nov 14–14, 2026 | All | Unknown | <a href="https://searchhack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 1 |
 | TreeHacks | Stanford University | Stanford, CA | In-Person | Feb 14–16, 2027 | College | Unknown | <a href="https://treehacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | | | | | | | | | |
+| Haunted Hacks: Realtime AI Edition | Terse | Y Combinator | In-Person | Oct 31–31, 2026 | All | Unknown | 🔒 | Oct 21 |
+| Vaani Agent Buildathon | vaani ai | Leap HQ, Incubex 14 HSR | In-Person | Oct 31–31, 2026 | All | Unknown | <a href="https://vaani-agent-buildathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Learn to Hack: MATLAB Edition 2026 | CCEB ANATA | Virtual | Virtual | Oct 30–30, 2026 | All | Unknown | <a href="https://ntu-matlab-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Blackstart: Data Centers, Reforged | Lightgrid Energy | Barrett Centre For Technology Innovation | In-Person | Oct 30–30, 2026 | All | Unknown | <a href="https://blackstart-data-centers.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
 | LancerHacks | pasadena city college | Virtual | Virtual | Oct 30–30, 2026 | All | Unknown | <a href="https://lancerhacks2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 25 |
@@ -86,6 +85,8 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Action Space | university of pennsylvania | Fab Lab | In-Person | Oct 24–25, 2026 | All | Unknown | <a href="https://action-space-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 10 |
 | Deal Flow: NYC's First VC Hackathon @ Betaworks | localhost-nyc | Betaworks NYC | In-Person | Oct 24–24, 2026 | All | Unknown | <a href="https://nyc-vc-hack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 14 |
 | Marina Hacks 6.0 | CSULB Women in Computing | The Pointe Conference Center | In-Person | Oct 24–25, 2026 | All | Unknown | <a href="https://marina-hacks-6-0.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 16 |
+| FUSE Society Blueprint 2026 | Fuse Society | Virtual | Virtual | Oct 24–31, 2026 | All | Unknown | <a href="https://fuse-society-blueprint-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
+| NextSpark Hacks | Independent | Virtual | Virtual | Oct 24–31, 2026 | All | Unknown | <a href="https://nextspark-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Buksi SITE (STEM Innovation & Talent Expo) 2026 | Bukit Sion School | Bukit Sion Highschool | In-Person | Oct 24–30, 2026 | All | Unknown | <a href="https://buksi-site-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | AI Builder Competition (Hackachusetts) | MassAI | Meehan Student Center (MSC) 490 | In-Person | Oct 24–24, 2026 | All | Unknown | <a href="https://a-hackachusetts.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | CodeFest 2026 by ColorStackBU | ColorStackBU | Binghamton University Classroom Wing | In-Person | Oct 24–25, 2026 | All | Unknown | <a href="https://codefest-2026-colorstackbu.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
