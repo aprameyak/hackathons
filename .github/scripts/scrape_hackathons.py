@@ -44,6 +44,8 @@ def normalize_url(url: str) -> str:
 
 
 def is_past(end_date: str) -> bool:
+    if not end_date:
+        return False
     try:
         return end_date < TODAY
     except Exception:
@@ -140,8 +142,9 @@ def scrape_mlh() -> list:
 
                 date_el = card.select_one('.event-date, [class*="date"], time')
                 date_text = date_el.get_text(strip=True) if date_el else ''
-                start_date = TODAY
-                end_date = TODAY
+                start_date, end_date = _parse_devpost_dates(date_text)
+                start_date = start_date or ''
+                end_date = end_date or start_date
 
                 results.append({
                     'name': name,
@@ -187,6 +190,15 @@ def _parse_devpost_dates(text):
             try:
                 s = datetime.datetime.strptime(f'{month} {day1} {year}', fmt).date().isoformat()
                 e = datetime.datetime.strptime(f'{month} {day2} {year}', fmt).date().isoformat()
+                return s, e
+            except ValueError:
+                continue
+    m4 = re.search(r'(\w+)\s+(\d{1,2})\s*-\s*(\w+)\s+(\d{1,2}),?\s*(\d{4})', text)
+    if m4:
+        for fmt in ['%b %d %Y', '%B %d %Y']:
+            try:
+                s = datetime.datetime.strptime(f'{m4.group(1)} {m4.group(2)} {m4.group(5)}', fmt).date().isoformat()
+                e = datetime.datetime.strptime(f'{m4.group(3)} {m4.group(4)} {m4.group(5)}', fmt).date().isoformat()
                 return s, e
             except ValueError:
                 continue
@@ -251,8 +263,8 @@ def scrape_devpost() -> list:
                 else:
                     mode = 'In-Person'
 
-                prize_amount = h.get('prize_amount', '')
-                if prize_amount and str(prize_amount) not in ('0', ''):
+                prize_amount = re.sub(r'<[^>]+>', '', str(h.get('prize_amount') or '')).strip()
+                if prize_amount and prize_amount not in ('0', '$0'):
                     try:
                         amount = int(float(str(prize_amount).replace(',', '').replace('$', '')))
                         prize_pool = f'${amount:,}'
@@ -262,8 +274,8 @@ def scrape_devpost() -> list:
                     prize_pool = 'Unknown'
 
                 period = h.get('submission_period_dates', '') or ''
-                start_date = TODAY
-                end_date = TODAY
+                start_date = ''
+                end_date = ''
                 parsed_start, parsed_end = _parse_devpost_dates(period)
                 if parsed_start:
                     start_date = parsed_start
@@ -333,7 +345,7 @@ def scrape_devfolio() -> list:
             else:
                 mode = 'In-Person'
 
-            start_date = h.get('starts_at', h.get('start_date', TODAY))[:10] if h.get('starts_at') or h.get('start_date') else TODAY
+            start_date = (h.get('starts_at') or h.get('start_date') or '')[:10]
             end_date = h.get('ends_at', h.get('end_date', start_date))[:10] if h.get('ends_at') or h.get('end_date') else start_date
 
             prize_info = h.get('prizes', '') or h.get('prize_amount', '')
@@ -451,8 +463,8 @@ def scrape_hackclub() -> list:
                 'organizer': 'Hack Club',
                 'location': location,
                 'mode': mode,
-                'start_date': TODAY,
-                'end_date': TODAY,
+                'start_date': '',
+                'end_date': '',
                 'open_to': 'High School',
                 'prize_pool': 'Unknown',
                 'url': href,
@@ -544,8 +556,8 @@ def scrape_competitor_repos() -> list:
                     'organizer': 'Unknown',
                     'location': 'Unknown',
                     'mode': 'In-Person',
-                    'start_date': TODAY,
-                    'end_date': TODAY,
+                    'start_date': '',
+                    'end_date': '',
                     'open_to': 'All',
                     'prize_pool': 'Unknown',
                     'url': item['url'],
@@ -576,8 +588,8 @@ def scrape_known() -> list:
             'organizer': h.get('organizer', 'Unknown').strip(),
             'location': h.get('location', 'Unknown').strip(),
             'mode': h.get('mode', 'In-Person'),
-            'start_date': TODAY,
-            'end_date': TODAY,
+            'start_date': str(h.get('start_date') or ''),
+            'end_date': str(h.get('end_date') or h.get('start_date') or ''),
             'open_to': h.get('open_to', 'All'),
             'prize_pool': 'Unknown',
             'url': url,

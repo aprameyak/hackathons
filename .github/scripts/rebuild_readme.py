@@ -3,12 +3,13 @@
 import json
 import re
 import sys
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 from pathlib import Path
 
 LISTINGS_FILE = Path('listings.json')
 README_FILE = Path('README.md')
 TODAY = date.today().isoformat()
+TBA_WINDOW = (date.today() - timedelta(days=45)).isoformat()
 
 
 def format_date(date_str: str) -> str:
@@ -20,15 +21,19 @@ def format_date(date_str: str) -> str:
 
 
 def format_dates(start: str, end: str) -> str:
+    if not start:
+        return 'Dates TBA'
     try:
         s = datetime.strptime(start, '%Y-%m-%d')
-        e = datetime.strptime(end, '%Y-%m-%d')
+        e = datetime.strptime(end or start, '%Y-%m-%d')
+        if s == e:
+            return f'{s.strftime("%b")} {s.day}, {s.year}'
         if s.month == e.month and s.year == e.year:
             return f'{s.strftime("%b")} {s.day}–{e.day}, {s.year}'
         elif s.year == e.year:
             return f'{s.strftime("%b")} {s.day} – {e.strftime("%b")} {e.day}, {s.year}'
         else:
-            return f'{s.strftime("%b %d, %Y")} – {e.strftime("%b %d, %Y")}'
+            return f'{s.strftime("%b")} {s.day}, {s.year} – {e.strftime("%b")} {e.day}, {e.year}'
     except Exception:
         return f'{start} – {end}'
 
@@ -44,44 +49,38 @@ def apply_btn(url: str) -> str:
 
 
 def is_upcoming(entry: dict) -> bool:
-    try:
-        return entry['end_date'] >= TODAY
-    except Exception:
-        return False
+    end = entry.get('end_date') or ''
+    if not end:
+        return (entry.get('date_added') or '') >= TBA_WINDOW
+    return end >= TODAY
+
+
+def cell(value: str) -> str:
+    return ' '.join(str(value).split()).replace('|', '\\|')
 
 
 def format_row(entry: dict) -> str:
-    name = entry['name'].strip()
-    organizer = entry.get('organizer', '').strip()
-    location = entry.get('location', '').strip()
-    mode = entry.get('mode', '').strip()
+    name = cell(entry['name'])
+    organizer = cell(entry.get('organizer', ''))
+    location = cell(entry.get('location', ''))
+    mode = cell(entry.get('mode', ''))
     dates_str = format_dates(entry['start_date'], entry['end_date'])
-    open_to = entry.get('open_to', '').strip()
-    prize = entry.get('prize_pool', 'Unknown').strip()
+    open_to = cell(entry.get('open_to', ''))
+    prize = cell(entry.get('prize_pool', 'Unknown'))
     url = entry.get('url', '').strip()
     date_added = format_date(entry.get('date_added', ''))
     btn = apply_btn(url)
     return f'| {name} | {organizer} | {location} | {mode} | {dates_str} | {open_to} | {prize} | {btn} | {date_added} |'
 
 
-def build_table(entries: list) -> list:
+def build_tables(entries: list) -> tuple:
     upcoming = [e for e in entries if is_upcoming(e)]
     past = [e for e in entries if not is_upcoming(e)]
 
-    upcoming_sorted = sorted(upcoming, key=lambda e: e['start_date'])
-    past_sorted = sorted(past, key=lambda e: e['start_date'], reverse=True)
+    upcoming_sorted = sorted(upcoming, key=lambda e: (not e.get('start_date'), e.get('start_date', ''), e['name'].lower()))
+    past_sorted = sorted(past, key=lambda e: e.get('start_date') or e.get('date_added', ''), reverse=True)
 
-    rows = []
-    if upcoming_sorted:
-        for entry in upcoming_sorted:
-            rows.append(format_row(entry))
-    if past_sorted:
-        if upcoming_sorted:
-            rows.append('| | | | | | | | | |')
-        for entry in past_sorted:
-            rows.append(format_row(entry))
-
-    return rows
+    return [format_row(e) for e in upcoming_sorted], [format_row(e) for e in past_sorted]
 
 
 def replace_table(content: str, marker: str, rows: list) -> str:
@@ -131,8 +130,9 @@ def main():
     with open(README_FILE, encoding='utf-8') as f:
         content = f.read()
 
-    rows = build_table(listings)
-    content = replace_table(content, 'listings', rows)
+    upcoming, past = build_tables(listings)
+    content = replace_table(content, 'listings', upcoming)
+    content = replace_table(content, 'past', past)
     content = update_stats(content, len(listings))
 
     with open(README_FILE, 'w', encoding='utf-8') as f:

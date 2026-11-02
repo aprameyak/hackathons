@@ -51,16 +51,19 @@ function formatDate(dateStr: string): string {
 }
 
 function formatDateRange(start: string, end: string): string {
+  if (!start) return 'Dates TBA';
   try {
     const s = new Date(start + 'T00:00:00');
-    const e = new Date(end + 'T00:00:00');
+    const e = new Date((end || start) + 'T00:00:00');
 
     const sMonth = s.toLocaleDateString('en-US', { month: 'short' });
     const eMonth = e.toLocaleDateString('en-US', { month: 'short' });
     const sYear = s.getFullYear();
     const eYear = e.getFullYear();
 
-    if (sYear === eYear && s.getMonth() === e.getMonth()) {
+    if (s.getTime() === e.getTime()) {
+      return `${sMonth} ${s.getDate()}, ${sYear}`;
+    } else if (sYear === eYear && s.getMonth() === e.getMonth()) {
       return `${sMonth} ${s.getDate()}–${e.getDate()}, ${sYear}`;
     } else if (sYear === eYear) {
       return `${sMonth} ${s.getDate()} – ${eMonth} ${e.getDate()}, ${sYear}`;
@@ -72,7 +75,11 @@ function formatDateRange(start: string, end: string): string {
   }
 }
 
-function isUpcoming(endDate: string): boolean {
+function isUpcoming(endDate: string, dateAdded: string): boolean {
+  if (!endDate) {
+    const window = new Date(Date.now() - 45 * 86400000).toISOString().slice(0, 10);
+    return dateAdded >= window;
+  }
   const today = new Date().toISOString().slice(0, 10);
   return endDate >= today;
 }
@@ -90,11 +97,13 @@ function processHackathons(hackathons: Hackathon[]): ProcessedRow[] {
     prizePool: h.prize_pool.trim(),
     url: h.url?.trim() ?? '',
     dateFormatted: formatDate(h.date_added),
-    isUpcoming: isUpcoming(h.end_date),
+    isUpcoming: isUpcoming(h.end_date, h.date_added),
   }));
 
   // Sort: upcoming first by start_date ascending, then past by start_date descending
-  const upcoming = rows.filter((r) => r.isUpcoming).sort((a, b) => a.startDate.localeCompare(b.startDate));
+  const upcoming = rows
+    .filter((r) => r.isUpcoming)
+    .sort((a, b) => Number(!a.startDate) - Number(!b.startDate) || a.startDate.localeCompare(b.startDate));
   const past = rows.filter((r) => !r.isUpcoming).sort((a, b) => b.startDate.localeCompare(a.startDate));
 
   return [...upcoming, ...past];
