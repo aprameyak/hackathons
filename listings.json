@@ -6024,6 +6024,18 @@
     "date_added": "2026-11-01"
   },
   {
+    "name": "Engage Test",
+    "organizer": "Engage Group",
+    "location": "Dubai",
+    "mode": "In-Person",
+    "start_date": "2026-11-13",
+    "end_date": "2026-11-15",
+    "open_to": "All",
+    "prize_pool": "$20",
+    "url": "https://engage-test.devpost.com/",
+    "date_added": "2026-11-02"
+  },
+  {
     "name": "HackUTD",
     "organizer": "UT Dallas",
     "location": "Dallas, TX",
