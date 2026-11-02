@@ -5748,6 +5748,18 @@
     "date_added": "2026-10-31"
   },
   {
+    "name": "Wolfjam 2026",
+    "organizer": "Wolfjaw Studios",
+    "location": "University at Albany - ETEC Building",
+    "mode": "In-Person",
+    "start_date": "2026-11-06",
+    "end_date": "2026-11-07",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://wolfjam-2026.devpost.com/",
+    "date_added": "2026-11-02"
+  },
+  {
     "name": "HackUMass",
     "organizer": "UMass Amherst",
     "location": "Amherst, MA",
