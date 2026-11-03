@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->513 hackathons tracked<!-- /STATS -->
+<!-- STATS -->514 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -28,6 +28,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Intermountain Quantum Competition | Brigham Young University - Provo | Virtual | Virtual | Nov 6–7, 2026 | All | $850 | <a href="https://iqc.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | PowerHack | ColorStack @ Lehman College | Lehman College - East Dining Hall/MU-102 | In-Person | Nov 6, 2026 | All | Unknown | <a href="https://powerhack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Since AI 2026 | Since AI ry | Kupittaa Campus, Turku | In-Person | Nov 6–8, 2026 | All | Unknown | <a href="https://sinceai2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
+| Triangle AI Hackathon 2026 | Duke University | Wilkinson Building, Duke University | In-Person | Nov 6–8, 2026 | All | Unknown | <a href="https://triangle-ai-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 3 |
 | Wolfjam 2026 | Wolfjaw Studios | University at Albany - ETEC Building | In-Person | Nov 6–7, 2026 | All | $1,700 | <a href="https://wolfjam-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 2 |
 | AWS x A10 Hack 2026 | Santa Clara University ACM | Heafey Hall | In-Person | Nov 7–8, 2026 | All | $7,500 | <a href="https://a10-x-aws-hack-26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | BioHacks | BioEng4Youth | McMaster University - PGCLL | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://biohacksmcmaster.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
