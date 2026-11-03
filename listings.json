@@ -5976,6 +5976,18 @@
     "date_added": "2026-11-01"
   },
   {
+    "name": "HackUTD 2026: ZeroDay",
+    "organizer": "hackutd",
+    "location": "University of Texas at Dallas - ECSW",
+    "mode": "In-Person",
+    "start_date": "2026-11-07",
+    "end_date": "2026-11-08",
+    "open_to": "All",
+    "prize_pool": "$60,000",
+    "url": "https://hackutd-zeroday.devpost.com/",
+    "date_added": "2026-11-03"
+  },
+  {
     "name": "The Atomiq Hackathon | Qiskit Fall Fest 2026 at IEM",
     "organizer": "Institute of Engineering & Management",
     "location": "Virtual",

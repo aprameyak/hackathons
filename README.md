@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->511 hackathons tracked<!-- /STATS -->
+<!-- STATS -->512 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -13,7 +13,6 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Ostad Presents YUNet AIgnite Buildathon 2026 | Youth Upskill Network - YUNet | Virtual | Virtual | Nov 1–5, 2026 | All | Unknown | <a href="https://yunet-aignite26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Scope-AI-Thon 2026 - AI for Detection of Acute Patient Deterioration | mcgill university | Virtual | Virtual | Nov 1–14, 2026 | All | Unknown | <a href="https://scope-ai-thon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | 2026 UXC NYU Fall Design-a-thon | New York University | Virtual | Virtual | Nov 2–7, 2026 | All | $1,000 | <a href="https://uxc-fall-2026-design-a-thon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
-| BDBI x SpaceXSI Grokathon | SpaceXSI | Virtual | Virtual | Nov 2, 2026 | All | Unknown | <a href="https://bdbi-x-spacexsi.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | EthnoHack | ETHCSTWIN | Virtual | Virtual | Nov 2–8, 2026 | All | Unknown | <a href="https://ethnohack2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Neural Storm | JNTUH | Virtual | Virtual | Nov 2–4, 2026 | All | Unknown | <a href="https://neuralstorm.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | United Arab Emirates vs United States Of America | World Hackathon Federation | Abu Dhabi | In-Person | Nov 2–3, 2026 | All | $10,000 | <a href="https://uaevsusa.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 2 |
@@ -40,6 +39,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | HackCamp 2026 | nwPlus | Vancouver, Canada | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://hackcamp-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | HackRPI 2026 | HackRPI | Darrin Communications Center | In-Person | Nov 7–8, 2026 | All | $3,550 | <a href="https://hackrpi-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | HackUMass | UMass Amherst | Amherst, MA | In-Person | Nov 7–9, 2026 | College | Unknown | <a href="https://hackumass.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| HackUTD 2026: ZeroDay | hackutd | University of Texas at Dallas - ECSW | In-Person | Nov 7–8, 2026 | All | $60,000 | <a href="https://hackutd-zeroday.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 3 |
 | Indy Init 2026 | Indy Hackers | Launch Fishers | In-Person | Nov 7, 2026 | All | Unknown | <a href="https://indy-init-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | KTPHacks 2 | Kappa Theta Pi | Virginia Tech - DDS | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://ktphacks-2.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | MakeUC 2026 | IEEE@UC | 1819 Innovation Hub | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://makeuc-2026-30884.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
@@ -63,7 +63,6 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Agent Builders Hackathon | Omnara | Primitive Office | In-Person | Dates TBA | All | Unknown | <a href="https://agent-builders-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | Beacon Hacks | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://beaconhacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Falcon Hacks | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://falconhacks2026.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
-| ForgeHacks | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://www.forgehacks.dev/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | Founding-100 | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://founding-100.waycode.in/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | Hack Peel | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://hackpeel.ca" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 9 |
 | Mango Hacks | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://mangohacks.ecily.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
@@ -78,6 +77,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 <!-- TABLE_START past -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
 | --------- | --------- | -------- | ---- | ----- | ------- | ----- | ----- | ----- |
+| BDBI x SpaceXSI Grokathon | SpaceXSI | Virtual | Virtual | Nov 2, 2026 | All | Unknown | <a href="https://bdbi-x-spacexsi.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Mergetober | Hacker's Unity | Virtual | Virtual | Nov 1, 2026 | All | Unknown | <a href="https://mergetober.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | LarpHacks | larphacks | Toronto | In-Person | Nov 1, 2026 | All | $21,394 | <a href="https://larphacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | AQX Sports Analytics Data Bowl 4.0 | Devpost | Virtual | Virtual | Nov 1, 2026 | All | Unknown | <a href="https://aqxanalyticsfour.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
@@ -304,6 +304,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Gotong Royong Hackathon | Independent Student Organizer | Cleo Hotels Surabaya | In-Person | Sep 19, 2026 | All | Unknown | <a href="https://gotong-royong-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 11 |
 | Health in Climate 2026 NYC Hackathon | Health in Climate | New York, NY, USA | In-Person | Sep 19–20, 2026 | All | $5,000 | <a href="https://health-in-climate-2026-nyc.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
 | Emberhacks 2026 | Major League Hacking | UTM - Instructional Centre | In-Person | Sep 19, 2026 | All | Unknown | <a href="https://emberhacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 19 |
+| ForgeHacks | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://www.forgehacks.dev/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 18 |
 | Bay Hacks | Tampa Bay Innovation | USF Hall of Flags | In-Person | Sep 18–19, 2026 | All | $1,800 | <a href="https://bayhacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | General Learning Hacks | General Learning | 3/F Lee Garden 3, Causeway Bay | In-Person | Sep 18–19, 2026 | All | $25,000 | <a href="https://general-learning-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | HopHacks Fall 2026 | Johns Hopkins | Johns Hopkins University | In-Person | Sep 18–20, 2026 | All | Unknown | <a href="https://hophacks-fall-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
