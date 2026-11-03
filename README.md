@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->514 hackathons tracked<!-- /STATS -->
+<!-- STATS -->515 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -63,6 +63,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | System Public Challenge | System, Inc. | System HQ | In-Person | Nov 14, 2026 | All | $7,500 | <a href="https://system-public-challenge.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | TreeHacks | Stanford University | Stanford, CA | In-Person | Feb 14–16, 2027 | College | Unknown | <a href="https://treehacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Agent Builders Hackathon | Omnara | Primitive Office | In-Person | Dates TBA | All | Unknown | <a href="https://agent-builders-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
+| Almaden Hacks | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://almadenhacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 3 |
 | Beacon Hacks | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://beaconhacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | Falcon Hacks | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://falconhacks2026.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | Founding-100 | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://founding-100.waycode.in/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
