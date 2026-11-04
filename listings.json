@@ -6024,6 +6024,18 @@
     "date_added": "2026-11-03"
   },
   {
+    "name": "Corkathon",
+    "organizer": "computer science society @ ucc",
+    "location": "The Orb, UCC, Cork",
+    "mode": "In-Person",
+    "start_date": "2026-11-07",
+    "end_date": "2026-11-07",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://corkathon.devpost.com/",
+    "date_added": "2026-11-04"
+  },
+  {
     "name": "The Atomiq Hackathon | Qiskit Fall Fest 2026 at IEM",
     "organizer": "Institute of Engineering & Management",
     "location": "Virtual",

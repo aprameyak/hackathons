@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->516 hackathons tracked<!-- /STATS -->
+<!-- STATS -->517 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -32,6 +32,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | AWS x A10 Hack 2026 | Santa Clara University ACM | Heafey Hall | In-Person | Nov 7–8, 2026 | All | $7,500 | <a href="https://a10-x-aws-hack-26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | BioHacks | BioEng4Youth | McMaster University - PGCLL | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://biohacksmcmaster.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | CommuniHacks | CommuniHacks | Builders Club | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://communihacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
+| Corkathon | computer science society @ ucc | The Orb, UCC, Cork | In-Person | Nov 7, 2026 | All | Unknown | <a href="https://corkathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 4 |
 | DevFest: Sheridan Datathon 2026 | GDG on Campus Sheridan College | Sheridan College Hazel McCallion Campus | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://sheridandatathon2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | GreatUniHack 2026 | University of Manchester | Nancy Rothwell Building, Manchester | In-Person | Nov 7, 2026 | All | Unknown | <a href="https://greatunihack-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 1 |
 | Hack the Change 2026 | Code the Change YYC | University of Calgary | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://hack-the-change-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
