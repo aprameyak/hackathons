@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->519 hackathons tracked<!-- /STATS -->
+<!-- STATS -->520 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -31,6 +31,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Triangle AI Hackathon 2026 | Duke University | Wilkinson Building, Duke University | In-Person | Nov 6–8, 2026 | All | Unknown | <a href="https://triangle-ai-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 3 |
 | Wolfjam 2026 | Wolfjaw Studios | University at Albany - ETEC Building | In-Person | Nov 6–7, 2026 | All | $1,700 | <a href="https://wolfjam-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 2 |
 | AWS x A10 Hack 2026 | Santa Clara University ACM | Heafey Hall | In-Person | Nov 7–8, 2026 | All | $7,500 | <a href="https://a10-x-aws-hack-26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
+| BCI Build Sprint | Brain Computer Interface Club at USF | Engineering Building II - USF | In-Person | Nov 7, 2026 | All | Unknown | <a href="https://bci-build-sprint.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 4 |
 | BioHacks | BioEng4Youth | McMaster University - PGCLL | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://biohacksmcmaster.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | CommuniHacks | CommuniHacks | Builders Club | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://communihacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 18 |
 | Corkathon | computer science society @ ucc | The Orb, UCC, Cork | In-Person | Nov 7, 2026 | All | Unknown | <a href="https://corkathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 4 |
