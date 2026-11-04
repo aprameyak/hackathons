@@ -5808,6 +5808,18 @@
     "date_added": "2026-11-03"
   },
   {
+    "name": "SharkByte 2026",
+    "organizer": "init",
+    "location": "MDC North Campus (Justice Building)",
+    "mode": "In-Person",
+    "start_date": "2026-11-06",
+    "end_date": "2026-11-08",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://sharkbyte2026.devpost.com/",
+    "date_added": "2026-11-04"
+  },
+  {
     "name": "HackUMass",
     "organizer": "UMass Amherst",
     "location": "Amherst, MA",
