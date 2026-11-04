@@ -6132,6 +6132,18 @@
     "date_added": "2026-11-02"
   },
   {
+    "name": "IBM Qiskit Hackathon - Bangladesh",
+    "organizer": "DevChangeMakers Community",
+    "location": "BRAC University",
+    "mode": "In-Person",
+    "start_date": "2026-11-13",
+    "end_date": "2026-11-14",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://ibm-qiskit-hackathon.devpost.com/",
+    "date_added": "2026-11-04"
+  },
+  {
     "name": "HackUTD",
     "organizer": "UT Dallas",
     "location": "Dallas, TX",
