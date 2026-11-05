@@ -6084,6 +6084,18 @@
     "date_added": "2026-11-04"
   },
   {
+    "name": "iOSC End of Semester Hackathon",
+    "organizer": "iOSC",
+    "location": "SOS B44",
+    "mode": "In-Person",
+    "start_date": "2026-11-08",
+    "end_date": "2026-11-08",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://iosc-end-of-semester-hackathon.devpost.com/",
+    "date_added": "2026-11-05"
+  },
+  {
     "name": "The Atomiq Hackathon | Qiskit Fall Fest 2026 at IEM",
     "organizer": "Institute of Engineering & Management",
     "location": "Virtual",
