@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->521 hackathons tracked<!-- /STATS -->
+<!-- STATS -->522 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -14,10 +14,8 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Scope-AI-Thon 2026 - AI for Detection of Acute Patient Deterioration | mcgill university | Virtual | Virtual | Nov 1–14, 2026 | All | Unknown | <a href="https://scope-ai-thon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | 2026 UXC NYU Fall Design-a-thon | New York University | Virtual | Virtual | Nov 2–7, 2026 | All | $1,000 | <a href="https://uxc-fall-2026-design-a-thon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | EthnoHack | ETHCSTWIN | Virtual | Virtual | Nov 2–8, 2026 | All | Unknown | <a href="https://ethnohack2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
-| Neural Storm | JNTUH | Virtual | Virtual | Nov 2–4, 2026 | All | Unknown | <a href="https://neuralstorm.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | WWC Hackathon | School | Fiji | In-Person | Nov 3–9, 2026 | All | Unknown | <a href="https://wwc-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Asymmetric Reframed Reality Hackathon & Co-Creation Workshop | Goldsmiths, University of London | Caroline Graveson Building | In-Person | Nov 4–6, 2026 | All | Unknown | <a href="https://arr-hackathon-co-creation.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
-| United Arab Emirates vs China | World Hackathon Federation | Abu Dhabi | In-Person | Nov 4, 2026 | All | $10,000 | <a href="https://uaevschn.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 4 |
 | Remote Control AI | avacado | Virtual | Virtual | Nov 5, 2026 | All | Unknown | <a href="https://remote-control-ai.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 30 |
 | Ship It: The Product Builders' Hackathon | Mixpanel | Mixpanel HQ | In-Person | Nov 5, 2026 | All | Unknown | <a href="https://ship-it-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | Build, Demo, and Take Home a Working AI Support Bot | egain | eGain Corp. | In-Person | Nov 6–12, 2026 | All | $750 | <a href="https://build-a-working-ai-support-bot.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
@@ -25,6 +23,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | DevFest Hackathon 2026 | Google Developer Group Central Florida. | UCF Downtown | In-Person | Nov 6–8, 2026 | All | $800 | <a href="https://devfest-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | HackTrent 2026 | HackTrent | Trent University Student Centre | In-Person | Nov 6–8, 2026 | All | Unknown | <a href="https://hacktrent-2026-31951.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | Intermountain Quantum Competition | Brigham Young University - Provo | Virtual | Virtual | Nov 6–7, 2026 | All | $850 | <a href="https://iqc.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
+| NUSH Hack 2026 | NUS High School | NUS High School of Math and Science | In-Person | Nov 6–7, 2026 | All | Unknown | <a href="https://nh26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 5 |
 | PowerHack | ColorStack @ Lehman College | Lehman College - East Dining Hall/MU-102 | In-Person | Nov 6, 2026 | All | Unknown | <a href="https://powerhack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | SharkByte 2026 | init | MDC North Campus (Justice Building) | In-Person | Nov 6–8, 2026 | All | Unknown | <a href="https://sharkbyte2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 4 |
 | Since AI 2026 | Since AI ry | Kupittaa Campus, Turku | In-Person | Nov 6–8, 2026 | All | Unknown | <a href="https://sinceai2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
@@ -84,7 +83,9 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 <!-- TABLE_START past -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
 | --------- | --------- | -------- | ---- | ----- | ------- | ----- | ----- | ----- |
+| United Arab Emirates vs China | World Hackathon Federation | Abu Dhabi | In-Person | Nov 4, 2026 | All | $10,000 | <a href="https://uaevschn.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 4 |
 | FSB AI Build-a-thon Event 02 | Farmer School of Business, Miami Univers | Farmer School of Business | In-Person | Nov 3, 2026 | All | $500 | <a href="https://fsb-ai-buildathon-02.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
+| Neural Storm | JNTUH | Virtual | Virtual | Nov 2–4, 2026 | All | Unknown | <a href="https://neuralstorm.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | BDBI x SpaceXSI Grokathon | SpaceXSI | Virtual | Virtual | Nov 2, 2026 | All | Unknown | <a href="https://bdbi-x-spacexsi.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
 | United Arab Emirates vs United States Of America | World Hackathon Federation | Abu Dhabi | In-Person | Nov 2–3, 2026 | All | $10,000 | <a href="https://uaevsusa.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 2 |
 | Mergetober | Hacker's Unity | Virtual | Virtual | Nov 1, 2026 | All | Unknown | <a href="https://mergetober.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |

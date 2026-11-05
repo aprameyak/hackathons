@@ -5820,6 +5820,18 @@
     "date_added": "2026-11-04"
   },
   {
+    "name": "NUSH Hack 2026",
+    "organizer": "NUS High School",
+    "location": "NUS High School of Math and Science",
+    "mode": "In-Person",
+    "start_date": "2026-11-06",
+    "end_date": "2026-11-07",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://nh26.devpost.com/",
+    "date_added": "2026-11-05"
+  },
+  {
     "name": "HackUMass",
     "organizer": "UMass Amherst",
     "location": "Amherst, MA",
