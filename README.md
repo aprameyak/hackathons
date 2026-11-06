@@ -414,7 +414,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | HackOHI/O | Ohio State University | Columbus, OH | In-Person | Dates TBA | College | Unknown | 🔒 | Sep 3 |
 | HackPSU | Penn State University | State College, PA | In-Person | Dates TBA | College | Unknown | <a href="https://hackpsu.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | CalHacks | UC Berkeley | Berkeley, CA | In-Person | Dates TBA | College | Unknown | <a href="https://calhacks.io" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
-| LAHacks | UCLA | Los Angeles, CA | In-Person | Dates TBA | College | Unknown | <a href="https://lahacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| LAHacks | UCLA | Los Angeles, CA | In-Person | Dates TBA | College | Unknown | 🔒 | Sep 3 |
 | HackSC | USC | Los Angeles, CA | In-Person | Dates TBA | College | Unknown | <a href="https://hacksc.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | DiamondHacks | UC San Diego | San Diego, CA | In-Person | Dates TBA | College | Unknown | <a href="https://diamondhacks.acmucsd.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | HackDavis | UC Davis | Davis, CA | In-Person | Dates TBA | College | Unknown | <a href="https://hackdavis.io" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
