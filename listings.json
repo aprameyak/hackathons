@@ -6156,6 +6156,18 @@
     "date_added": "2026-11-06"
   },
   {
+    "name": "HackTheBurgh-XIII",
+    "organizer": "CompSoc Edinburgh",
+    "location": "The Nucleus Building, Edinburgh",
+    "mode": "In-Person",
+    "start_date": "2026-11-07",
+    "end_date": "2026-11-08",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hacktheburghxiii.devpost.com/",
+    "date_added": "2026-11-06"
+  },
+  {
     "name": "iOSC End of Semester Hackathon",
     "organizer": "iOSC",
     "location": "SOS B44",

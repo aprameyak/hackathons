@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->531 hackathons tracked<!-- /STATS -->
+<!-- STATS -->532 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -42,6 +42,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | HACK.COMS 2026 | Computing Org for Multicultural Students | Golisano College of Computing @ RIT | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://hack-coms-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | HackCamp 2026 | nwPlus | Vancouver, Canada | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://hackcamp-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | HackRPI 2026 | HackRPI | Darrin Communications Center | In-Person | Nov 7–8, 2026 | All | $3,550 | <a href="https://hackrpi-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
+| HackTheBurgh-XIII | CompSoc Edinburgh | The Nucleus Building, Edinburgh | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://hacktheburghxiii.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 6 |
 | HackUMass | UMass Amherst | Amherst, MA | In-Person | Nov 7–9, 2026 | College | Unknown | <a href="https://hackumass.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | HackUTD 2026: ZeroDay | hackutd | University of Texas at Dallas - ECSW | In-Person | Nov 7–8, 2026 | All | $60,000 | <a href="https://hackutd-zeroday.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 3 |
 | Indy Init 2026 | Indy Hackers | Launch Fishers | In-Person | Nov 7, 2026 | All | Unknown | <a href="https://indy-init-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
