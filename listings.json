@@ -5832,6 +5832,18 @@
     "date_added": "2026-11-05"
   },
   {
+    "name": "QUX Design-a-thon 2026!",
+    "organizer": "Queen's UX Club",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-11-06",
+    "end_date": "2026-11-08",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://qux-design-a-thon-2026.devpost.com/",
+    "date_added": "2026-11-06"
+  },
+  {
     "name": "HackUMass",
     "organizer": "UMass Amherst",
     "location": "Amherst, MA",
