@@ -6120,6 +6120,18 @@
     "date_added": "2026-11-04"
   },
   {
+    "name": "WiE Hackathon 2026",
+    "organizer": "University of Waterloo",
+    "location": "PSE",
+    "mode": "In-Person",
+    "start_date": "2026-11-07",
+    "end_date": "2026-11-07",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://wie-hackathon-2026.devpost.com/",
+    "date_added": "2026-11-06"
+  },
+  {
     "name": "iOSC End of Semester Hackathon",
     "organizer": "iOSC",
     "location": "SOS B44",
