@@ -5856,6 +5856,18 @@
     "date_added": "2026-11-06"
   },
   {
+    "name": "MTC x Replit x Manara West Buildathon",
+    "organizer": "MTC UCSD",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-11-06",
+    "end_date": "2026-11-07",
+    "open_to": "All",
+    "prize_pool": "$1,000",
+    "url": "https://mtc-buildathon.devpost.com/",
+    "date_added": "2026-11-06"
+  },
+  {
     "name": "HackUMass",
     "organizer": "UMass Amherst",
     "location": "Amherst, MA",

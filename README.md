@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->525 hackathons tracked<!-- /STATS -->
+<!-- STATS -->526 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -21,6 +21,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | DevFest Hackathon 2026 | Google Developer Group Central Florida. | UCF Downtown | In-Person | Nov 6–8, 2026 | All | $800 | <a href="https://devfest-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | HackTrent 2026 | HackTrent | Trent University Student Centre | In-Person | Nov 6–8, 2026 | All | Unknown | <a href="https://hacktrent-2026-31951.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | Intermountain Quantum Competition | Brigham Young University - Provo | Virtual | Virtual | Nov 6–7, 2026 | All | $850 | <a href="https://iqc.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
+| MTC x Replit x Manara West Buildathon | MTC UCSD | Virtual | Virtual | Nov 6–7, 2026 | All | $1,000 | <a href="https://mtc-buildathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 6 |
 | NUSH Hack 2026 | NUS High School | NUS High School of Math and Science | In-Person | Nov 6–7, 2026 | All | Unknown | <a href="https://nh26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 5 |
 | PowerHack | ColorStack @ Lehman College | Lehman College - East Dining Hall/MU-102 | In-Person | Nov 6, 2026 | All | Unknown | <a href="https://powerhack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | QUX Design-a-thon 2026! | Queen's UX Club | Virtual | Virtual | Nov 6–8, 2026 | All | Unknown | <a href="https://qux-design-a-thon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 6 |
