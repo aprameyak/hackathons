@@ -6132,6 +6132,18 @@
     "date_added": "2026-11-06"
   },
   {
+    "name": "GullHacks",
+    "organizer": "Salisbury University",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-11-07",
+    "end_date": "2026-11-08",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://gullhacks2026.devpost.com/",
+    "date_added": "2026-11-06"
+  },
+  {
     "name": "iOSC End of Semester Hackathon",
     "organizer": "iOSC",
     "location": "SOS B44",

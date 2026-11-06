@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->527 hackathons tracked<!-- /STATS -->
+<!-- STATS -->528 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -36,6 +36,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Corkathon | computer science society @ ucc | The Orb, UCC, Cork | In-Person | Nov 7, 2026 | All | Unknown | <a href="https://corkathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 4 |
 | DevFest: Sheridan Datathon 2026 | GDG on Campus Sheridan College | Sheridan College Hazel McCallion Campus | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://sheridandatathon2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | GreatUniHack 2026 | University of Manchester | Nancy Rothwell Building, Manchester | In-Person | Nov 7, 2026 | All | Unknown | <a href="https://greatunihack-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 1 |
+| GullHacks | Salisbury University | Virtual | Virtual | Nov 7–8, 2026 | All | Unknown | <a href="https://gullhacks2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 6 |
 | Hack the Change 2026 | Code the Change YYC | University of Calgary | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://hack-the-change-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | HACK.COMS 2026 | Computing Org for Multicultural Students | Golisano College of Computing @ RIT | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://hack-coms-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | HackCamp 2026 | nwPlus | Vancouver, Canada | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://hackcamp-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
