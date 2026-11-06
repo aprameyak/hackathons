@@ -6144,6 +6144,18 @@
     "date_added": "2026-11-06"
   },
   {
+    "name": "Grizzly Hacks VII",
+    "organizer": "GrizzlyHacks @ GGC",
+    "location": "Georgia Gwinnett College Campus - B 1000",
+    "mode": "In-Person",
+    "start_date": "2026-11-07",
+    "end_date": "2026-11-07",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hack-ggc-vii.devpost.com/",
+    "date_added": "2026-11-06"
+  },
+  {
     "name": "iOSC End of Semester Hackathon",
     "organizer": "iOSC",
     "location": "SOS B44",
