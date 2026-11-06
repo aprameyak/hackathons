@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->524 hackathons tracked<!-- /STATS -->
+<!-- STATS -->525 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -15,6 +15,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | EthnoHack | ETHCSTWIN | Virtual | Virtual | Nov 2–8, 2026 | All | Unknown | <a href="https://ethnohack2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | WWC Hackathon | School | Fiji | In-Person | Nov 3–9, 2026 | All | Unknown | <a href="https://wwc-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 27 |
 | Asymmetric Reframed Reality Hackathon & Co-Creation Workshop | Goldsmiths, University of London | Caroline Graveson Building | In-Person | Nov 4–6, 2026 | All | Unknown | <a href="https://arr-hackathon-co-creation.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
+| Blockchain Innovation Challenge powered by Stellar | University of Waterloo | Velocity, Innovation Arena | In-Person | Nov 6–13, 2026 | All | Unknown | <a href="https://blockchain-stellar-ic.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 6 |
 | Build, Demo, and Take Home a Working AI Support Bot | egain | eGain Corp. | In-Person | Nov 6–12, 2026 | All | $750 | <a href="https://build-a-working-ai-support-bot.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
 | Ctrl+V Hackathon | AKSZ | Virtual | Virtual | Nov 6–10, 2026 | All | Unknown | <a href="https://ctrl-v-hackathon-31831.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | DevFest Hackathon 2026 | Google Developer Group Central Florida. | UCF Downtown | In-Person | Nov 6–8, 2026 | All | $800 | <a href="https://devfest-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
