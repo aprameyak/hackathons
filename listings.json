@@ -6192,6 +6192,18 @@
     "date_added": "2026-11-07"
   },
   {
+    "name": "TAMU Datathon 26: Casino Royale",
+    "organizer": "TAMU Datathon",
+    "location": "MSC Bethancourt Ballroom",
+    "mode": "In-Person",
+    "start_date": "2026-11-07",
+    "end_date": "2026-11-08",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://tamu-datathon-26-casino-royale.devpost.com/",
+    "date_added": "2026-11-07"
+  },
+  {
     "name": "iOSC End of Semester Hackathon",
     "organizer": "iOSC",
     "location": "SOS B44",
