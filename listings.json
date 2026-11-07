@@ -6600,6 +6600,18 @@
     "date_added": "2026-11-07"
   },
   {
+    "name": "Bharat Builds Tour",
+    "organizer": "Hackers Unity",
+    "location": "jaipur",
+    "mode": "In-Person",
+    "start_date": "2026-11-16",
+    "end_date": "2026-11-17",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://bharat-builds-tour.devpost.com/",
+    "date_added": "2026-11-07"
+  },
+  {
     "name": "TreeHacks",
     "organizer": "Stanford University",
     "location": "Stanford, CA",
