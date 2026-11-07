@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->549 hackathons tracked<!-- /STATS -->
+<!-- STATS -->550 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -76,6 +76,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | HackUTD | UT Dallas | Dallas, TX | In-Person | Nov 14–16, 2026 | College | Unknown | <a href="https://hackutd.co" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Haven Philly | Hack Club | Drexel University CCI Building | In-Person | Nov 14, 2026 | All | Unknown | <a href="https://haven-philly.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 6 |
 | Haven Princeton Game Jam - High School | Hack Club | 1435 Capital | In-Person | Nov 14, 2026 | All | Unknown | <a href="https://haven-asbury-park.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
+| Haven Richmond | HackClub ✓⃝ | Richmond, Virginia, USA | In-Person | Nov 14–15, 2026 | All | $500 | <a href="https://haven-richmond.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | Haven Seattle | Hack Club | Seattle, Washington, USA | In-Person | Nov 14–15, 2026 | All | $100 | <a href="https://haven-seattle.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | LPC Hacks | LPCHacks | Virtual | Virtual | Nov 14, 2026 | All | Unknown | <a href="https://lpc-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | MadHacks 2026 | MadHacks Team | Morgridge Hall | In-Person | Nov 14–15, 2026 | All | Unknown | <a href="https://madhacks-fall-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |

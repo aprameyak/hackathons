@@ -6540,6 +6540,18 @@
     "date_added": "2026-11-07"
   },
   {
+    "name": "Haven Richmond",
+    "organizer": "HackClub  \u2713\u20dd",
+    "location": "Richmond, Virginia, USA",
+    "mode": "In-Person",
+    "start_date": "2026-11-14",
+    "end_date": "2026-11-15",
+    "open_to": "All",
+    "prize_pool": "$500",
+    "url": "https://haven-richmond.devpost.com/",
+    "date_added": "2026-11-07"
+  },
+  {
     "name": "ONHacks",
     "organizer": "ONHack Organization",
     "location": "Polish Combatants' Hall",
