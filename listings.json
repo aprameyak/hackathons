@@ -6600,6 +6600,18 @@
     "date_added": "2026-11-07"
   },
   {
+    "name": "Teens Hack Houston Hackathon",
+    "organizer": "HackClub  \u2713\u20dd",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-11-14",
+    "end_date": "2026-11-21",
+    "open_to": "All",
+    "prize_pool": "$300",
+    "url": "https://tripleh.devpost.com/",
+    "date_added": "2026-11-07"
+  },
+  {
     "name": "ONHacks",
     "organizer": "ONHack Organization",
     "location": "Polish Combatants' Hall",
