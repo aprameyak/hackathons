@@ -6228,6 +6228,18 @@
     "date_added": "2026-11-05"
   },
   {
+    "name": "IceHacks",
+    "organizer": "CodeStarters",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-11-08",
+    "end_date": "2026-11-15",
+    "open_to": "All",
+    "prize_pool": "$17,150",
+    "url": "https://icehacks.devpost.com/",
+    "date_added": "2026-11-07"
+  },
+  {
     "name": "The Atomiq Hackathon | Qiskit Fall Fest 2026 at IEM",
     "organizer": "Institute of Engineering & Management",
     "location": "Virtual",
