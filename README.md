@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->540 hackathons tracked<!-- /STATS -->
+<!-- STATS -->541 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -70,6 +70,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Code/Clash | BitBrothers | Towson Cyber Center (10 West) | In-Person | Nov 14, 2026 | All | $500 | <a href="https://code-clash.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | Hack Club Haven (Hong Kong) | Hack Club | Canadian International School Hong Kong | In-Person | Nov 14–15, 2026 | All | Unknown | <a href="https://hack-club-haven-hong-kong.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | Hack the Harvest | HMCI | Aggie Square | In-Person | Nov 14–15, 2026 | All | $5,000 | <a href="https://hack-the-harvest.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
+| Hack-a-ton with Friends | naitsa | DOW Theatre | In-Person | Nov 14–15, 2026 | All | Unknown | <a href="https://hack-a-ton-with-friends.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | HackUTD | UT Dallas | Dallas, TX | In-Person | Nov 14–16, 2026 | College | Unknown | <a href="https://hackutd.co" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Haven Philly | Hack Club | Drexel University CCI Building | In-Person | Nov 14, 2026 | All | Unknown | <a href="https://haven-philly.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 6 |
 | Haven Princeton Game Jam - High School | Hack Club | 1435 Capital | In-Person | Nov 14, 2026 | All | Unknown | <a href="https://haven-asbury-park.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |

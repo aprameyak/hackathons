@@ -6468,6 +6468,18 @@
     "date_added": "2026-11-07"
   },
   {
+    "name": "Hack-a-ton with Friends",
+    "organizer": "naitsa",
+    "location": "DOW Theatre",
+    "mode": "In-Person",
+    "start_date": "2026-11-14",
+    "end_date": "2026-11-15",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hack-a-ton-with-friends.devpost.com/",
+    "date_added": "2026-11-07"
+  },
+  {
     "name": "TreeHacks",
     "organizer": "Stanford University",
     "location": "Stanford, CA",
