@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->537 hackathons tracked<!-- /STATS -->
+<!-- STATS -->538 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -66,6 +66,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Hackperimeter | Georgia State University | GSU Perimeter College - Clarkston Campus | In-Person | Nov 13, 2026 | All | $1,000 | <a href="https://hackperimeter.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | IBM Qiskit Hackathon - Bangladesh | DevChangeMakers Community | BRAC University | In-Person | Nov 13–14, 2026 | All | Unknown | <a href="https://ibm-qiskit-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 4 |
 | WiseStart 2026 Hackathon: Tallinn | WISE | Wise Tallinn | In-Person | Nov 13–14, 2026 | All | Unknown | <a href="https://wisestart-2026-tll.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 31 |
+| Central Hacks | Central Michigan University | Central Michigan University Pearce Hall | In-Person | Nov 14–15, 2026 | All | $1,500 | <a href="https://central-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | Code/Clash | BitBrothers | Towson Cyber Center (10 West) | In-Person | Nov 14, 2026 | All | $500 | <a href="https://code-clash.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | Hack Club Haven (Hong Kong) | Hack Club | Canadian International School Hong Kong | In-Person | Nov 14–15, 2026 | All | Unknown | <a href="https://hack-club-haven-hong-kong.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | HackUTD | UT Dallas | Dallas, TX | In-Person | Nov 14–16, 2026 | College | Unknown | <a href="https://hackutd.co" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
