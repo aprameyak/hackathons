@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->555 hackathons tracked<!-- /STATS -->
+<!-- STATS -->556 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -63,6 +63,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | CIVIC Hack 2026 | Future Cities Institute | Virtual | Virtual | Nov 12–14, 2026 | All | Unknown | <a href="https://civic-hack-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 3 |
 | NorCal Hacks 27 | Lynbrook Engineering Club | Virtual | Virtual | Nov 12–15, 2026 | All | Unknown | <a href="https://norcal-hacks-27.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 2 |
 | BUHACK 2.0 | HKBU Coding Club | Virtual | Virtual | Nov 13–15, 2026 | All | Unknown | <a href="https://buhack-2.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 1 |
+| Build with Gemma - Innovate in Windsor | Google Developer Groups Windsor | University of Windsor | In-Person | Nov 13–20, 2026 | All | Unknown | <a href="https://innovate-in-windsor-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | BYU-Idaho: i-Hack 2026: Reinventing the Past | Brigham Young University - Idaho CSE Dep | Science &amp; Technology Building (STC) | In-Person | Nov 13–14, 2026 | All | Unknown | <a href="https://ihack-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 6 |
 | Engage Test | Engage Group | Dubai | In-Person | Nov 13–15, 2026 | All | $20 | <a href="https://engage-test.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 2 |
 | GTransformer AI Buildathon 2026 — AI for Global Good | GTransformer Foundation | Milpitas, Bay Area + Online | In-Person | Nov 13–15, 2026 | All | $1,000 | <a href="https://gtransformer-buildathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
