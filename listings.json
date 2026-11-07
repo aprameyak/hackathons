@@ -6372,6 +6372,18 @@
     "date_added": "2026-11-07"
   },
   {
+    "name": "University Blockchain Conference Hackathon 2026",
+    "organizer": "college.xyz",
+    "location": "University of Texas at Austin",
+    "mode": "In-Person",
+    "start_date": "2026-11-13",
+    "end_date": "2026-11-20",
+    "open_to": "All",
+    "prize_pool": "$22,000",
+    "url": "https://ubc-hackathon-2026.devpost.com/",
+    "date_added": "2026-11-07"
+  },
+  {
     "name": "HackUTD",
     "organizer": "UT Dallas",
     "location": "Dallas, TX",
