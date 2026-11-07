@@ -6240,6 +6240,18 @@
     "date_added": "2026-11-07"
   },
   {
+    "name": "CRC Hacks",
+    "organizer": "Programming and Coders Club",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-11-09",
+    "end_date": "2026-11-17",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://crc-student-hackathon.devpost.com/",
+    "date_added": "2026-11-07"
+  },
+  {
     "name": "The Atomiq Hackathon | Qiskit Fall Fest 2026 at IEM",
     "organizer": "Institute of Engineering & Management",
     "location": "Virtual",
