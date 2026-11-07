@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->534 hackathons tracked<!-- /STATS -->
+<!-- STATS -->535 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -47,6 +47,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | KTPHacks 2 | Kappa Theta Pi | Virginia Tech - DDS | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://ktphacks-2.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | MakeUC 2026 | IEEE@UC | 1819 Innovation Hub | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://makeuc-2026-30884.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
 | Meow | meower@outlook.com | Cincinnati, OH, USA | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://makeuc-2026-30881.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 19 |
+| NYCAIRR × HackBU 2026 | HackBU | Binghamton University – Innovation Lab | In-Person | Nov 7–8, 2026 | All | $6,000 | <a href="https://nycairrhackbu2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | Redhawk Builds 2026 | Miami | McVey Data Science Building | In-Person | Nov 7–8, 2026 | All | $3,500 | <a href="https://redhawk-builds-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Redshifted Cortex - AI built by High Schoolers | Redshifted | Virtual | Virtual | Nov 7, 2026 | All | Unknown | 🔒 | Oct 22 |
 | SLAY HACKS | cite & slayy | Virtual | Virtual | Nov 7–13, 2026 | All | $4,500 | <a href="https://slayy-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 4 |

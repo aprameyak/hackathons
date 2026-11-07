@@ -6180,6 +6180,18 @@
     "date_added": "2026-11-07"
   },
   {
+    "name": "NYCAIRR \u00d7 HackBU 2026",
+    "organizer": "HackBU",
+    "location": "Binghamton University \u2013 Innovation Lab",
+    "mode": "In-Person",
+    "start_date": "2026-11-07",
+    "end_date": "2026-11-08",
+    "open_to": "All",
+    "prize_pool": "$6,000",
+    "url": "https://nycairrhackbu2026.devpost.com/",
+    "date_added": "2026-11-07"
+  },
+  {
     "name": "iOSC End of Semester Hackathon",
     "organizer": "iOSC",
     "location": "SOS B44",
