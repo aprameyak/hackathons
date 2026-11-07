@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->533 hackathons tracked<!-- /STATS -->
+<!-- STATS -->534 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -50,6 +50,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Redhawk Builds 2026 | Miami | McVey Data Science Building | In-Person | Nov 7–8, 2026 | All | $3,500 | <a href="https://redhawk-builds-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | Redshifted Cortex - AI built by High Schoolers | Redshifted | Virtual | Virtual | Nov 7, 2026 | All | Unknown | 🔒 | Oct 22 |
 | SLAY HACKS | cite & slayy | Virtual | Virtual | Nov 7–13, 2026 | All | $4,500 | <a href="https://slayy-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 4 |
+| TKA Hacks 2026 | The King's Academy | The King's Academy W building | In-Person | Nov 7, 2026 | All | Unknown | <a href="https://tka-hacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | UXDC Designathon - 2026 | UXDC - Ucalgary design club | Virtual | Virtual | Nov 7–8, 2026 | All | $200 | <a href="https://uxdc-designathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | WiE Hackathon 2026 | University of Waterloo | PSE | In-Person | Nov 7, 2026 | All | Unknown | <a href="https://wie-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 6 |
 | iOSC End of Semester Hackathon | iOSC | SOS B44 | In-Person | Nov 8, 2026 | All | Unknown | <a href="https://iosc-end-of-semester-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 5 |

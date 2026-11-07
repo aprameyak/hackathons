@@ -6168,6 +6168,18 @@
     "date_added": "2026-11-06"
   },
   {
+    "name": "TKA Hacks 2026",
+    "organizer": "The King's Academy",
+    "location": "The King's Academy W building",
+    "mode": "In-Person",
+    "start_date": "2026-11-07",
+    "end_date": "2026-11-07",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://tka-hacks-2026.devpost.com/",
+    "date_added": "2026-11-07"
+  },
+  {
     "name": "iOSC End of Semester Hackathon",
     "organizer": "iOSC",
     "location": "SOS B44",
