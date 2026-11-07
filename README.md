@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->545 hackathons tracked<!-- /STATS -->
+<!-- STATS -->546 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -82,6 +82,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | SearchHack: Build the next layer of AI search | Telem AI | Sunnyvale | In-Person | Nov 14, 2026 | All | Unknown | <a href="https://searchhack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 1 |
 | System Public Challenge | System, Inc. | System HQ | In-Person | Nov 14, 2026 | All | $7,500 | <a href="https://system-public-challenge.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | ONHacks | ONHack Organization | Polish Combatants' Hall | In-Person | Nov 15, 2026 | All | Unknown | <a href="https://onhacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
+| Stupid Ideas Hackathon (Ottawa F26) | stupid ideas hackathon | Bayview Yards | In-Person | Nov 15, 2026 | All | Unknown | <a href="https://stupideas-ottawa-f26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | TreeHacks | Stanford University | Stanford, CA | In-Person | Feb 14–16, 2027 | College | Unknown | <a href="https://treehacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Agent Builders Hackathon | Omnara | Primitive Office | In-Person | Dates TBA | All | Unknown | <a href="https://agent-builders-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | Almaden Hacks | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://almadenhacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 3 |
