@@ -6444,6 +6444,18 @@
     "date_added": "2026-11-07"
   },
   {
+    "name": "Hack the Harvest",
+    "organizer": "HMCI",
+    "location": "Aggie Square",
+    "mode": "In-Person",
+    "start_date": "2026-11-14",
+    "end_date": "2026-11-15",
+    "open_to": "All",
+    "prize_pool": "$5,000",
+    "url": "https://hack-the-harvest.devpost.com/",
+    "date_added": "2026-11-07"
+  },
+  {
     "name": "TreeHacks",
     "organizer": "Stanford University",
     "location": "Stanford, CA",
