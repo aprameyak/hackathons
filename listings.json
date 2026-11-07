@@ -6372,6 +6372,18 @@
     "date_added": "2026-11-06"
   },
   {
+    "name": "Hack Club Haven (Hong Kong)",
+    "organizer": "Hack Club",
+    "location": "Canadian International School Hong Kong",
+    "mode": "In-Person",
+    "start_date": "2026-11-14",
+    "end_date": "2026-11-15",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hack-club-haven-hong-kong.devpost.com/",
+    "date_added": "2026-11-07"
+  },
+  {
     "name": "TreeHacks",
     "organizer": "Stanford University",
     "location": "Stanford, CA",
