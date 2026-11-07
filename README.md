@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->536 hackathons tracked<!-- /STATS -->
+<!-- STATS -->537 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -38,6 +38,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | GullHacks | Salisbury University | Virtual | Virtual | Nov 7–8, 2026 | All | Unknown | <a href="https://gullhacks2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 6 |
 | Hack the Change 2026 | Code the Change YYC | University of Calgary | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://hack-the-change-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | HACK.COMS 2026 | Computing Org for Multicultural Students | Golisano College of Computing @ RIT | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://hack-coms-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
+| Hack1984 | ACM at Northeastern | 300 Mass Ave | In-Person | Nov 7–8, 2026 | All | $14,200 | <a href="https://hack1984.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | HackCamp 2026 | nwPlus | Vancouver, Canada | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://hackcamp-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | HackRPI 2026 | HackRPI | Darrin Communications Center | In-Person | Nov 7–8, 2026 | All | $3,550 | <a href="https://hackrpi-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
 | HackTheBurgh-XIII | CompSoc Edinburgh | The Nucleus Building, Edinburgh | In-Person | Nov 7–8, 2026 | All | Unknown | <a href="https://hacktheburghxiii.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 6 |

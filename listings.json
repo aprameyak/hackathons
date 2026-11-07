@@ -6204,6 +6204,18 @@
     "date_added": "2026-11-07"
   },
   {
+    "name": "Hack1984",
+    "organizer": "ACM at Northeastern",
+    "location": "300 Mass Ave",
+    "mode": "In-Person",
+    "start_date": "2026-11-07",
+    "end_date": "2026-11-08",
+    "open_to": "All",
+    "prize_pool": "$14,200",
+    "url": "https://hack1984.devpost.com/",
+    "date_added": "2026-11-07"
+  },
+  {
     "name": "iOSC End of Semester Hackathon",
     "organizer": "iOSC",
     "location": "SOS B44",
