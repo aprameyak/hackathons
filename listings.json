@@ -6672,6 +6672,18 @@
     "date_added": "2026-11-07"
   },
   {
+    "name": "DevFest M\u00fcnster 2026: Agentic AI Hackathon",
+    "organizer": "GDG M\u00fcnster",
+    "location": "Volkshochschule",
+    "mode": "In-Person",
+    "start_date": "2026-11-21",
+    "end_date": "2026-11-21",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://devfest-ai-hackathon.devpost.com/",
+    "date_added": "2026-11-07"
+  },
+  {
     "name": "TreeHacks",
     "organizer": "Stanford University",
     "location": "Stanford, CA",
