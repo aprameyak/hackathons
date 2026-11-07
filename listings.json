@@ -6456,6 +6456,18 @@
     "date_added": "2026-11-07"
   },
   {
+    "name": "MadHacks 2026",
+    "organizer": "MadHacks Team",
+    "location": "Morgridge Hall",
+    "mode": "In-Person",
+    "start_date": "2026-11-14",
+    "end_date": "2026-11-15",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://madhacks-fall-2026.devpost.com/",
+    "date_added": "2026-11-07"
+  },
+  {
     "name": "TreeHacks",
     "organizer": "Stanford University",
     "location": "Stanford, CA",
