@@ -6696,6 +6696,18 @@
     "date_added": "2026-11-07"
   },
   {
+    "name": "FutureForge Hacks",
+    "organizer": "Future Forge",
+    "location": "Pleasanton, CA",
+    "mode": "In-Person",
+    "start_date": "2026-11-21",
+    "end_date": "2026-11-21",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://futureforge-hacks.devpost.com/",
+    "date_added": "2026-11-07"
+  },
+  {
     "name": "TreeHacks",
     "organizer": "Stanford University",
     "location": "Stanford, CA",
