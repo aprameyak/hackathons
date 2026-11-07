@@ -6504,6 +6504,18 @@
     "date_added": "2026-11-07"
   },
   {
+    "name": "OCSEFHacks 3",
+    "organizer": "HackPac",
+    "location": "Westminster High School",
+    "mode": "In-Person",
+    "start_date": "2026-11-14",
+    "end_date": "2026-11-15",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://ocsefhacks3.devpost.com/",
+    "date_added": "2026-11-07"
+  },
+  {
     "name": "ONHacks",
     "organizer": "ONHack Organization",
     "location": "Polish Combatants' Hall",
