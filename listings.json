@@ -6624,6 +6624,18 @@
     "date_added": "2026-11-07"
   },
   {
+    "name": "FCA Hacks",
+    "organizer": "Bits&Code",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-11-19",
+    "end_date": "2026-11-19",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://lis-hack-day.devpost.com/",
+    "date_added": "2026-11-07"
+  },
+  {
     "name": "TreeHacks",
     "organizer": "Stanford University",
     "location": "Stanford, CA",
