@@ -6252,6 +6252,18 @@
     "date_added": "2026-11-07"
   },
   {
+    "name": "DataJam 2026",
+    "organizer": "SFU Data Science Student Society",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-11-09",
+    "end_date": "2026-11-15",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://datajam-2026.devpost.com/",
+    "date_added": "2026-11-08"
+  },
+  {
     "name": "The Atomiq Hackathon | Qiskit Fall Fest 2026 at IEM",
     "organizer": "Institute of Engineering & Management",
     "location": "Virtual",
