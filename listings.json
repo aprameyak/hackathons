@@ -6612,6 +6612,18 @@
     "date_added": "2026-11-07"
   },
   {
+    "name": "AI@USC",
+    "organizer": "HackSC",
+    "location": "Ginsburg Hall, USC",
+    "mode": "In-Person",
+    "start_date": "2026-11-14",
+    "end_date": "2026-11-15",
+    "open_to": "All",
+    "prize_pool": "$14,000",
+    "url": "https://ai-usc.devpost.com/",
+    "date_added": "2026-11-08"
+  },
+  {
     "name": "ONHacks",
     "organizer": "ONHack Organization",
     "location": "Polish Combatants' Hall",
