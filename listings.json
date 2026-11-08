@@ -6624,6 +6624,18 @@
     "date_added": "2026-11-08"
   },
   {
+    "name": "Ground Truth: The Live Agents Hackathon - powered by You.com",
+    "organizer": "localhost-nyc",
+    "location": "Station 3",
+    "mode": "In-Person",
+    "start_date": "2026-11-14",
+    "end_date": "2026-11-14",
+    "open_to": "All",
+    "prize_pool": "$650",
+    "url": "https://ground-truth-you-hack.devpost.com/",
+    "date_added": "2026-11-08"
+  },
+  {
     "name": "ONHacks",
     "organizer": "ONHack Organization",
     "location": "Polish Combatants' Hall",
