@@ -6300,6 +6300,18 @@
     "date_added": "2026-11-03"
   },
   {
+    "name": "Unfair Weekend 2026",
+    "organizer": "ISM University",
+    "location": "ISM University, Vilnius",
+    "mode": "In-Person",
+    "start_date": "2026-11-12",
+    "end_date": "2026-11-14",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://unfair-weekend.devpost.com/",
+    "date_added": "2026-11-09"
+  },
+  {
     "name": "Hackperimeter",
     "organizer": "Georgia State University",
     "location": "GSU Perimeter College - Clarkston Campus",
