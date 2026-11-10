@@ -563,7 +563,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Synthax | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | 🔒 | Sep 3 |
 | Bug Bash | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | 🔒 | Sep 3 |
 | Missouri Hacks | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://missourihacks.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
-| Student HackPad | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://studenthackpad.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| Student HackPad | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | 🔒 | Sep 3 |
 | Mountain Hacks 2025 | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | 🔒 | Sep 3 |
 | Hack the Skies | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | 🔒 | Sep 3 |
 | Build-a-thon 2025 | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://www.buildathon.dev/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
