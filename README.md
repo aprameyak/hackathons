@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->566 hackathons tracked<!-- /STATS -->
+<!-- STATS -->567 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -71,6 +71,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Mango Hacks | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://mangohacks.ecily.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Pakistan Hardware Hack 27 | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://teenhacks.org/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Teens Hack Houston | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://tripleh.space/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
+| UnlockedHacks | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://unlockedhacks.org/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 <!-- TABLE_END listings -->
 
 ## Past hackathons
