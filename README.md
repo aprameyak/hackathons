@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->565 hackathons tracked<!-- /STATS -->
+<!-- STATS -->566 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -46,6 +46,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | LPC Hacks | LPCHacks | Virtual | Virtual | Nov 14, 2026 | All | Unknown | <a href="https://lpc-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | MadHacks 2026 | MadHacks Team | Morgridge Hall | In-Person | Nov 14–15, 2026 | All | Unknown | <a href="https://madhacks-fall-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | OCSEFHacks 3 | HackPac | Westminster High School | In-Person | Nov 14–15, 2026 | All | Unknown | <a href="https://ocsefhacks3.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
+| Opportunity Hack 2026 \| ASU Fall Hackathon 2026 \| Tempe Arizona - Nov 14-15 | Opportunity Hack | ASU Engineering Center G Wing | In-Person | Nov 14–15, 2026 | All | $5,100 | <a href="https://opportunity-hack-2026-arizona.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | SanD Hacks | CSES @ UCSD | Qualcomm Conference Room | In-Person | Nov 14–15, 2026 | All | $2,250 | <a href="https://sand-hacks-26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | SearchHack: Build the next layer of AI search | Telem AI | Sunnyvale | In-Person | Nov 14, 2026 | All | Unknown | <a href="https://searchhack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 1 |
 | System Public Challenge | System, Inc. | System HQ | In-Person | Nov 14, 2026 | All | $7,500 | <a href="https://system-public-challenge.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
