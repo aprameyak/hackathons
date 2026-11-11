@@ -6708,6 +6708,18 @@
     "date_added": "2026-11-10"
   },
   {
+    "name": "Immerse the Bay 2026",
+    "organizer": "Stanford XR",
+    "location": "Stanford University",
+    "mode": "In-Person",
+    "start_date": "2026-11-14",
+    "end_date": "2026-11-15",
+    "open_to": "All",
+    "prize_pool": "$1,000",
+    "url": "https://immerse-the-bay-2026.devpost.com/",
+    "date_added": "2026-11-11"
+  },
+  {
     "name": "ONHacks",
     "organizer": "ONHack Organization",
     "location": "Polish Combatants' Hall",
