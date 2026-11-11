@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->572 hackathons tracked<!-- /STATS -->
+<!-- STATS -->573 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -55,6 +55,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | The Next Frontier 2026: A Space Innovation Hackathon | AI Collective | ECPI Virginia Beach Campus | In-Person | Nov 14–15, 2026 | All | Unknown | <a href="https://aichr-space.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | UBC eProjects x n8n LOOP Hackathon | n8n | University of British Columbia | In-Person | Nov 14–15, 2026 | All | $1,000 | <a href="https://loop.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Bridge The Gap Hacks | Bridge The Gap Hacks | Virtual | Virtual | Nov 15–21, 2026 | All | Unknown | <a href="https://sq-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
+| Fall 2026 Projects | PRODUCT@TAMU | Virtual | Virtual | Nov 15–16, 2026 | All | Unknown | <a href="https://fall-2026-projects.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Haven Las Vegas | Hack Club | Pololu Corporation | In-Person | Nov 15, 2026 | All | Unknown | <a href="https://haven-las-vegas.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | ONHacks | ONHack Organization | Polish Combatants' Hall | In-Person | Nov 15, 2026 | All | Unknown | <a href="https://onhacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | Stupid Ideas Hackathon (Ottawa F26) | stupid ideas hackathon | Bayview Yards | In-Person | Nov 15, 2026 | All | Unknown | <a href="https://stupideas-ottawa-f26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
