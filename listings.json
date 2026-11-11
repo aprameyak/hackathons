@@ -6720,6 +6720,18 @@
     "date_added": "2026-11-11"
   },
   {
+    "name": "UBC eProjects x n8n LOOP Hackathon",
+    "organizer": "n8n",
+    "location": "University of British Columbia",
+    "mode": "In-Person",
+    "start_date": "2026-11-14",
+    "end_date": "2026-11-15",
+    "open_to": "All",
+    "prize_pool": "$1,000",
+    "url": "https://loop.devpost.com/",
+    "date_added": "2026-11-11"
+  },
+  {
     "name": "ONHacks",
     "organizer": "ONHack Organization",
     "location": "Polish Combatants' Hall",
