@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->574 hackathons tracked<!-- /STATS -->
+<!-- STATS -->575 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -16,8 +16,8 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | IceHacks | CodeStarters | Virtual | Virtual | Nov 8–15, 2026 | All | $17,150 | <a href="https://icehacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | CRC Hacks | Programming and Coders Club | Virtual | Virtual | Nov 9–17, 2026 | All | Unknown | <a href="https://crc-student-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | DataJam 2026 | SFU Data Science Student Society | Virtual | Virtual | Nov 9–15, 2026 | All | Unknown | <a href="https://datajam-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 8 |
-| The Atomiq Hackathon \| Qiskit Fall Fest 2026 at IEM | Institute of Engineering & Management | Virtual | Virtual | Nov 10–11, 2026 | All | Unknown | <a href="https://atomiq-hackathon-qff-26-iem.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | CIVIC Hack 2026 | Future Cities Institute | Virtual | Virtual | Nov 12–14, 2026 | All | Unknown | <a href="https://civic-hack-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 3 |
+| Deltahacks X Backboard.io | DeltaHacks | Marinucci Entrepreneurial Bridge | In-Person | Nov 12, 2026 | All | Unknown | <a href="https://deltahacksxbackboard.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 12 |
 | NorCal Hacks 27 | Lynbrook Engineering Club | Virtual | Virtual | Nov 12–15, 2026 | All | Unknown | <a href="https://norcal-hacks-27.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 2 |
 | Unfair Weekend 2026 | ISM University | ISM University, Vilnius | In-Person | Nov 12–14, 2026 | All | Unknown | <a href="https://unfair-weekend.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 9 |
 | BUHACK 2.0 | HKBU Coding Club | Virtual | Virtual | Nov 13–15, 2026 | All | Unknown | <a href="https://buhack-2.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 1 |
@@ -84,6 +84,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 <!-- TABLE_START past -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
 | --------- | --------- | -------- | ---- | ----- | ------- | ----- | ----- | ----- |
+| The Atomiq Hackathon \| Qiskit Fall Fest 2026 at IEM | Institute of Engineering & Management | Virtual | Virtual | Nov 10–11, 2026 | All | Unknown | <a href="https://atomiq-hackathon-qff-26-iem.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | iOSC End of Semester Hackathon | iOSC | SOS B44 | In-Person | Nov 8, 2026 | All | Unknown | <a href="https://iosc-end-of-semester-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 5 |
 | HackUMass | UMass Amherst | Amherst, MA | In-Person | Nov 7–9, 2026 | College | Unknown | <a href="https://hackumass.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Redhawk Builds 2026 | Miami | McVey Data Science Building | In-Person | Nov 7–8, 2026 | All | $3,500 | <a href="https://redhawk-builds-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 17 |
