@@ -6492,6 +6492,18 @@
     "date_added": "2026-11-11"
   },
   {
+    "name": "Emory Hacks 2026",
+    "organizer": "PROJECT Emory",
+    "location": "Emory Univ. - Goizueta Business School",
+    "mode": "In-Person",
+    "start_date": "2026-11-13",
+    "end_date": "2026-11-15",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://emory-hacks-26.devpost.com/",
+    "date_added": "2026-11-12"
+  },
+  {
     "name": "HackUTD",
     "organizer": "UT Dallas",
     "location": "Dallas, TX",
