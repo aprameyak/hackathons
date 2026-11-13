@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->582 hackathons tracked<!-- /STATS -->
+<!-- STATS -->583 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -69,6 +69,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | DevFest Münster 2026: Agentic AI Hackathon | GDG Münster | Volkshochschule | In-Person | Nov 21, 2026 | All | Unknown | <a href="https://devfest-ai-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | FutureForge Hacks | Future Forge | Pleasanton, CA | In-Person | Nov 21, 2026 | All | Unknown | <a href="https://futureforge-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | Nerdearla Vibeathon by Devin | Nerdearla | Amazon CDMX (Puerta Polanco) | In-Person | Nov 21, 2026 | All | Unknown | <a href="https://vibeathon-mexico-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
+| WoHack | Queen Mary Computer Science Society | Queen Mary University of london | In-Person | Nov 21, 2026 | All | Unknown | <a href="https://wohack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | TreeHacks | Stanford University | Stanford, CA | In-Person | Feb 14–16, 2027 | College | Unknown | <a href="https://treehacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Agent Builders Hackathon | Omnara | Primitive Office | In-Person | Dates TBA | All | Unknown | <a href="https://agent-builders-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | Almaden Hacks | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://almadenhacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 3 |

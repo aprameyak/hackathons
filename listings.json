@@ -6972,6 +6972,18 @@
     "date_added": "2026-11-10"
   },
   {
+    "name": "WoHack",
+    "organizer": "Queen Mary Computer Science Society",
+    "location": "Queen Mary University of london",
+    "mode": "In-Person",
+    "start_date": "2026-11-21",
+    "end_date": "2026-11-21",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://wohack.devpost.com/",
+    "date_added": "2026-11-13"
+  },
+  {
     "name": "TreeHacks",
     "organizer": "Stanford University",
     "location": "Stanford, CA",
