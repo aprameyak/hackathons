@@ -6900,6 +6900,18 @@
     "date_added": "2026-11-11"
   },
   {
+    "name": "Harvard Undergraduate OpenBio Laboratory Datathon",
+    "organizer": "Harvard Undergraduate OpenBio Datathon",
+    "location": "Maxwell Dworkin",
+    "mode": "In-Person",
+    "start_date": "2026-11-15",
+    "end_date": "2026-11-15",
+    "open_to": "All",
+    "prize_pool": "$2,000",
+    "url": "https://openbio-datathon.devpost.com/",
+    "date_added": "2026-11-13"
+  },
+  {
     "name": "Bharat Builds Tour",
     "organizer": "Hackers Unity",
     "location": "jaipur",
