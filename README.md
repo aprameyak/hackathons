@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->584 hackathons tracked<!-- /STATS -->
+<!-- STATS -->585 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -77,6 +77,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Beacon Hacks | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://beaconhacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 28 |
 | checkpoint 1 — games for good | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://checkpointhacks.org/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | checkpoint journeys — hanoi | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://hanoi.checkpointhacks.org/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
+| Earth Hacks 2027 | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://earthhacks.dev" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Falcon Hacks | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://falconhacks2026.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | Founding-100 | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | 🔒 | Oct 18 |
 | Hack Peel | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://hackpeel.ca" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 9 |
