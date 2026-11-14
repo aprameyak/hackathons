@@ -7200,6 +7200,18 @@
     "date_added": "2026-11-14"
   },
   {
+    "name": "Blackout 2026",
+    "organizer": "buildicy",
+    "location": "Coimbatore , TamilNadu ",
+    "mode": "In-Person",
+    "start_date": "2026-11-28",
+    "end_date": "2026-11-28",
+    "open_to": "All",
+    "prize_pool": "$5,000",
+    "url": "https://blackout-2026.devpost.com/",
+    "date_added": "2026-11-14"
+  },
+  {
     "name": "TreeHacks",
     "organizer": "Stanford University",
     "location": "Stanford, CA",
