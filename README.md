@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->613 hackathons tracked<!-- /STATS -->
+<!-- STATS -->614 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -91,6 +91,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Project-ZH Hack Day | Project-ZH | Innoland Incubation Center, Baku | In-Person | Nov 28, 2026 | All | Unknown | <a href="https://project-zh.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | The Dawn of Superintelligence \| Kaya AI Grand Challenge | Kaya AI | Mumbai | In-Person | Nov 29 – Dec 6, 2026 | All | $3,000 | <a href="https://kaya-ai-grand-challenge.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | FRONTIER//26 | LoveHack | Virtual | Virtual | Dec 4–11, 2026 | All | Unknown | <a href="https://lovhack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
+| BUILD 4 ALL | CS4ALL | Virtual | Virtual | Dec 5–12, 2026 | All | Unknown | <a href="https://build4all.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Hack AI x Stan | Stan | Stan HQ - Toronto | In-Person | Dec 5–6, 2026 | All | Unknown | <a href="https://hackai-toronto.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | HackSussex GameJam 2026 | HackSussex | Brighton | In-Person | Dec 5–6, 2026 | All | Unknown | <a href="https://hacksussex-gamejam-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | NeuroHack Fall 2026 - Rewiring Pathways: Innovative Neuroscience | NeuroTech@UIUC | Virtual | Virtual | Dec 5–6, 2026 | All | Unknown | <a href="https://neurohack-fall-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |

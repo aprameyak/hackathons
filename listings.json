@@ -7344,6 +7344,18 @@
     "date_added": "2026-11-14"
   },
   {
+    "name": "BUILD 4 ALL",
+    "organizer": "CS4ALL",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-12-05",
+    "end_date": "2026-12-12",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://build4all.devpost.com/",
+    "date_added": "2026-11-14"
+  },
+  {
     "name": "TreeHacks",
     "organizer": "Stanford University",
     "location": "Stanford, CA",
