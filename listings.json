@@ -6996,6 +6996,18 @@
     "date_added": "2026-11-14"
   },
   {
+    "name": "Hack Western 13",
+    "organizer": "Hack Western",
+    "location": "Ronald D. Schmeichel Building",
+    "mode": "In-Person",
+    "start_date": "2026-11-20",
+    "end_date": "2026-11-22",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hack-western-13.devpost.com/",
+    "date_added": "2026-11-14"
+  },
+  {
     "name": "DevFest M\u00fcnster 2026: Agentic AI Hackathon",
     "organizer": "GDG M\u00fcnster",
     "location": "Volkshochschule",

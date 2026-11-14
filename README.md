@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->590 hackathons tracked<!-- /STATS -->
+<!-- STATS -->591 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -66,6 +66,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | FCA Hacks | Bits&Code | Virtual | Virtual | Nov 19, 2026 | All | Unknown | <a href="https://lis-hack-day.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | Pixelforge | Dayananda sagar academy of technology an | Dayananda sagar academy | In-Person | Nov 19–20, 2026 | All | Unknown | <a href="https://pixel-forge-gamethon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | CrossPointX 2026 | Science Innovation Association of XJTLU | Virtual | Virtual | Nov 20–22, 2026 | All | Unknown | <a href="https://cpx2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
+| Hack Western 13 | Hack Western | Ronald D. Schmeichel Building | In-Person | Nov 20–22, 2026 | All | Unknown | <a href="https://hack-western-13.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Cutie Hack 2026 | ACM at UCR | UC Riverside - Winston Chung Hall | In-Person | Nov 21, 2026 | All | Unknown | <a href="https://cutie-hack-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | DevFest Münster 2026: Agentic AI Hackathon | GDG Münster | Volkshochschule | In-Person | Nov 21, 2026 | All | Unknown | <a href="https://devfest-ai-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | FutureForge Hacks | Future Forge | Pleasanton, CA | In-Person | Nov 21, 2026 | All | Unknown | <a href="https://futureforge-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
