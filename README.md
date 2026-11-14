@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->585 hackathons tracked<!-- /STATS -->
+<!-- STATS -->586 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -63,6 +63,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Bharat Builds Tour | Hackers Unity | jaipur | In-Person | Nov 16–17, 2026 | All | Unknown | <a href="https://bharat-builds-tour.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | FCA Hacks | Bits&Code | Virtual | Virtual | Nov 19, 2026 | All | Unknown | <a href="https://lis-hack-day.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | Pixelforge | Dayananda sagar academy of technology an | Dayananda sagar academy | In-Person | Nov 19–20, 2026 | All | Unknown | <a href="https://pixel-forge-gamethon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
+| Cutie Hack 2026 | ACM at UCR | UC Riverside - Winston Chung Hall | In-Person | Nov 21, 2026 | All | Unknown | <a href="https://cutie-hack-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | DevFest Münster 2026: Agentic AI Hackathon | GDG Münster | Volkshochschule | In-Person | Nov 21, 2026 | All | Unknown | <a href="https://devfest-ai-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | FutureForge Hacks | Future Forge | Pleasanton, CA | In-Person | Nov 21, 2026 | All | Unknown | <a href="https://futureforge-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | Nerdearla Vibeathon by Devin | Nerdearla | Amazon CDMX (Puerta Polanco) | In-Person | Nov 21, 2026 | All | Unknown | <a href="https://vibeathon-mexico-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
