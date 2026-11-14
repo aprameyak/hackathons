@@ -7164,6 +7164,18 @@
     "date_added": "2026-11-14"
   },
   {
+    "name": "Project-ZH Hack Day",
+    "organizer": "Project-ZH",
+    "location": "Innoland Incubation Center, Baku",
+    "mode": "In-Person",
+    "start_date": "2026-11-28",
+    "end_date": "2026-11-28",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://project-zh.devpost.com/",
+    "date_added": "2026-11-14"
+  },
+  {
     "name": "TreeHacks",
     "organizer": "Stanford University",
     "location": "Stanford, CA",
