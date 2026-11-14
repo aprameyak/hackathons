@@ -7212,6 +7212,18 @@
     "date_added": "2026-11-14"
   },
   {
+    "name": "Hackathon 2026",
+    "organizer": "Deutsche Telekom IT Solutions Slovakia",
+    "location": "Technical University of Ko\u0161ice - Library",
+    "mode": "In-Person",
+    "start_date": "2026-11-28",
+    "end_date": "2026-11-29",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://dtit-hackathon-2026.devpost.com/",
+    "date_added": "2026-11-14"
+  },
+  {
     "name": "TreeHacks",
     "organizer": "Stanford University",
     "location": "Stanford, CA",
