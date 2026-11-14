@@ -7308,6 +7308,18 @@
     "date_added": "2026-11-14"
   },
   {
+    "name": "NeuroHack Fall 2026 - Rewiring Pathways: Innovative Neuroscience",
+    "organizer": "NeuroTech@UIUC",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-12-05",
+    "end_date": "2026-12-06",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://neurohack-fall-2026.devpost.com/",
+    "date_added": "2026-11-14"
+  },
+  {
     "name": "TreeHacks",
     "organizer": "Stanford University",
     "location": "Stanford, CA",
