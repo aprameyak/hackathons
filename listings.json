@@ -7104,6 +7104,18 @@
     "date_added": "2026-11-14"
   },
   {
+    "name": "EvoHacks 2",
+    "organizer": "EvoHacks",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-11-21",
+    "end_date": "2026-11-22",
+    "open_to": "All",
+    "prize_pool": "$27,629",
+    "url": "https://evohacks2.devpost.com/",
+    "date_added": "2026-11-14"
+  },
+  {
     "name": "TreeHacks",
     "organizer": "Stanford University",
     "location": "Stanford, CA",
