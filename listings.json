@@ -7116,6 +7116,18 @@
     "date_added": "2026-11-14"
   },
   {
+    "name": "test",
+    "organizer": "Nutech, Islamabad",
+    "location": "NUTECH Main Campus",
+    "mode": "In-Person",
+    "start_date": "2026-11-23",
+    "end_date": "2026-11-24",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://nutech-hackfest-2026.devpost.com/",
+    "date_added": "2026-11-14"
+  },
+  {
     "name": "TreeHacks",
     "organizer": "Stanford University",
     "location": "Stanford, CA",

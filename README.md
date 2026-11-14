@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->594 hackathons tracked<!-- /STATS -->
+<!-- STATS -->595 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -76,6 +76,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | START Hack League Munich 2026 | START Munich | TUM Audimax | In-Person | Nov 21–22, 2026 | All | Unknown | <a href="https://start-hack-league-munich-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | WHACK | MLH | Lulu Chow Wang Campus Center | In-Person | Nov 21–22, 2026 | All | Unknown | <a href="https://wellesleyhack-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | WoHack | Queen Mary Computer Science Society | Queen Mary University of london | In-Person | Nov 21, 2026 | All | Unknown | <a href="https://wohack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
+| test | Nutech, Islamabad | NUTECH Main Campus | In-Person | Nov 23–24, 2026 | All | Unknown | <a href="https://nutech-hackfest-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | TreeHacks | Stanford University | Stanford, CA | In-Person | Feb 14–16, 2027 | College | Unknown | <a href="https://treehacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Agent Builders Hackathon | Omnara | Primitive Office | In-Person | Dates TBA | All | Unknown | <a href="https://agent-builders-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | Almaden Hacks | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://almadenhacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 3 |
