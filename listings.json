@@ -7176,6 +7176,18 @@
     "date_added": "2026-11-14"
   },
   {
+    "name": "Westside High School Build Challenge",
+    "organizer": "Westside Coding Club",
+    "location": "Westside High School",
+    "mode": "In-Person",
+    "start_date": "2026-11-24",
+    "end_date": "2026-12-01",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://whs-build.devpost.com/",
+    "date_added": "2026-11-14"
+  },
+  {
     "name": "LooHacks",
     "organizer": "AWS Student Builder Group - WLU",
     "location": "Spur Innovation Center - SPUR Campus",
