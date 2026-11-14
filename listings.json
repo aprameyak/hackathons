@@ -7032,6 +7032,18 @@
     "date_added": "2026-11-14"
   },
   {
+    "name": "START Hack League Munich 2026",
+    "organizer": "START Munich",
+    "location": "TUM Audimax",
+    "mode": "In-Person",
+    "start_date": "2026-11-21",
+    "end_date": "2026-11-22",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://start-hack-league-munich-2026.devpost.com/",
+    "date_added": "2026-11-14"
+  },
+  {
     "name": "TreeHacks",
     "organizer": "Stanford University",
     "location": "Stanford, CA",
