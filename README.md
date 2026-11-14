@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->591 hackathons tracked<!-- /STATS -->
+<!-- STATS -->592 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -60,6 +60,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Fall 2026 Projects | PRODUCT@TAMU | Virtual | Virtual | Nov 15–16, 2026 | All | Unknown | <a href="https://fall-2026-projects.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 11 |
 | Harvard Undergraduate OpenBio Laboratory Datathon | Harvard Undergraduate OpenBio Datathon | Maxwell Dworkin | In-Person | Nov 15, 2026 | All | $2,000 | <a href="https://openbio-datathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Haven Las Vegas | Hack Club | Pololu Corporation | In-Person | Nov 15, 2026 | All | Unknown | <a href="https://haven-las-vegas.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
+| KUK VIRTUAL HACKATHON | Kelab UMNO Korea | Virtual | Virtual | Nov 15–22, 2026 | All | $800 | <a href="https://kuk-virtual-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | ONHacks | ONHack Organization | Polish Combatants' Hall | In-Person | Nov 15, 2026 | All | Unknown | <a href="https://onhacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | Stupid Ideas Hackathon (Ottawa F26) | stupid ideas hackathon | Bayview Yards | In-Person | Nov 15, 2026 | All | Unknown | <a href="https://stupideas-ottawa-f26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | Bharat Builds Tour | Hackers Unity | jaipur | In-Person | Nov 16–17, 2026 | All | Unknown | <a href="https://bharat-builds-tour.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |

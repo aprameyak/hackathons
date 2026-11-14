@@ -6948,6 +6948,18 @@
     "date_added": "2026-11-13"
   },
   {
+    "name": "KUK VIRTUAL HACKATHON",
+    "organizer": "Kelab UMNO Korea",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-11-15",
+    "end_date": "2026-11-22",
+    "open_to": "All",
+    "prize_pool": "$800",
+    "url": "https://kuk-virtual-hackathon.devpost.com/",
+    "date_added": "2026-11-14"
+  },
+  {
     "name": "Bharat Builds Tour",
     "organizer": "Hackers Unity",
     "location": "jaipur",
