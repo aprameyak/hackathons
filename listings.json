@@ -7284,6 +7284,18 @@
     "date_added": "2026-11-14"
   },
   {
+    "name": "FRONTIER//26",
+    "organizer": "LoveHack",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-12-04",
+    "end_date": "2026-12-11",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://lovhack.devpost.com/",
+    "date_added": "2026-11-14"
+  },
+  {
     "name": "HackSussex GameJam 2026",
     "organizer": "HackSussex",
     "location": "Brighton",
