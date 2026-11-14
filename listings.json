@@ -7092,6 +7092,18 @@
     "date_added": "2026-11-14"
   },
   {
+    "name": "WHACK",
+    "organizer": "MLH",
+    "location": "Lulu Chow Wang Campus Center",
+    "mode": "In-Person",
+    "start_date": "2026-11-21",
+    "end_date": "2026-11-22",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://wellesleyhack-2026.devpost.com/",
+    "date_added": "2026-11-14"
+  },
+  {
     "name": "TreeHacks",
     "organizer": "Stanford University",
     "location": "Stanford, CA",
