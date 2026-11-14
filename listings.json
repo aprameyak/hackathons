@@ -6852,6 +6852,18 @@
     "date_added": "2026-11-13"
   },
   {
+    "name": "Theta Tau Hacka Zeta",
+    "organizer": "Theta Tau Kappa Zeta",
+    "location": "UTD ECS Buildings",
+    "mode": "In-Person",
+    "start_date": "2026-11-14",
+    "end_date": "2026-11-14",
+    "open_to": "All",
+    "prize_pool": "$600",
+    "url": "https://theta-tau-hacka-zeta.devpost.com/",
+    "date_added": "2026-11-14"
+  },
+  {
     "name": "ONHacks",
     "organizer": "ONHack Organization",
     "location": "Polish Combatants' Hall",
