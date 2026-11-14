@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->608 hackathons tracked<!-- /STATS -->
+<!-- STATS -->609 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -89,6 +89,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Build Day 2 | Durham College | Durham University, Entrepreneurs Durham | In-Person | Nov 28, 2026 | All | Unknown | <a href="https://build-day.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Hackathon 2026 | Deutsche Telekom IT Solutions Slovakia | Technical University of Košice - Library | In-Person | Nov 28–29, 2026 | All | Unknown | <a href="https://dtit-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Project-ZH Hack Day | Project-ZH | Innoland Incubation Center, Baku | In-Person | Nov 28, 2026 | All | Unknown | <a href="https://project-zh.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
+| Hack AI x Stan | Stan | Stan HQ - Toronto | In-Person | Dec 5–6, 2026 | All | Unknown | <a href="https://hackai-toronto.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | HackSussex GameJam 2026 | HackSussex | Brighton | In-Person | Dec 5–6, 2026 | All | Unknown | <a href="https://hacksussex-gamejam-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | TreeHacks | Stanford University | Stanford, CA | In-Person | Feb 14–16, 2027 | College | Unknown | <a href="https://treehacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Agent Builders Hackathon | Omnara | Primitive Office | In-Person | Dates TBA | All | Unknown | <a href="https://agent-builders-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
