@@ -7176,6 +7176,18 @@
     "date_added": "2026-11-14"
   },
   {
+    "name": "Build Day 2",
+    "organizer": "Durham College",
+    "location": "Durham University, Entrepreneurs Durham",
+    "mode": "In-Person",
+    "start_date": "2026-11-28",
+    "end_date": "2026-11-28",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://build-day.devpost.com/",
+    "date_added": "2026-11-14"
+  },
+  {
     "name": "TreeHacks",
     "organizer": "Stanford University",
     "location": "Stanford, CA",
