@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->595 hackathons tracked<!-- /STATS -->
+<!-- STATS -->596 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -64,6 +64,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | ONHacks | ONHack Organization | Polish Combatants' Hall | In-Person | Nov 15, 2026 | All | Unknown | <a href="https://onhacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | Stupid Ideas Hackathon (Ottawa F26) | stupid ideas hackathon | Bayview Yards | In-Person | Nov 15, 2026 | All | Unknown | <a href="https://stupideas-ottawa-f26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | Bharat Builds Tour | Hackers Unity | jaipur | In-Person | Nov 16–17, 2026 | All | Unknown | <a href="https://bharat-builds-tour.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
+| OBSCURA: Satellite AI Research Challenge | BTAJI CREW | Virtual | Virtual | Nov 18–24, 2026 | All | $50 | <a href="https://obscura.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | FCA Hacks | Bits&Code | Virtual | Virtual | Nov 19, 2026 | All | Unknown | <a href="https://lis-hack-day.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | Pixelforge | Dayananda sagar academy of technology an | Dayananda sagar academy | In-Person | Nov 19–20, 2026 | All | Unknown | <a href="https://pixel-forge-gamethon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | CrossPointX 2026 | Science Innovation Association of XJTLU | Virtual | Virtual | Nov 20–22, 2026 | All | Unknown | <a href="https://cpx2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
