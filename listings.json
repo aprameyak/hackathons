@@ -7416,6 +7416,18 @@
     "date_added": "2026-11-15"
   },
   {
+    "name": "evensonarisnord",
+    "organizer": "HoustonHacks2026",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-12-31",
+    "end_date": "2026-12-31",
+    "open_to": "All",
+    "prize_pool": "$150",
+    "url": "https://evensonarisnord.devpost.com/",
+    "date_added": "2026-11-15"
+  },
+  {
     "name": "TreeHacks",
     "organizer": "Stanford University",
     "location": "Stanford, CA",
