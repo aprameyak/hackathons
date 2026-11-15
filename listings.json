@@ -7356,6 +7356,18 @@
     "date_added": "2026-11-14"
   },
   {
+    "name": "hack::peel 2026",
+    "organizer": "Absolute Robotics #4308",
+    "location": "The Woodlands Secondary School",
+    "mode": "In-Person",
+    "start_date": "2026-12-12",
+    "end_date": "2026-12-13",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hack-peel.devpost.com/",
+    "date_added": "2026-11-15"
+  },
+  {
     "name": "TreeHacks",
     "organizer": "Stanford University",
     "location": "Stanford, CA",
