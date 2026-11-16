@@ -7368,6 +7368,18 @@
     "date_added": "2026-11-14"
   },
   {
+    "name": "VisionHacks",
+    "organizer": "Inference Labs",
+    "location": "Oakville, Canada",
+    "mode": "In-Person",
+    "start_date": "2026-12-05",
+    "end_date": "2026-12-05",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://visionhacks.devpost.com/",
+    "date_added": "2026-11-16"
+  },
+  {
     "name": "Arioron Think 2026",
     "organizer": "Arioron",
     "location": "Virtual",
