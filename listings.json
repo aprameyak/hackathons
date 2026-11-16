@@ -7008,6 +7008,18 @@
     "date_added": "2026-11-14"
   },
   {
+    "name": "RAMHACK Mini 2026",
+    "organizer": "Fordham University",
+    "location": "Fordham University at Lincoln Center",
+    "mode": "In-Person",
+    "start_date": "2026-11-18",
+    "end_date": "2026-11-18",
+    "open_to": "All",
+    "prize_pool": "$470",
+    "url": "https://ramhack-mini-2026.devpost.com/",
+    "date_added": "2026-11-16"
+  },
+  {
     "name": "FCA Hacks",
     "organizer": "Bits&Code",
     "location": "Virtual",
