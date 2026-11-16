@@ -7440,6 +7440,18 @@
     "date_added": "2026-11-15"
   },
   {
+    "name": "HackTheCure",
+    "organizer": "HackTheCure",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-12-27",
+    "end_date": "2027-01-03",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hackthecure.devpost.com/",
+    "date_added": "2026-11-16"
+  },
+  {
     "name": "evensonarisnord",
     "organizer": "HoustonHacks2026",
     "location": "Virtual",
