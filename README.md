@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->624 hackathons tracked<!-- /STATS -->
+<!-- STATS -->625 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -24,6 +24,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | RAMHACK Mini 2026 | Fordham University | Fordham University at Lincoln Center | In-Person | Nov 18, 2026 | All | $470 | <a href="https://ramhack-mini-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | FCA Hacks | Bits&Code | Virtual | Virtual | Nov 19, 2026 | All | Unknown | <a href="https://lis-hack-day.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | Pixelforge | Dayananda sagar academy of technology an | Dayananda sagar academy | In-Person | Nov 19–20, 2026 | All | Unknown | <a href="https://pixel-forge-gamethon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
+| TUM XR Value Creation Hackathon 2026 | Technical University of Munich | Virtual | Virtual | Nov 19–21, 2026 | All | Unknown | <a href="https://tum-xr-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | CrossPointX 2026 | Science Innovation Association of XJTLU | Virtual | Virtual | Nov 20–22, 2026 | All | Unknown | <a href="https://cpx2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | CSAIC Hack-AI-Thon | Computer Science and AI Circle @ IISH | Virtual | Virtual | Nov 20–24, 2026 | All | Unknown | <a href="https://csaic-hackaithon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Hack Western 13 | Hack Western | Ronald D. Schmeichel Building | In-Person | Nov 20–22, 2026 | All | Unknown | <a href="https://hack-western-13.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
