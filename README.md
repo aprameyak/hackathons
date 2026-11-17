@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->629 hackathons tracked<!-- /STATS -->
+<!-- STATS -->630 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -20,6 +20,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Diwali Festiverse: The Agent-to-Agent Hackathon (India Edition) | hidevs | OJone Building, Bengaluru. | In-Person | Nov 17–24, 2026 | All | $900 | <a href="https://theagent-to-agent-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | OBSCURA: Satellite AI Research Challenge | BTAJI CREW | Virtual | Virtual | Nov 18–24, 2026 | All | $50 | <a href="https://obscura.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | RAMHACK Mini 2026 | Fordham University | Fordham University at Lincoln Center | In-Person | Nov 18, 2026 | All | $470 | <a href="https://ramhack-mini-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
+| SMBP FinHack | Small Money, Big Plan | Virtual | Virtual | Nov 18–20, 2026 | All | Unknown | <a href="https://smbp-finhack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | FCA Hacks | Bits&Code | Virtual | Virtual | Nov 19, 2026 | All | Unknown | <a href="https://lis-hack-day.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | Pixelforge | Dayananda sagar academy of technology an | Dayananda sagar academy | In-Person | Nov 19–20, 2026 | All | Unknown | <a href="https://pixel-forge-gamethon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | TUM XR Value Creation Hackathon 2026 | Technical University of Munich | Virtual | Virtual | Nov 19–21, 2026 | All | Unknown | <a href="https://tum-xr-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |

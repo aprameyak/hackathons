@@ -7044,6 +7044,18 @@
     "date_added": "2026-11-16"
   },
   {
+    "name": "SMBP FinHack",
+    "organizer": "Small Money, Big Plan",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-11-18",
+    "end_date": "2026-11-20",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://smbp-finhack.devpost.com/",
+    "date_added": "2026-11-17"
+  },
+  {
     "name": "FCA Hacks",
     "organizer": "Bits&Code",
     "location": "Virtual",
