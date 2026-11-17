@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->628 hackathons tracked<!-- /STATS -->
+<!-- STATS -->629 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -72,6 +72,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Falcon Hacks | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://falconhacks2026.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 20 |
 | Founding-100 | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | 🔒 | Oct 18 |
 | Hack Peel | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://hackpeel.ca" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 9 |
+| Hack The Rex | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://www.hacktherex.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Mango Hacks | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://mangohacks.ecily.org" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 23 |
 | Pakistan Hardware Hack 27 | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://teenhacks.org/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 29 |
 | Teens Hack Houston | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://tripleh.space/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 22 |
