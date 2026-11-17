@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->631 hackathons tracked<!-- /STATS -->
+<!-- STATS -->632 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -38,6 +38,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | START Hack League Munich 2026 | START Munich | TUM Audimax | In-Person | Nov 21–22, 2026 | All | Unknown | <a href="https://start-hack-league-munich-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | WHACK | MLH | Lulu Chow Wang Campus Center | In-Person | Nov 21–22, 2026 | All | Unknown | <a href="https://wellesleyhack-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | WoHack | Queen Mary Computer Science Society | Queen Mary University of london | In-Person | Nov 21, 2026 | All | Unknown | <a href="https://wohack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
+| Creator Economy Hack - powered by You.com | localhost-nyc | Whop HQ | In-Person | Nov 22, 2026 | All | $500 | <a href="https://creator-economy-you-hack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | test | Nutech, Islamabad | NUTECH Main Campus | In-Person | Nov 23–24, 2026 | All | Unknown | <a href="https://nutech-hackfest-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Westside High School Build Challenge | Westside Coding Club | Westside High School | In-Person | Nov 24 – Dec 1, 2026 | All | Unknown | <a href="https://whs-build.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | K-Dub Hacks | AWS Student Builders Group - Laurier | Spur Innovation Center | In-Person | Nov 27–29, 2026 | All | Unknown | <a href="https://k-dub-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
