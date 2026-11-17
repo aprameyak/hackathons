@@ -7248,6 +7248,18 @@
     "date_added": "2026-11-15"
   },
   {
+    "name": "BostonHacks 2026",
+    "organizer": "BostonHacks",
+    "location": "Boston University",
+    "mode": "In-Person",
+    "start_date": "2026-11-21",
+    "end_date": "2026-11-22",
+    "open_to": "All",
+    "prize_pool": "$3,500",
+    "url": "https://bostonhacks-2026.devpost.com/",
+    "date_added": "2026-11-17"
+  },
+  {
     "name": "test",
     "organizer": "Nutech, Islamabad",
     "location": "NUTECH Main Campus",
