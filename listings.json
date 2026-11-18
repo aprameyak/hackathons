@@ -7056,6 +7056,18 @@
     "date_added": "2026-11-17"
   },
   {
+    "name": "HudHackHer 2026",
+    "organizer": "University of Huddersfield",
+    "location": "Study Mill, Haslett Building",
+    "mode": "In-Person",
+    "start_date": "2026-11-18",
+    "end_date": "2026-11-18",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://hudhackher.devpost.com/",
+    "date_added": "2026-11-18"
+  },
+  {
     "name": "FCA Hacks",
     "organizer": "Bits&Code",
     "location": "Virtual",
