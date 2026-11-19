@@ -7140,6 +7140,18 @@
     "date_added": "2026-11-14"
   },
   {
+    "name": "rookie hacks",
+    "organizer": "IBM",
+    "location": "Helsinki ",
+    "mode": "In-Person",
+    "start_date": "2026-11-20",
+    "end_date": "2026-11-20",
+    "open_to": "All",
+    "prize_pool": "$50,000",
+    "url": "https://rookie-hacks.devpost.com/",
+    "date_added": "2026-11-19"
+  },
+  {
     "name": "DevFest M\u00fcnster 2026: Agentic AI Hackathon",
     "organizer": "GDG M\u00fcnster",
     "location": "Volkshochschule",
