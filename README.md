@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->635 hackathons tracked<!-- /STATS -->
+<!-- STATS -->636 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -25,6 +25,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | CrossPointX 2026 | Science Innovation Association of XJTLU | Virtual | Virtual | Nov 20–22, 2026 | All | Unknown | <a href="https://cpx2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | CSAIC Hack-AI-Thon | Computer Science and AI Circle @ IISH | Virtual | Virtual | Nov 20–24, 2026 | All | Unknown | <a href="https://csaic-hackaithon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Hack Western 13 | Hack Western | Ronald D. Schmeichel Building | In-Person | Nov 20–22, 2026 | All | Unknown | <a href="https://hack-western-13.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
+| HER:200 Hackathon | Girls Who Code Lehman College | East Dinning Hall (Music Building) | In-Person | Nov 20, 2026 | All | Unknown | <a href="https://her-200-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | rookie hacks | IBM | Helsinki | In-Person | Nov 20, 2026 | All | $50,000 | <a href="https://rookie-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | BostonHacks 2026 | BostonHacks | Boston University | In-Person | Nov 21–22, 2026 | All | $3,500 | <a href="https://bostonhacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Cutie Hack 2026 | ACM at UCR | UC Riverside - Winston Chung Hall | In-Person | Nov 21, 2026 | All | Unknown | <a href="https://cutie-hack-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
