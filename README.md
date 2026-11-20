@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->636 hackathons tracked<!-- /STATS -->
+<!-- STATS -->637 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -18,7 +18,6 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Diwali Festiverse: The Agent-to-Agent Hackathon (India Edition) | hidevs | OJone Building, Bengaluru. | In-Person | Nov 17–24, 2026 | All | $900 | <a href="https://theagent-to-agent-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | OBSCURA: Satellite AI Research Challenge | BTAJI CREW | Virtual | Virtual | Nov 18–24, 2026 | All | $50 | <a href="https://obscura.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | SMBP FinHack | Small Money, Big Plan | Virtual | Virtual | Nov 18–20, 2026 | All | Unknown | <a href="https://smbp-finhack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
-| FCA Hacks | Bits&Code | Virtual | Virtual | Nov 19, 2026 | All | Unknown | <a href="https://lis-hack-day.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | Free AWS Courses & Certifications for Students – NASSCOM Initiative | shekunj | REMOTE | In-Person | Nov 19–26, 2026 | All | Unknown | <a href="https://free-aws-courses.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Pixelforge | Dayananda sagar academy of technology an | Dayananda sagar academy | In-Person | Nov 19–20, 2026 | All | Unknown | <a href="https://pixel-forge-gamethon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | TUM XR Value Creation Hackathon 2026 | Technical University of Munich | Virtual | Virtual | Nov 19–21, 2026 | All | Unknown | <a href="https://tum-xr-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
@@ -61,6 +60,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Ryze Hacks 2026 | ryze | Virtual | Virtual | Dec 10–18, 2026 | All | Unknown | <a href="https://ryzehacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | hack::peel 2026 | Absolute Robotics #4308 | The Woodlands Secondary School | In-Person | Dec 12–13, 2026 | All | Unknown | <a href="https://hack-peel.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | OVO Hack 48 | Ovo Talent | Virtual | Virtual | Dec 18–20, 2026 | All | Unknown | <a href="https://ovo-hack-48.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
+| CodeTheCure Winter Hackathon | CodeTheCure | Virtual | Virtual | Dec 19, 2026 – Jan 6, 2027 | All | Unknown | <a href="https://codethecure-winter-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Vibe Code Animated Maps | Mappi Studio | South Plainfield Library | In-Person | Dec 20, 2026 | All | Unknown | <a href="https://vibecode-animated-maps.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | HackTheCure | HackTheCure | Virtual | Virtual | Dec 27, 2026 – Jan 3, 2027 | All | Unknown | <a href="https://hackthecure.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | evensonarisnord | HoustonHacks2026 | Virtual | Virtual | Dec 31, 2026 | All | $150 | <a href="https://evensonarisnord.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
@@ -87,6 +87,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 <!-- TABLE_START past -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
 | --------- | --------- | -------- | ---- | ----- | ------- | ----- | ----- | ----- |
+| FCA Hacks | Bits&Code | Virtual | Virtual | Nov 19, 2026 | All | Unknown | <a href="https://lis-hack-day.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | RAMHACK Mini 2026 | Fordham University | Fordham University at Lincoln Center | In-Person | Nov 18, 2026 | All | $470 | <a href="https://ramhack-mini-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | HudHackHer 2026 | University of Huddersfield | Study Mill, Haslett Building | In-Person | Nov 18, 2026 | All | Unknown | <a href="https://hudhackher.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 18 |
 | Bharat Builds Tour | Hackers Unity | jaipur | In-Person | Nov 16–17, 2026 | All | Unknown | <a href="https://bharat-builds-tour.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |

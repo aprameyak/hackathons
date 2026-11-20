@@ -7584,6 +7584,18 @@
     "date_added": "2026-11-16"
   },
   {
+    "name": "CodeTheCure Winter Hackathon",
+    "organizer": "CodeTheCure",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-12-19",
+    "end_date": "2027-01-06",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://codethecure-winter-hackathon.devpost.com/",
+    "date_added": "2026-11-20"
+  },
+  {
     "name": "Vibe Code Animated Maps",
     "organizer": "Mappi Studio",
     "location": "South Plainfield Library",
