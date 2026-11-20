@@ -7356,6 +7356,18 @@
     "date_added": "2026-11-14"
   },
   {
+    "name": "STEM Innovation Challenge 2026",
+    "organizer": "Global STEM Innovation Initiative",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-11-24",
+    "end_date": "2026-11-27",
+    "open_to": "All",
+    "prize_pool": "$200",
+    "url": "https://stem-innovation-challenge-2026.devpost.com/",
+    "date_added": "2026-11-20"
+  },
+  {
     "name": "LooHacks",
     "organizer": "AWS Student Builder Group - WLU",
     "location": "Spur Innovation Center - SPUR Campus",

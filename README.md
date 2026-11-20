@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->638 hackathons tracked<!-- /STATS -->
+<!-- STATS -->639 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -40,6 +40,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | WoHack | Queen Mary Computer Science Society | Queen Mary University of london | In-Person | Nov 21, 2026 | All | Unknown | <a href="https://wohack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Creator Economy Hack - powered by You.com | localhost-nyc | Whop HQ | In-Person | Nov 22, 2026 | All | $500 | <a href="https://creator-economy-you-hack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | test | Nutech, Islamabad | NUTECH Main Campus | In-Person | Nov 23–24, 2026 | All | Unknown | <a href="https://nutech-hackfest-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
+| STEM Innovation Challenge 2026 | Global STEM Innovation Initiative | Virtual | Virtual | Nov 24–27, 2026 | All | $200 | <a href="https://stem-innovation-challenge-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Westside High School Build Challenge | Westside Coding Club | Westside High School | In-Person | Nov 24 – Dec 1, 2026 | All | Unknown | <a href="https://whs-build.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | K-Dub Hacks | AWS Student Builders Group - Laurier | Spur Innovation Center | In-Person | Nov 27–29, 2026 | All | Unknown | <a href="https://k-dub-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | LooHacks | AWS Student Builder Group - WLU | Spur Innovation Center - SPUR Campus | In-Person | Nov 27–29, 2026 | All | Unknown | <a href="https://loohacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
