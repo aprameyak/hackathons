@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->639 hackathons tracked<!-- /STATS -->
+<!-- STATS -->640 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -36,6 +36,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Global AI Builder’s Challenge | Refactor The World | Virtual | Virtual | Nov 21–28, 2026 | All | Unknown | <a href="https://global-ai-builders-challenge.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Nerdearla Vibeathon by Devin | Nerdearla | Amazon CDMX (Puerta Polanco) | In-Person | Nov 21, 2026 | All | Unknown | <a href="https://vibeathon-mexico-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | START Hack League Munich 2026 | START Munich | TUM Audimax | In-Person | Nov 21–22, 2026 | All | Unknown | <a href="https://start-hack-league-munich-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
+| Tech For Community 2026 | TecNurtur | Memorial University of Newfoundland | In-Person | Nov 21, 2026 | All | Unknown | <a href="https://tfc26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | WHACK | MLH | Lulu Chow Wang Campus Center | In-Person | Nov 21–22, 2026 | All | Unknown | <a href="https://wellesleyhack-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | WoHack | Queen Mary Computer Science Society | Queen Mary University of london | In-Person | Nov 21, 2026 | All | Unknown | <a href="https://wohack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | Creator Economy Hack - powered by You.com | localhost-nyc | Whop HQ | In-Person | Nov 22, 2026 | All | $500 | <a href="https://creator-economy-you-hack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
