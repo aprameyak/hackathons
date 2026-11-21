@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->651 hackathons tracked<!-- /STATS -->
+<!-- STATS -->652 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -65,6 +65,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Arioron Think 2026 | Arioron | Virtual | Virtual | Dec 10–17, 2026 | All | Unknown | <a href="https://arioron-think-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | Ryze Hacks 2026 | ryze | Virtual | Virtual | Dec 10–18, 2026 | All | Unknown | <a href="https://ryzehacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | hack::peel 2026 | Absolute Robotics #4308 | The Woodlands Secondary School | In-Person | Dec 12–13, 2026 | All | Unknown | <a href="https://hack-peel.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
+| Syntax Hacks 2026 | Syntax Hacks Team | Virtual | Virtual | Dec 14, 2026 – Jan 17, 2027 | All | Unknown | <a href="https://syntax-hacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | OVO Hack 48 | Ovo Talent | Virtual | Virtual | Dec 18–20, 2026 | All | Unknown | <a href="https://ovo-hack-48.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | CodeTheCure Winter Hackathon | CodeTheCure | Virtual | Virtual | Dec 19, 2026 – Jan 6, 2027 | All | Unknown | <a href="https://codethecure-winter-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Vibe Code Animated Maps | Mappi Studio | South Plainfield Library | In-Person | Dec 20, 2026 | All | Unknown | <a href="https://vibecode-animated-maps.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
