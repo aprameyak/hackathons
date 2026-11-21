@@ -7188,6 +7188,18 @@
     "date_added": "2026-11-20"
   },
   {
+    "name": "CyberDerby",
+    "organizer": "UCSI Information Technology Club",
+    "location": "Bangladesh",
+    "mode": "In-Person",
+    "start_date": "2026-11-20",
+    "end_date": "2026-11-21",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://cyberderby.devpost.com/",
+    "date_added": "2026-11-21"
+  },
+  {
     "name": "DevFest M\u00fcnster 2026: Agentic AI Hackathon",
     "organizer": "GDG M\u00fcnster",
     "location": "Volkshochschule",
