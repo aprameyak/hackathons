@@ -636,7 +636,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | BellHacks | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://bellhacks.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | CrabHacks | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | 🔒 | Sep 3 |
 | Hack the Ridge | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://hacktheridge.ca" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
-| East Bay Hackers Winter Edition | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://eastbayhackers.club" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| East Bay Hackers Winter Edition | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | 🔒 | Sep 3 |
 | Code for Impact | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://codeforimpact.dev" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Hoobit Ideathon | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://ideathon.hoobit.org/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Synthax | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | 🔒 | Sep 3 |
