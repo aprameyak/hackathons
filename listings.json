@@ -7788,6 +7788,18 @@
     "date_added": "2026-11-21"
   },
   {
+    "name": "United Hacks V8",
+    "organizer": "Hack United",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2027-01-08",
+    "end_date": "2027-01-10",
+    "open_to": "All",
+    "prize_pool": "$18,700",
+    "url": "https://unitedhacksv8.devpost.com/",
+    "date_added": "2026-11-21"
+  },
+  {
     "name": "TreeHacks",
     "organizer": "Stanford University",
     "location": "Stanford, CA",
