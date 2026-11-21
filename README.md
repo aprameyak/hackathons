@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->652 hackathons tracked<!-- /STATS -->
+<!-- STATS -->653 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -73,6 +73,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | evensonarisnord | HoustonHacks2026 | Virtual | Virtual | Dec 31, 2026 | All | $150 | <a href="https://evensonarisnord.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | checkpoint 1 — games for good | Checkpoint | Virtual | Virtual | Jan 8–10, 2027 | All | $11,960 | <a href="https://checkpoint-1.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | United Hacks V8 | Hack United | Virtual | Virtual | Jan 8–10, 2027 | All | $18,700 | <a href="https://unitedhacksv8.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
+| HackStorm 3.0: Sense, Think and Act | HackStorm | San Francisco, California, USA | In-Person | Jan 15–17, 2027 | All | $5,200 | <a href="https://hackstorm3.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | TreeHacks | Stanford University | Stanford, CA | In-Person | Feb 14–16, 2027 | College | Unknown | <a href="https://treehacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Agent Builders Hackathon | Omnara | Primitive Office | In-Person | Dates TBA | All | Unknown | <a href="https://agent-builders-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Oct 24 |
 | Almaden Hacks | Hack Club | Virtual | Virtual | Dates TBA | High School | Unknown | <a href="https://almadenhacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 3 |
