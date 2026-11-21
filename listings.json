@@ -7656,6 +7656,18 @@
     "date_added": "2026-11-16"
   },
   {
+    "name": "Hackstead: Winterfest",
+    "organizer": "Hackstead",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-12-06",
+    "end_date": "2026-12-20",
+    "open_to": "All",
+    "prize_pool": "$430",
+    "url": "https://hackstead.devpost.com/",
+    "date_added": "2026-11-21"
+  },
+  {
     "name": "Arioron Think 2026",
     "organizer": "Arioron",
     "location": "Virtual",
