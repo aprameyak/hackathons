@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->648 hackathons tracked<!-- /STATS -->
+<!-- STATS -->649 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -46,6 +46,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | KickStart 2026 | BizTech | UBC Sauder (Demo Day) | In-Person | Nov 26–30, 2026 | All | Unknown | <a href="https://kickstart-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | K-Dub Hacks | AWS Student Builders Group - Laurier | Spur Innovation Center | In-Person | Nov 27–29, 2026 | All | Unknown | <a href="https://k-dub-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | LooHacks | AWS Student Builder Group - WLU | Spur Innovation Center - SPUR Campus | In-Person | Nov 27–29, 2026 | All | Unknown | <a href="https://loohacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
+| Agents that act. Systems that answer. | studentchakra | Virtual | Virtual | Nov 28 – Dec 1, 2026 | All | Unknown | <a href="https://accountable-agents.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | Blackout 2026 | buildicy | Coimbatore , TamilNadu | In-Person | Nov 28, 2026 | All | $5,000 | <a href="https://blackout-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Build Day 2 | Durham College | Durham University, Entrepreneurs Durham | In-Person | Nov 28, 2026 | All | Unknown | <a href="https://build-day.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Hackathon 2026 | Deutsche Telekom IT Solutions Slovakia | Technical University of Košice - Library | In-Person | Nov 28–29, 2026 | All | Unknown | <a href="https://dtit-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
