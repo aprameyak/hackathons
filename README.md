@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->643 hackathons tracked<!-- /STATS -->
+<!-- STATS -->644 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -40,6 +40,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | test | Nutech, Islamabad | NUTECH Main Campus | In-Person | Nov 23–24, 2026 | All | Unknown | <a href="https://nutech-hackfest-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | STEM Innovation Challenge 2026 | Global STEM Innovation Initiative | Virtual | Virtual | Nov 24–27, 2026 | All | $200 | <a href="https://stem-innovation-challenge-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Westside High School Build Challenge | Westside Coding Club | Westside High School | In-Person | Nov 24 – Dec 1, 2026 | All | Unknown | <a href="https://whs-build.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
+| KickStart 2026 | BizTech | UBC Sauder (Demo Day) | In-Person | Nov 26–30, 2026 | All | Unknown | <a href="https://kickstart-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | K-Dub Hacks | AWS Student Builders Group - Laurier | Spur Innovation Center | In-Person | Nov 27–29, 2026 | All | Unknown | <a href="https://k-dub-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | LooHacks | AWS Student Builder Group - WLU | Spur Innovation Center - SPUR Campus | In-Person | Nov 27–29, 2026 | All | Unknown | <a href="https://loohacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Blackout 2026 | buildicy | Coimbatore , TamilNadu | In-Person | Nov 28, 2026 | All | $5,000 | <a href="https://blackout-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |

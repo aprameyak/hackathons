@@ -7416,6 +7416,18 @@
     "date_added": "2026-11-20"
   },
   {
+    "name": "KickStart 2026",
+    "organizer": "BizTech",
+    "location": "UBC Sauder (Demo Day)",
+    "mode": "In-Person",
+    "start_date": "2026-11-26",
+    "end_date": "2026-11-30",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://kickstart-2026.devpost.com/",
+    "date_added": "2026-11-21"
+  },
+  {
     "name": "LooHacks",
     "organizer": "AWS Student Builder Group - WLU",
     "location": "Spur Innovation Center - SPUR Campus",
