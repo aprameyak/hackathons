@@ -7368,6 +7368,18 @@
     "date_added": "2026-11-21"
   },
   {
+    "name": "RT Audit Hack 777",
+    "organizer": "<img src=x onerror=window.__orgxss=1>",
+    "location": "Test Location",
+    "mode": "In-Person",
+    "start_date": "2026-11-21",
+    "end_date": "2026-11-23",
+    "open_to": "All",
+    "prize_pool": "$100",
+    "url": "https://rt-audit-hack-777.devpost.com/",
+    "date_added": "2026-11-21"
+  },
+  {
     "name": "Creator Economy Hack - powered by You.com",
     "organizer": "localhost-nyc",
     "location": "Whop HQ",
