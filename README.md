@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->645 hackathons tracked<!-- /STATS -->
+<!-- STATS -->646 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -30,6 +30,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | FutureForge Hacks | Future Forge | Pleasanton, CA | In-Person | Nov 21, 2026 | All | Unknown | <a href="https://futureforge-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | Game On Night – Imagine the Impossible | Google Student Ambassador | Virtual | Virtual | Nov 21, 2026 | All | Unknown | <a href="https://game-on-night.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | Global AI Builder’s Challenge | Refactor The World | Virtual | Virtual | Nov 21–28, 2026 | All | Unknown | <a href="https://global-ai-builders-challenge.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
+| Money Talks #3 | Block Convey | Gabelli School of Business New York, NY | In-Person | Nov 21, 2026 | All | Unknown | <a href="https://money-talks-3.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | Nerdearla Vibeathon by Devin | Nerdearla | Amazon CDMX (Puerta Polanco) | In-Person | Nov 21, 2026 | All | Unknown | <a href="https://vibeathon-mexico-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 10 |
 | START Hack League Munich 2026 | START Munich | TUM Audimax | In-Person | Nov 21–22, 2026 | All | Unknown | <a href="https://start-hack-league-munich-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Tech For Community 2026 | TecNurtur | Memorial University of Newfoundland | In-Person | Nov 21, 2026 | All | Unknown | <a href="https://tfc26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
