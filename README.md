@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->644 hackathons tracked<!-- /STATS -->
+<!-- STATS -->645 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -22,6 +22,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | CyberDerby | UCSI Information Technology Club | Bangladesh | In-Person | Nov 20–21, 2026 | All | Unknown | <a href="https://cyberderby.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | Hack Western 13 | Hack Western | Ronald D. Schmeichel Building | In-Person | Nov 20–22, 2026 | All | Unknown | <a href="https://hack-western-13.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | TUJ Fall 2026 Hackathon | TUJ Computer Science Academic Society | Temple University Japan, City Campus | In-Person | Nov 20–22, 2026 | All | Unknown | <a href="https://tuj-fall-2026-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
+| BiokindxUBSA 2026 Datathon | Biokind Analytics | Virtual | Virtual | Nov 21, 2026 | All | Unknown | <a href="https://biokindxubsa-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | BostonHacks 2026 | BostonHacks | Boston University | In-Person | Nov 21–22, 2026 | All | $3,500 | <a href="https://bostonhacks-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
 | Cutie Hack 2026 | ACM at UCR | UC Riverside - Winston Chung Hall | In-Person | Nov 21, 2026 | All | Unknown | <a href="https://cutie-hack-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | DevFest Münster 2026: Agentic AI Hackathon | GDG Münster | Volkshochschule | In-Person | Nov 21, 2026 | All | Unknown | <a href="https://devfest-ai-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
