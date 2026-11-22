@@ -7428,6 +7428,18 @@
     "date_added": "2026-11-21"
   },
   {
+    "name": "McGill CodeJam 16",
+    "organizer": "McGill ECSE",
+    "location": "McGill University Trottier Building",
+    "mode": "In-Person",
+    "start_date": "2026-11-22",
+    "end_date": "2026-11-22",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://mcgill-codejam-16.devpost.com/",
+    "date_added": "2026-11-22"
+  },
+  {
     "name": "test",
     "organizer": "Nutech, Islamabad",
     "location": "NUTECH Main Campus",
