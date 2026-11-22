@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->657 hackathons tracked<!-- /STATS -->
+<!-- STATS -->658 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -30,6 +30,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Engineering Without Limits | Engineering Without Limits | Virtual | Virtual | Nov 22–24, 2026 | All | Unknown | <a href="https://engineering-without-limits.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | McGill CodeJam 16 | McGill ECSE | McGill University Trottier Building | In-Person | Nov 22, 2026 | All | Unknown | <a href="https://mcgill-codejam-16.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | Acodemic X KeebsforWater Global SDG Hackathon | Hack Club | Virtual | Virtual | Nov 23–30, 2026 | All | $35 | <a href="https://hackathon-draft-32215.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
+| Global Perceive Drawing Challenge | Perceive | Virtual | Virtual | Nov 23 – Dec 20, 2026 | All | $50 | <a href="https://perceive-drawing-challenge.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | test | Nutech, Islamabad | NUTECH Main Campus | In-Person | Nov 23–24, 2026 | All | Unknown | <a href="https://nutech-hackfest-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | STEM Innovation Challenge 2026 | Global STEM Innovation Initiative | Virtual | Virtual | Nov 24–27, 2026 | All | $200 | <a href="https://stem-innovation-challenge-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Westside High School Build Challenge | Westside Coding Club | Westside High School | In-Person | Nov 24 – Dec 1, 2026 | All | Unknown | <a href="https://whs-build.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |

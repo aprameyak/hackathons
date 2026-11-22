@@ -7464,6 +7464,18 @@
     "date_added": "2026-11-22"
   },
   {
+    "name": "Global Perceive Drawing Challenge",
+    "organizer": "Perceive",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-11-23",
+    "end_date": "2026-12-20",
+    "open_to": "All",
+    "prize_pool": "$50",
+    "url": "https://perceive-drawing-challenge.devpost.com/",
+    "date_added": "2026-11-22"
+  },
+  {
     "name": "Westside High School Build Challenge",
     "organizer": "Westside Coding Club",
     "location": "Westside High School",
