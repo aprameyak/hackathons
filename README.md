@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->659 hackathons tracked<!-- /STATS -->
+<!-- STATS -->660 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -42,6 +42,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Build Day 2 | Durham College | Durham University, Entrepreneurs Durham | In-Person | Nov 28, 2026 | All | Unknown | <a href="https://build-day.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Hackathon 2026 | Deutsche Telekom IT Solutions Slovakia | Technical University of Košice - Library | In-Person | Nov 28–29, 2026 | All | Unknown | <a href="https://dtit-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Project-ZH Hack Day | Project-ZH | Innoland Incubation Center, Baku | In-Person | Nov 28, 2026 | All | Unknown | <a href="https://project-zh.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
+| HACKRISE'26 | Mulearn MBCCET | Virtual | Virtual | Nov 29, 2026 – Jan 31, 2027 | All | Unknown | <a href="https://hackrise-26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | The Dawn of Superintelligence \| Kaya AI Grand Challenge | Kaya AI | Mumbai | In-Person | Nov 29 – Dec 6, 2026 | All | $3,000 | <a href="https://kaya-ai-grand-challenge.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | 305 CodeFest Edition December 2026 — 305Hackathons.vercel.app | COLORSTACKatFIU | Virtual | Virtual | Dec 1–31, 2026 | All | Unknown | <a href="https://305codefestdec2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | FRONTIER//26 | LoveHack | Virtual | Virtual | Dec 4–11, 2026 | All | Unknown | 🔒 | Nov 14 |
