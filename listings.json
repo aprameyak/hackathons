@@ -7992,6 +7992,18 @@
     "date_added": "2026-11-22"
   },
   {
+    "name": "NSH @RPI 2027",
+    "organizer": "NSBE-SHPE RPI",
+    "location": "RPI DCC ",
+    "mode": "In-Person",
+    "start_date": "2027-01-30",
+    "end_date": "2027-01-31",
+    "open_to": "All",
+    "prize_pool": "$3,600",
+    "url": "https://nsh-rpi-2027.devpost.com/",
+    "date_added": "2026-11-24"
+  },
+  {
     "name": "TreeHacks",
     "organizer": "Stanford University",
     "location": "Stanford, CA",
