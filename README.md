@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->664 hackathons tracked<!-- /STATS -->
+<!-- STATS -->665 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -56,6 +56,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Vibe Code Animated Maps | Mappi Studio | South Plainfield Library | In-Person | Dec 20, 2026 | All | Unknown | <a href="https://vibecode-animated-maps.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | HackTheCure | HackTheCure | Virtual | Virtual | Dec 27, 2026 – Jan 3, 2027 | All | Unknown | <a href="https://hackthecure.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | evensonarisnord | HoustonHacks2026 | Virtual | Virtual | Dec 31, 2026 | All | $150 | <a href="https://evensonarisnord.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
+| Steel City Codes Healthcare Hackathon | Steel City Codes | Virtual | Virtual | Jan 1–15, 2027 | All | Unknown | <a href="https://scc-healthcare-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | checkpoint 1 — games for good | Checkpoint | Virtual | Virtual | Jan 8–10, 2027 | All | $11,960 | <a href="https://checkpoint-1.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | United Hacks V8 | Hack United | Virtual | Virtual | Jan 8–10, 2027 | All | $18,700 | <a href="https://unitedhacksv8.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | HackStorm 3.0: Sense, Think and Act | HackStorm | San Francisco, California, USA | In-Person | Jan 15–17, 2027 | All | $5,200 | <a href="https://hackstorm3.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
