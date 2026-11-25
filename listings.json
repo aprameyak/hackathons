@@ -7908,6 +7908,18 @@
     "date_added": "2026-11-15"
   },
   {
+    "name": "CrackleHacks",
+    "organizer": "Deific Studios",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-12-20",
+    "end_date": "2026-12-30",
+    "open_to": "All",
+    "prize_pool": "$20",
+    "url": "https://cracklehacks.devpost.com/",
+    "date_added": "2026-11-25"
+  },
+  {
     "name": "HackTheCure",
     "organizer": "HackTheCure",
     "location": "Virtual",
