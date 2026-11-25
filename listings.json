@@ -7560,6 +7560,18 @@
     "date_added": "2026-11-23"
   },
   {
+    "name": "thanksgiving thank you hackathon",
+    "organizer": "shrimat koti",
+    "location": "Virtual",
+    "mode": "Virtual",
+    "start_date": "2026-11-27",
+    "end_date": "2026-12-01",
+    "open_to": "All",
+    "prize_pool": "Unknown",
+    "url": "https://thanksgiving-hackathon.devpost.com/",
+    "date_added": "2026-11-25"
+  },
+  {
     "name": "Project-ZH Hack Day",
     "organizer": "Project-ZH",
     "location": "Innoland Incubation Center, Baku",
