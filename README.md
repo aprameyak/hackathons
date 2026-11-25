@@ -563,7 +563,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | DiamondHacks | UC San Diego | San Diego, CA | In-Person | Dates TBA | College | Unknown | <a href="https://diamondhacks.acmucsd.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | HackDavis | UC Davis | Davis, CA | In-Person | Dates TBA | College | Unknown | 🔒 | Sep 3 |
 | HackMerced | UC Merced | Merced, CA | In-Person | Dates TBA | College | Unknown | <a href="https://hackmerced.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
-| CruzHacks | UC Santa Cruz | Santa Cruz, CA | In-Person | Dates TBA | College | Unknown | <a href="https://cruzhacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| CruzHacks | UC Santa Cruz | Santa Cruz, CA | In-Person | Dates TBA | College | Unknown | 🔒 | Sep 3 |
 | HackUCI | UC Irvine | Irvine, CA | In-Person | Dates TBA | College | Unknown | <a href="https://hack.ics.uci.edu" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | SBHacks | UC Santa Barbara | Santa Barbara, CA | In-Person | Dates TBA | College | Unknown | <a href="https://sbhacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | DubHacks | University of Washington | Seattle, WA | In-Person | Dates TBA | College | Unknown | <a href="https://dubhacks.co" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
@@ -572,10 +572,10 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | QHacks | Queen's University | Kingston, ON | In-Person | Dates TBA | College | Unknown | <a href="https://qhacks.io" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | nwHacks | UBC | Vancouver, BC | In-Person | Dates TBA | College | Unknown | <a href="https://nwhacks.io" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | DeltaHacks | McMaster University | Hamilton, ON | In-Person | Dates TBA | College | Unknown | <a href="https://deltahacks.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
-| ETHGlobal NYC | ETHGlobal | New York, NY | In-Person | Dates TBA | All | Unknown | <a href="https://ethglobal.com/events/newyork2026" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| ETHGlobal NYC | ETHGlobal | New York, NY | In-Person | Dates TBA | All | Unknown | 🔒 | Sep 3 |
 | ETHGlobal San Francisco | ETHGlobal | San Francisco, CA | In-Person | Dates TBA | All | Unknown | 🔒 | Sep 3 |
-| ETHGlobal Brussels | ETHGlobal | Brussels, Belgium | In-Person | Dates TBA | All | Unknown | <a href="https://ethglobal.com/events/brussels" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
-| ETHGlobal Bangkok | ETHGlobal | Bangkok, Thailand | In-Person | Dates TBA | All | Unknown | <a href="https://ethglobal.com/events/bangkok" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
+| ETHGlobal Brussels | ETHGlobal | Brussels, Belgium | In-Person | Dates TBA | All | Unknown | 🔒 | Sep 3 |
+| ETHGlobal Bangkok | ETHGlobal | Bangkok, Thailand | In-Person | Dates TBA | All | Unknown | 🔒 | Sep 3 |
 | AWS Build On | Amazon Web Services | Virtual | Virtual | Dates TBA | All | Unknown | 🔒 | Sep 3 |
 | Google Solution Challenge | Google | Virtual | Virtual | Dates TBA | College | Unknown | <a href="https://developers.google.com/community/gdsc-solution-challenge" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
 | Microsoft Imagine Cup | Microsoft | Virtual | Hybrid | Dates TBA | College | Unknown | <a href="https://imaginecup.microsoft.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Sep 3 |
