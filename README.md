@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->670 hackathons tracked<!-- /STATS -->
+<!-- STATS -->671 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -42,6 +42,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Revolution | Hack Club Monterrey and High Coders MTY | Museo Del Acero Horno 3 | In-Person | Dec 5–6, 2026 | All | Unknown | <a href="https://revolution-mty2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | VisionHacks | Inference Labs | Oakville, Canada | In-Person | Dec 5, 2026 | All | Unknown | <a href="https://visionhacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | Hackstead: Winterfest | Hackstead | Virtual | Virtual | Dec 6–20, 2026 | All | $430 | <a href="https://hackstead.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
+| TechArenaX Vibe Coding Challenge — Season 01 | TecharenaX | Virtual | Virtual | Dec 6–9, 2026 | All | $50 | <a href="https://techarenax-vcc-s01.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 26 |
 | Arioron Think 2026 | Arioron | Virtual | Virtual | Dec 10–17, 2026 | All | Unknown | <a href="https://arioron-think-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | Ryze Hacks 2026 | ryze | Virtual | Virtual | Dec 10–18, 2026 | All | Unknown | <a href="https://ryzehacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
 | hack::peel 2026 | Absolute Robotics #4308 | The Woodlands Secondary School | In-Person | Dec 12–13, 2026 | All | Unknown | <a href="https://hack-peel.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 15 |
