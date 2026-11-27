@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->673 hackathons tracked<!-- /STATS -->
+<!-- STATS -->674 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -23,6 +23,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | thanksgiving thank you hackathon | shrimat koti | Virtual | Virtual | Nov 27 – Dec 1, 2026 | All | Unknown | <a href="https://thanksgiving-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | Zero-G Hacks | Zero-G CAD | Virtual | Virtual | Nov 27–30, 2026 | All | $120 | <a href="https://zero-g-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Agents that act. Systems that answer. | studentchakra | Virtual | Virtual | Nov 28 – Dec 1, 2026 | All | Unknown | <a href="https://accountable-agents.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
+| Alan x Qovery x AWS: AI Health Hack 2 | Alan | Alan HQ | In-Person | Nov 28, 2026 | All | Unknown | <a href="https://ai-health-hack-2.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 27 |
 | Blackout 2026 | buildicy | Coimbatore , TamilNadu | In-Person | Nov 28, 2026 | All | $5,000 | <a href="https://blackout-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Build AI on Kaspa | GDG EPITA | EPITA Kremlin-Bicêtre | In-Person | Nov 28, 2026 | All | Unknown | <a href="https://build-ai-on-kaspa.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 27 |
 | Build Day 2 | Durham College | Durham University, Entrepreneurs Durham | In-Person | Nov 28, 2026 | All | Unknown | <a href="https://build-day.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
