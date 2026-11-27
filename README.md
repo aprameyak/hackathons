@@ -4,12 +4,11 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->671 hackathons tracked<!-- /STATS -->
+<!-- STATS -->672 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
 | --------- | --------- | -------- | ---- | ----- | ------- | ----- | ----- | ----- |
-| Free AWS Courses & Certifications for Students – NASSCOM Initiative | shekunj | REMOTE | In-Person | Nov 19–26, 2026 | All | Unknown | <a href="https://free-aws-courses.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | Global AI Builder’s Challenge | Refactor The World | Virtual | Virtual | Nov 21–28, 2026 | All | Unknown | <a href="https://global-ai-builders-challenge.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | AlgoConnect Quantathon - 2026 | AlgoConnect x QUARCC | AlgoConnect - Montréal Offices | In-Person | Nov 22–28, 2026 | All | $700 | <a href="https://algoconnect-quantathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | DIU Dev Meetup 2026 | Data Science Club @ DIU | Virtual | Virtual | Nov 22–30, 2026 | All | Unknown | <a href="https://diu-devthon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
@@ -20,6 +19,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | KickStart 2026 | BizTech | UBC Sauder (Demo Day) | In-Person | Nov 26–30, 2026 | All | Unknown | <a href="https://kickstart-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | K-Dub Hacks | AWS Student Builders Group - Laurier | Spur Innovation Center | In-Person | Nov 27–29, 2026 | All | Unknown | <a href="https://k-dub-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | LooHacks | AWS Student Builder Group - WLU | Spur Innovation Center - SPUR Campus | In-Person | Nov 27–29, 2026 | All | Unknown | <a href="https://loohacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
+| Mosque & Madrassah Hackathon 2026 | Faith Associates | Thistle London Heathrow Terminal 5 | In-Person | Nov 27–29, 2026 | All | Unknown | <a href="https://mosque-expo-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 27 |
 | thanksgiving thank you hackathon | shrimat koti | Virtual | Virtual | Nov 27 – Dec 1, 2026 | All | Unknown | <a href="https://thanksgiving-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 25 |
 | Zero-G Hacks | Zero-G CAD | Virtual | Virtual | Nov 27–30, 2026 | All | $120 | <a href="https://zero-g-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 23 |
 | Agents that act. Systems that answer. | studentchakra | Virtual | Virtual | Nov 28 – Dec 1, 2026 | All | Unknown | <a href="https://accountable-agents.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
@@ -112,6 +112,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | FCA Hacks | Bits&Code | Virtual | Virtual | Nov 19, 2026 | All | Unknown | <a href="https://lis-hack-day.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 7 |
 | Pixelforge | Dayananda sagar academy of technology an | Dayananda sagar academy | In-Person | Nov 19–20, 2026 | All | Unknown | <a href="https://pixel-forge-gamethon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 13 |
 | TUM XR Value Creation Hackathon 2026 | Technical University of Munich | Virtual | Virtual | Nov 19–21, 2026 | All | Unknown | <a href="https://tum-xr-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
+| Free AWS Courses & Certifications for Students – NASSCOM Initiative | shekunj | REMOTE | In-Person | Nov 19–26, 2026 | All | Unknown | <a href="https://free-aws-courses.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 19 |
 | OBSCURA: Satellite AI Research Challenge | BTAJI CREW | Virtual | Virtual | Nov 18–24, 2026 | All | $50 | <a href="https://obscura.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | RAMHACK Mini 2026 | Fordham University | Fordham University at Lincoln Center | In-Person | Nov 18, 2026 | All | $470 | <a href="https://ramhack-mini-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | SMBP FinHack | Small Money, Big Plan | Virtual | Virtual | Nov 18–20, 2026 | All | Unknown | <a href="https://smbp-finhack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
