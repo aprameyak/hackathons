@@ -8124,6 +8124,18 @@
     "date_added": "2026-11-24"
   },
   {
+    "name": "H.A.R.D. Hack 2027",
+    "organizer": "HKN (Eta Kappa Nu)",
+    "location": "University of California - Jacobs Hall",
+    "mode": "In-Person",
+    "start_date": "2027-01-30",
+    "end_date": "2027-01-31",
+    "open_to": "All",
+    "prize_pool": "$300",
+    "url": "https://h-a-r-d-hack-2027.devpost.com/",
+    "date_added": "2026-11-28"
+  },
+  {
     "name": "TreeHacks",
     "organizer": "Stanford University",
     "location": "Stanford, CA",
