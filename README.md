@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->675 hackathons tracked<!-- /STATS -->
+<!-- STATS -->676 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -14,7 +14,6 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | DIU Dev Meetup 2026 | Data Science Club @ DIU | Virtual | Virtual | Nov 22–30, 2026 | All | Unknown | <a href="https://diu-devthon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Acodemic X KeebsforWater Global SDG Hackathon | Hack Club | Virtual | Virtual | Nov 23–30, 2026 | All | $35 | <a href="https://hackathon-draft-32215.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | Global Perceive Drawing Challenge | Perceive | Virtual | Virtual | Nov 23 – Dec 20, 2026 | All | $50 | <a href="https://perceive-drawing-challenge.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
-| STEM Innovation Challenge 2026 | Global STEM Innovation Initiative | Virtual | Virtual | Nov 24–27, 2026 | All | $200 | <a href="https://stem-innovation-challenge-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | Westside High School Build Challenge | Westside Coding Club | Westside High School | In-Person | Nov 24 – Dec 1, 2026 | All | Unknown | <a href="https://whs-build.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | KickStart 2026 | BizTech | UBC Sauder (Demo Day) | In-Person | Nov 26–30, 2026 | All | Unknown | <a href="https://kickstart-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 21 |
 | K-Dub Hacks | AWS Student Builders Group - Laurier | Spur Innovation Center | In-Person | Nov 27–29, 2026 | All | Unknown | <a href="https://k-dub-hacks.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
@@ -31,6 +30,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Project-ZH Hack Day | Project-ZH | Innoland Incubation Center, Baku | In-Person | Nov 28, 2026 | All | Unknown | <a href="https://project-zh.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | HACKRISE'26 | Mulearn MBCCET | Virtual | Virtual | Nov 29, 2026 – Jan 31, 2027 | All | Unknown | <a href="https://hackrise-26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
 | The Dawn of Superintelligence \| Kaya AI Grand Challenge | Kaya AI | Mumbai | In-Person | Nov 29 – Dec 6, 2026 | All | $3,000 | <a href="https://kaya-ai-grand-challenge.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
+| Agentic AI @ UIUC x ElevenLabs: Voice Agents Build Night | Agentic AI @ UIUC | Sunset Studio, Siebel Center for Design | In-Person | Nov 30, 2026 | All | Unknown | <a href="https://agentic-ai-elevenlabs-night.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 28 |
 | EAS5440 Technology Innovation & Entrepreneurship (Fall 2026) | University of Penn | Virtual | Virtual | Nov 30 – Dec 5, 2026 | All | Unknown | 🔒 | Nov 23 |
 | 305 CodeFest Edition December 2026 — 305Hackathons.vercel.app | COLORSTACKatFIU | Virtual | Virtual | Dec 1–31, 2026 | All | Unknown | <a href="https://305codefestdec2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | HackTheFashion Global'26 | AI SKILLS LAB KIET | Virtual | Virtual | Dec 1, 2026 – Jan 15, 2027 | All | $10,000 | <a href="https://hackthefashion-global-26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
@@ -86,6 +86,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 <!-- TABLE_START past -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
 | --------- | --------- | -------- | ---- | ----- | ------- | ----- | ----- | ----- |
+| STEM Innovation Challenge 2026 | Global STEM Innovation Initiative | Virtual | Virtual | Nov 24–27, 2026 | All | $200 | <a href="https://stem-innovation-challenge-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 20 |
 | MLH Hack Day at AITR Indore 2026 | Acropolis Institute of Technology and RC | AITR Indore | In-Person | Nov 24, 2026 | All | Unknown | <a href="https://llhhackdayindore.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | test | Nutech, Islamabad | NUTECH Main Campus | In-Person | Nov 23–24, 2026 | All | Unknown | <a href="https://nutech-hackfest-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Creator Economy Hack - powered by You.com | localhost-nyc | Whop HQ | In-Person | Nov 22, 2026 | All | $500 | <a href="https://creator-economy-you-hack.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 17 |
