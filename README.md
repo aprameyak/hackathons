@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->676 hackathons tracked<!-- /STATS -->
+<!-- STATS -->677 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -32,6 +32,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | The Dawn of Superintelligence \| Kaya AI Grand Challenge | Kaya AI | Mumbai | In-Person | Nov 29 – Dec 6, 2026 | All | $3,000 | <a href="https://kaya-ai-grand-challenge.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Agentic AI @ UIUC x ElevenLabs: Voice Agents Build Night | Agentic AI @ UIUC | Sunset Studio, Siebel Center for Design | In-Person | Nov 30, 2026 | All | Unknown | <a href="https://agentic-ai-elevenlabs-night.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 28 |
 | EAS5440 Technology Innovation & Entrepreneurship (Fall 2026) | University of Penn | Virtual | Virtual | Nov 30 – Dec 5, 2026 | All | Unknown | 🔒 | Nov 23 |
+| STEM For Tomorrow | GlobalInnovationLeague | Virtual | Virtual | Nov 30 – Dec 12, 2026 | All | Unknown | <a href="https://stem-for-tomorrow.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 28 |
 | 305 CodeFest Edition December 2026 — 305Hackathons.vercel.app | COLORSTACKatFIU | Virtual | Virtual | Dec 1–31, 2026 | All | Unknown | <a href="https://305codefestdec2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 16 |
 | HackTheFashion Global'26 | AI SKILLS LAB KIET | Virtual | Virtual | Dec 1, 2026 – Jan 15, 2027 | All | $10,000 | <a href="https://hackthefashion-global-26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
 | Zyrelyx Global AI Hackathon | Zyrelyx | Virtual | Virtual | Dec 1–7, 2026 | All | $15,000 | <a href="https://zyrelyx-global-ai-hackathon.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 24 |
