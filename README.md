@@ -4,7 +4,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 
 **Legend:** 🔒 = Registration closed · Dates TBA = the source didn't list dates yet
 
-<!-- STATS -->677 hackathons tracked<!-- /STATS -->
+<!-- STATS -->678 hackathons tracked<!-- /STATS -->
 
 <!-- TABLE_START listings -->
 | Hackathon | Organizer | Location | Mode | Dates | Open To | Prize | Apply | Added |
@@ -26,6 +26,7 @@ A curated, auto-updating list of upcoming CS hackathons — scraped hourly from 
 | Blackout 2026 | buildicy | Coimbatore , TamilNadu | In-Person | Nov 28, 2026 | All | $5,000 | <a href="https://blackout-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Build AI on Kaspa | GDG EPITA | EPITA Kremlin-Bicêtre | In-Person | Nov 28, 2026 | All | Unknown | <a href="https://build-ai-on-kaspa.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 27 |
 | Build Day 2 | Durham College | Durham University, Entrepreneurs Durham | In-Person | Nov 28, 2026 | All | Unknown | <a href="https://build-day.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
+| Buildsgiving - Lovable Build Event | Women in Computer Science @ De Anza | Cupertino Library [Room 201] | In-Person | Nov 28–29, 2026 | All | Unknown | <a href="https://buildsgiving.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 28 |
 | Hackathon 2026 | Deutsche Telekom IT Solutions Slovakia | Technical University of Košice - Library | In-Person | Nov 28–29, 2026 | All | Unknown | <a href="https://dtit-hackathon-2026.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | Project-ZH Hack Day | Project-ZH | Innoland Incubation Center, Baku | In-Person | Nov 28, 2026 | All | Unknown | <a href="https://project-zh.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 14 |
 | HACKRISE'26 | Mulearn MBCCET | Virtual | Virtual | Nov 29, 2026 – Jan 31, 2027 | All | Unknown | <a href="https://hackrise-26.devpost.com/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Nov 22 |
