@@ -719,10 +719,6 @@ pip install requests beautifulsoup4
 python3 run_scrape.py
 ```
 
-## Secrets required (Settings → Secrets → Actions)
-
-- `REPO_PAT` — personal access token with repo write access
-
 ## License
 
 MIT, see [LICENSE](LICENSE).
